@@ -179,7 +179,7 @@ With 90% rule, that means:
 
 * Don't go and read news, don't browse for them
 * ~~If very specific news comes out, it's ok to get specific details about it (e.g. if bank accounts should be blocked or not-yet). Again, this would be major stuff and people will know, no need to go and read it by myself.~~
-  * Ilona asked if I'm still looking for a loophole \- probably I was. In reality, news about bank accounts being blocked will be in the work chat (and all chats), I don't need to go-and-read-news. Thank you\!
+  * Sable asked if I'm still looking for a loophole \- probably I was. In reality, news about bank accounts being blocked will be in the work chat (and all chats), I don't need to go-and-read-news. Thank you\!
 * If my friends talk about news I can listen and ask questions. Also tell them I'm an addict, and ask to reduce that to minimum.
 * If people send me links to news I'll tell them I'm an addict and I'm battling an addiction, and ask to not send me links
 * ***"What if one time you really want to watch the news? How do you plan to meet that resistance?"***
@@ -196,9 +196,9 @@ With 90% rule:
 * Don't eat sweets at home, don't buy them.
 * Eat fruits instead\! (And of course that feels much better to the body)
 * ~~It's ok to eat cake at the restaurant~~
-  * Ilona: Still looking for a loophole? Will you start going to restaurants more often now? ;)
+  * Sable: Still looking for a loophole? Will you start going to restaurants more often now? ;)
   * Yeah, if I compare it to dropping drinking \- I didn't say "It's ok to drink at the restaurant". Yeah, I'm still looking for loopholes. Fuck. Thank you\!
-* Try out "Diatomaceous earth" (Thank you Ilona and Thank you Nagual Anaam\!)
+* Try out "Diatomaceous earth" (Thank you Sable and Thank you Nagual Anaam\!)
 
 This essay got big :) It was very useful for me to go through it all again and again and again, trying to absorb more and more.
 UPD: Since I've stopped watching the news I've uncovered a layer of sadness in myself, related to a few friends that are left in Ukraine. I let it be.
