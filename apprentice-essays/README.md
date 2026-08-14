@@ -21,5 +21,8 @@ apprentice-essays/<pseudonym>/<source-tag>-<YYYY-MM-DD>-<video-title-slug>.md
 - `vela/`
 - `sable/`
 - `yar/`
+- `holt/`
 
 Real names behind these pseudonyms are intentionally not tracked anywhere in this repo.
+
+When an apprentice is mentioned *inside* someone else's essay, their pseudonym is used in the text (e.g. `Vela`, `Wren`). Non-apprentices (partners, friends, family) are reduced to an initial (`M.`, `R.`, `K.`).
