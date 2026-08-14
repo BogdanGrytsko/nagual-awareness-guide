@@ -13,6 +13,7 @@ apprentice-essays/<pseudonym>/<source-tag>-<YYYY-MM-DD>-<video-title-slug>.md
   - `tnz-<NN>` for a numbered "TNZ video #N" (e.g. `tnz-03`)
   - `nagual-call` for an essay based on a live/transcribed call with Nagual rather than a video
   - `nagual-telegram` for a written report to Nagual over Telegram (his reply included) plus the apprentice's own reflections, where no call took place
+  - `essay` for an apprentice's own reflection or experiment, not prompted by a specific video, call or message
   - a slug of the channel/source name otherwise (e.g. `its-gods-plan`)
 - **`<YYYY-MM-DD>`** — the date the essay was written (start date, if the essay covers a date range like a heptad).
 - **`<video-title-slug>`** — a slugified version of the video's title (or the essay's own title, for non-video sources) as given in the essay header.
