@@ -14,6 +14,8 @@ Status: **designed, not yet run.** Rules frozen before scoring, as in `commitmen
 
 The study is worthless without the claim. Before scoring anyone, extract from the archive what was actually promised about SSE and on what timescale — the teacher's own statements, dated. Without that, any result is re-readable as "it takes as long as it takes", and the question dies as unfalsifiable. If no timescale was ever stated, **that is itself the finding**, and it should be reported in those words.
 
+`yar`'s recollection is that the timescales were **vague, something in the region of five to ten years**, and he notes it is currently unverifiable. That is the honest starting position, and it has a consequence worth stating in advance: on a ten-year horizon almost nobody in the group is yet due, so the only apprentices whose outcomes can be scored at all are the ones who have been in long enough — `holt` (5+ years), `vela`, `isla`, `kesh` (5 years, now gone), `fenn`, and the leavers from the 2020–22 cohort. **A vague long horizon also means the claim cannot fail during the period in which most people leave** — which is itself a structural feature worth recording rather than an accident.
+
 ## Outcome ladder
 
 Scored on money, because that is what can be checked:
@@ -41,7 +43,7 @@ Recorded per person: apprenticeship start, prior job and income where stated, da
 
 ## The fee structure, stated plainly
 
-The one unambiguously successful self-employment in this ecosystem is the teaching itself: £150 per call, ten or so apprentices, penalties of £50–£350 per missed essay, masterclasses, a book, a YouTube channel. And the money that funds it comes overwhelmingly from **apprentices' employment income** — the corporate jobs they are being urged to leave. Two of the three departures examined in `why-apprentices-leave.md` were people in arrears on those fees: one sold motorbikes to pay, one worked a call centre for six months to clear call debt.
+The one unambiguously successful self-employment in this ecosystem is the teaching itself: **£150 per hour-long call**, ten or so apprentices, penalties of £50–£350 per missed essay, masterclasses, a book, a YouTube channel. As `yar` puts it, that rate is itself the demonstration — and more so for someone who came from Bhaarat, where it is a multiple of local professional rates. And the money that funds it comes overwhelmingly from **apprentices' employment income** — the corporate jobs they are being urged to leave. Two of the three departures examined in `why-apprentices-leave.md` were people in arrears on those fees: one sold motorbikes to pay, one worked a call centre for six months to clear call debt.
 
 The fair reading has to be included: teaching is real work, a teacher charging for it is not a scandal, and there is evidence of fees being reduced for individuals — one apprentice was told his fee would halve and then become gift-based. But the structural tension is a fact and belongs in the record: **the prescription reduces the income that pays for the prescription**, and no one in the archive has ever raised that.
 
@@ -54,9 +56,13 @@ Not a result. A sketch of where the study will start, with everything here needi
 - **`vela`**: belly dance bookings, a New Year's Eve show, tantra massage at CHF-level prices — while still holding a job as of late 2025. L1 with employment.
 - **`sable`**: corporate finance in Luxembourg, art sales, a yoga teacher-training, planned personal-finance services, an apartment rented out Dec 2025, and — per `yar` — recently left the corporate job. The test case in progress; her income trajectory over the next year is the single most informative data point available.
 - **`rook`**: also recently left corporate, per `yar`.
-- **`tove`**: cookies at N$8 apiece against N$3 cost, roughly 80% of one batch sold, alongside a call-centre job taken to repay apprenticeship debt. L1.
-- **`mira`**: motorbike business with breakdowns; removed when she could not pay fees. L1 and failed.
-- **`yar`**: two IT jobs, ~$700k net worth, no SSE. L0, and the wealthiest member.
+- **`dell`**: an engineering job, two days a week, remote. That is employment, and it is what funds the household in which `tove`'s SSE was being judged. L0 with a good job.
+- **`tove`**: her actual path with heart was **African traditional healing** — she was in contact with a healer, sought a traditional healing school, and ran that thread for a year. The cookie stall was a side attempt, and the call-centre job existed to repay apprenticeship debt. So the venture she was actually pursuing is the one that produced no income at all before she was removed. L1.
+- **`mira`**: her path with heart was **woodcarving**; the motorbikes were a means of making money, not the vocation. Removed when she could not pay fees. L1 and terminated by the fee structure rather than by the venture failing.
+- **`yar`**: two IT jobs, no SSE. L0, and the largest income in the group.
+- **`arlo`**: the only apprentice the teacher has ever credited with getting rich — *"first apprentice to go from 0 to hero in terms of money"*, Sept 2022. The money came from **trading the stock market**, and he himself doubted it counted: *"I'm not actually running a business, I'm not offering my services to others… but is it, really? It certainly doesn't give me a sense of long-term stability."* He left, returned, left again, and was afterwards described as not *"charged in the correct way to pursue power"* and as a *"struggling victim"*. Full arc in `why-apprentices-leave.md`. **The flagship success is not SSE, is doubted by its own subject, and was posthumously reclassified as a spiritual failure.**
+
+Two of the three apprentices whose vocations were craft or healing — the two most clearly "path with heart" cases in the archive — were also the two removed over money.
 
 **What the sketch suggests, and what would refute it.** The pattern to test is that SSE in this group produces process milestones and occasional lump sums rather than replaced incomes, that the solvent members are solvent through employment or institutions, and that nobody has reached L4. It would be refuted by two or three apprentices at L3+ on SSE income alone, sustained over more than a year — and `sable` and `rook` leaving corporate this year is precisely the natural experiment that will show it either way.
 

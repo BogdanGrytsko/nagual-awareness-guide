@@ -64,17 +64,67 @@ There is a legitimate version of "look past the words to the idea." Here it reti
 
 ---
 
+---
+
+## Case 3 — `hale`: left without permission, and what the group did next
+
+**Span:** Dec 2020 → Apr 2022 (16 months), 871 messages. Chosen because his exit is the only one in the archive that breaks the group's procedure, which is how the procedure becomes visible.
+
+**The trigger.** On 2022-03-18, he and `dov` were put on *"escalated impeccability. Miss one more self reflection for the next 2 months and I will simply remove you from the apprenticeship no questions no warning."* He had also, by another apprentice's account, been removed from a side group shortly before. **He left one month later, on 2022-04-18, without a word.**
+
+**The reaction, in order.** The teacher's first message is not about why he left:
+
+> *"Is there another active group where everyone hangs out? 🤔 `hale`'s left and no one seems to be too bothered 🤔 I remember `sena` had started a group independent of here after running it by me. **How many ex apprentices are part of that group?** Nothing wrong with that but it's good for me to be remain informed."*
+
+He asks twice more in the next ten minutes — *"How many ex-apprentices are still hanging around this other group?"* — and delegates the count to `sena`. Two apprentices go and check the membership list of the other group and report back. `sena` describes the standing practice: *"Usually after someone goes through their farewells here, I give a few days for them to exit on their own and if they don't, then I remove them from that group too."*
+
+Then the norm is stated outright: *"I usually give anyone who leaves 24 hours to say their farewells here. `hale` chose to leave immediately without any communication which is what has made me curious."* And once it is established that he is gone from the side group too: *"Ah! That makes sense - that's why that disrespectful fool was able to leave here with impunity. The irony 😸😸"*
+
+**What this shows.** Departures are managed events with a 24-hour window, and adjacent spaces are cleared of ex-apprentices as a matter of routine — so **ex-members do not accumulate anywhere the current members can reach them.** That is the structural reason nobody in this group has ever heard a leaver's account of leaving. It is also why the archive's picture of departures is entirely composed of what was said about people after they were gone.
+
+**The eulogies.** Within hours, six apprentices posted assessments. Two are ordinary human warmth. The pattern in the rest is the group norm applied to a person: *"I am not sorry to see `hale` go… **So I will use this as an opportunity to reflect on my own self importance**"*; *"I would like to make his leaving a useful thing"*; and one apprentice reporting she had predicted it because he *"had more interest in left handed magic studies than an interest in becoming a better human."* `arlo` alone gave a substantive account — that he liked him, would have bonded with him in person, and was concerned about his defiance of the law. **Nobody asked whether the ultimatum a month earlier had anything to do with it.**
+
+## Case 4 — `arlo`: the group's one financial success story, who left twice
+
+**Span:** Dec 2020 → Dec 2022, with a four-month exit in between: 1,145 messages, 55,800 words — the most substantive contributor among the leavers. Chosen because he is the single most important case in the archive for the money question.
+
+**The disciplinary arc.**
+- **Dec 2021** — named in the group as already on the way out for unsubmitted essays: *"Brett & `arlo` are already going out. I don't want time wasters here."*
+- **Dec 2021, days later** — hunted over a political post, and told: *"Then either: 1. Move to another country like `taro` if you have half the balls 2. Seek to turn it into an advantage **3. Kill yourself and be done with it.** I made video about people like you `arlo`… "*, followed by an instruction to the newer apprentices to *"comment on what black magic you saw `arlo` cast on himself with his politics post."* The hunt is then closed with *"Excellent hunt everyone! Well done `arlo`"* and the observation that *"No change has actually occurred. NONE!"*
+- **Jan 2022** — tasked with compiling a list of "the fictional real" that *"should easily run it into the millions minimum"*, due in seven weeks.
+- **May 2022** — he leaves. The teacher's account: *"`arlo` thanked me as an apprentice for making him rich, for pointing him towards tai chi and for his renewed interest in music. **What would you thank me for if you were to leave?** 😊"* and then, as the lesson: *"Those who have this to thank the nagual for, they gain - those who are focused on everything but this will leave 👍🏽😊 **This is why `arlo` left**"* — i.e. insufficient gratitude.
+- **Sept 2022** — he comes back, and is celebrated: *"`arlo`'s broken a few records around here: **First apprentice to go from 0 to hero in terms of money.** First apprentice to come back – usually if they gown they gown 😸"*
+- **Dec 2022** — he leaves again, silently, without using the 24-hour window. His last messages are ordinary and warm: a question about chai, his Christmas plans with family, praise for another apprentice.
+- **Jan 2023** — `orin` asks *"so `arlo` is gone? May I ask what happened?"* The complete answer: *"People come and go my lovely - 🤷🏽‍♂️ **Not everyone is mentally & spiritually charged in the correct way to pursue power.** If the struggling victim runs the show, better to walk away and forget about it."*
+
+**Two exits, two incompatible explanations, both about him.** The first was insufficient gratitude; the second was being wrongly charged and a "struggling victim". Neither mentions the essay ultimatum, the hunt, or the impossible task. And the man described in January 2023 as a struggling victim is the same man described in September 2022 as the group's first apprentice to go from zero to hero with money.
+
+**Why this case decides part of the SSE question.** He is the only apprentice the teacher has ever explicitly credited with getting rich — and the money came from **trading the stock market**, not from self-employment. In his own words, two months after being celebrated for it:
+
+> *"I've not always thought about the money I've made in the stock market as SSE… I'm not actually running a business, I'm not offering my services to others. I'm just sitting in my room listening to financial and economic intellects… but is it, really? It certainly doesn't give me a sense of long-term stability nor does it give me the same sense of satisfaction as I'm sure `taro` and others feel when making something with their hands."*
+
+So the flagship financial success is (1) not self-employment, (2) doubted as such by the person who achieved it, (3) achieved by someone who had already been through a hunt telling him to consider killing himself, and (4) recategorised as a spiritual failure four months later. That is the whole SSE question in one apprentice, and it is followed up in `sse-outcomes.md`.
+
+---
+
 ## The cross-case finding
 
 **The proximate cause of departure in this archive is legible, dated, and never named by the group: a financial-penalty ultimatum over unsubmitted essays.** Traceable cases, all with the same shape — ultimatum or penalty, then an apologetic promise to reform, then exit within 1–10 weeks:
 
 - `sena`, Dec 2022: 89 days without reflections → *"By end of day today. Tomorrow if no reply - you're on a self assessment break for 3 months. If you haven't got your head straight about this by then, you're out."* She apologised, asked for 72 hours, committed to reform, was praised for *"avoiding the cleaver"* — and **that is her last message in the archive.**
-- An apprentice asked about a £50 penalty in Feb 2023 — gone within a month.
-- An apprentice told to calculate his total penalty in Nov 2023 — gone within two weeks.
-- The apprentice removed in Aug 2025 — had offered an extra £50 as a *"peace offering"* over a one-day-late essay three weeks earlier.
+- `gale`, Feb 2023: asked about a £50 penalty — gone within a month.
+- `bram`, Nov 2023: told to calculate his total penalty for missing essays "for such a long time" by end of day — gone within two weeks.
+- `naia`, Aug 2025: removed three weeks after offering an extra £50 as a *"peace offering"* over a one-day-late essay.
 - `tove`, Nov 2025 — above.
+- `hale`, Mar 2022: *"escalated impeccability… miss one more self reflection and I will simply remove you, no questions no warning"* — gone in one month, without notice.
+- `dov`, Jan 2023: *"post the details of your giving task of power for November and December by end of day tomorrow. If you don't - then I will remove you from here and you will be on a self assessment break till end of March"* — he had already stopped posting three weeks earlier and never posted again.
+- `arlo`, Dec 2021: named in the group as *"already going out"* over essays, hunted days later — left five months later, returned, left again.
 
-Against that, the explanations the group produces are **category attributes and unobservables**: age over 40; insufficient inner silence; *"choosing drama over sobriety"* and female entitlement/"Gollum Power"; *"other black apprentices suffered exactly the same fate"*; *"victim of one's own strategy."* Not one departure in the archive prompted a question about whether anything in the group's own arrangements contributed. The one apprentice who asked the nearest thing to a structural question was answered with a script.
+Against that, the explanations the group produces are **category attributes and unobservables**: age over 40; insufficient inner silence; *"choosing drama over sobriety"* and female entitlement/"Gollum Power"; *"other black apprentices suffered exactly the same fate"*; *"victim of one's own strategy"*; insufficient gratitude; *"not… charged in the correct way to pursue power"*; a *"disrespectful fool"*; more interested in *"left handed magic"* than in becoming better. **Nine departures, nine explanations, all of them properties of the person who left.** Not one prompted a question about whether anything in the group's own arrangements contributed — and in the two cases where an apprentice did ask directly (*"what can be learned from `orin`'s leaving?"*, *"so `arlo` is gone? May I ask what happened?"*) the answers were the age rule and a shrug.
+
+The nearest thing to a structural question anyone asked was about the *reasoning* in a post-mortem, and it was answered with a script the teacher supplied.
+
+**And the leavers cannot be reached.** Farewells get a 24-hour window; ex-apprentices are then cleared out of adjacent groups as routine hygiene, a practice stated plainly in `hale`'s case. So no current member has access to any leaver's own account of why they left, which is precisely why the archive's picture of departure consists entirely of what was said about people after they had gone. Anyone inside the group who wanted to check the group's explanations would have no way to do it.
 
 Note also what the essay-penalty rule selects for: it makes *written output* the condition of membership, so the people it removes are disproportionately those with the least spare time and money — and the archive of "what the apprenticeship achieves" is then written by whoever survived that filter. The survivorship problem isn't incidental to the essays; the essays are the filter.
 
