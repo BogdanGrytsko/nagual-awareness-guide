@@ -70,7 +70,28 @@ There is a legitimate version of "look past the words to the idea." Here it reti
 
 **Span:** Dec 2020 → Apr 2022 (16 months), 871 messages. Chosen because his exit is the only one in the archive that breaks the group's procedure, which is how the procedure becomes visible.
 
-**The trigger.** On 2022-03-18, he and `dov` were put on *"escalated impeccability. Miss one more self reflection for the next 2 months and I will simply remove you from the apprenticeship no questions no warning."* He had also, by another apprentice's account, been removed from a side group shortly before. **He left one month later, on 2022-04-18, without a word.**
+**The disciplinary run-up.**
+- **2022-02-15** — a post of his is dismissed as *"Irrelevant because no one cares"*, and the group is asked *"How can `hale` present it in a way that isn't passive aggressive juvenile petulance?"*
+- **2022-03-11** — *"`hale` could you remind me of any agreement we have made regarding you not having had any sessions for many many months now?"* He had stopped taking paid calls.
+- **2022-03-18** — he and `dov` are put on *"escalated impeccability. Miss one more self reflection for the next 2 months and I will simply remove you from the apprenticeship no questions no warning."*
+- **2022-04-04** — the pile-on below.
+- **2022-04-18** — he leaves without a word.
+
+**What he actually did, in full.** Another apprentice had written about receiving financial help. He replied to her, warmly:
+
+> *"The ranting is awesome, I do it for the entertainment value and the laughs I get from the people that are listening to my rants. **I am pleased to hear that your financial burden felt some relief via the help you got.** Thanks for sharing! 🙏🤘"*
+
+The phrase *"financial burden"* was identified as *"adverse magic"* — burden rather than challenge — and the response was scripted for the group:
+
+> *"Check the adverse magic here! It isn't a burden - it's a challenge. @[apprentice] - copy/paste this to him: **Fuck off `hale` - I completely reject your adverse magic description born out of the average man's ignorance and good intentions. Money is NOT a burden for me. Don't repeat this again in your dealings with me.** 😺👍🏽"*
+
+One minute later: *"In fact, **EVERYONE** copy paste the above and tag `hale` into it 😺 This will help everyone. **`hale` you too - type this here to yourself.**"*
+
+**Five apprentices posted it verbatim within four hours** — one softened it to *"Hey `hale`, fuck off, please"* — and the group then carried straight on praising each other's essays in the next messages. He was still expected to type it at himself.
+
+He left fourteen days later. The group's explanations afterwards were defiance, wanting to get rises out of people, and an interest in *"left handed magic"*. **Nobody mentioned the ultimatum, the unpaid sessions, or the pile-on that five of them had taken part in two weeks earlier** — which is the most complete example in the archive of a group producing an account of a departure that omits everything the group did.
+
+For the avoidance of a cheap reading: the underlying idea being taught — that describing money as a burden reinforces a relationship to money you don't want — is a real one, and several apprentices credit that kind of language discipline with genuine changes. That is not what is at issue. What is at issue is that the teaching method was a scripted five-person "fuck off", and that fourteen days later the resulting exit was explained entirely by his character.
 
 **The reaction, in order.** The teacher's first message is not about why he left:
 
@@ -90,7 +111,17 @@ Then the norm is stated outright: *"I usually give anyone who leaves 24 hours to
 
 **The disciplinary arc.**
 - **Dec 2021** — named in the group as already on the way out for unsubmitted essays: *"Brett & `arlo` are already going out. I don't want time wasters here."*
-- **Dec 2021, days later** — hunted over a political post, and told: *"Then either: 1. Move to another country like `taro` if you have half the balls 2. Seek to turn it into an advantage **3. Kill yourself and be done with it.** I made video about people like you `arlo`… "*, followed by an instruction to the newer apprentices to *"comment on what black magic you saw `arlo` cast on himself with his politics post."* The hunt is then closed with *"Excellent hunt everyone! Well done `arlo`"* and the observation that *"No change has actually occurred. NONE!"*
+- **Dec 2021, days later** — the hunt. **What triggered it:** in a casual late-night exchange about acting "like a lion", he observed that acting like one has consequences nowadays, then added *"I'm just venting… in most respects, I'm still just a little lamb"*, said he could not stand the current US administration, that he would never vote for that party again, and that he unexpectedly missed the previous president. That is the whole offence — a vent about domestic politics, self-labelled as venting.
+
+ The response, in sequence: *"Then either: 1. Move to another country like `taro` if you have half the balls 2. Seek to turn it into an advantage **3. Kill yourself and be done with it.** I made video about people like you `arlo`…"* — the "move to another country" line being a comparison to an apprentice who had emigrated, offered as the courageous alternative to complaining about your government. Then:
+
+ > *"Your inability to move your assemblage point away from the whining victim is exactly the reason why **you are on a break for six months**. All other apprentices - **here's a scared little rabbit to hunt and kill. Go**"*
+ > *"Time to be brutally honest with this guy"*
+ > *"The newer ones - comment on what black magic you saw `arlo` cast on himself with his politics post"*
+
+ Apprentices complied. `holt` — today the group's most senior member — posted five consecutive messages, including *"unless you tell us evidence of your lionness, that thought is worthless"*, *"is this again just a thought you are masturbating in your head"*, and *"noone cares if you miss [the president] or if you can't stand the new govt administration… what makes you believe you are so important"*, signing off *"Bless you `arlo`, all the best to you!"* The hunt is closed with *"Excellent hunt everyone! Well done `arlo`"* and the note that *"No change has actually occurred. NONE!"*
+
+ **So the six-month break was imposed as a sanction for a political vent**, and it is the reason for the essay gap that shows in his record from May to September 2022 — not slackness.
 - **Jan 2022** — tasked with compiling a list of "the fictional real" that *"should easily run it into the millions minimum"*, due in seven weeks.
 - **May 2022** — he leaves. The teacher's account: *"`arlo` thanked me as an apprentice for making him rich, for pointing him towards tai chi and for his renewed interest in music. **What would you thank me for if you were to leave?** 😊"* and then, as the lesson: *"Those who have this to thank the nagual for, they gain - those who are focused on everything but this will leave 👍🏽😊 **This is why `arlo` left**"* — i.e. insufficient gratitude.
 - **Sept 2022** — he comes back, and is celebrated: *"`arlo`'s broken a few records around here: **First apprentice to go from 0 to hero in terms of money.** First apprentice to come back – usually if they gown they gown 😸"*
@@ -103,7 +134,9 @@ Then the norm is stated outright: *"I usually give anyone who leaves 24 hours to
 
 > *"I've not always thought about the money I've made in the stock market as SSE… I'm not actually running a business, I'm not offering my services to others. I'm just sitting in my room listening to financial and economic intellects… but is it, really? It certainly doesn't give me a sense of long-term stability nor does it give me the same sense of satisfaction as I'm sure `taro` and others feel when making something with their hands."*
 
-So the flagship financial success is (1) not self-employment, (2) doubted as such by the person who achieved it, (3) achieved by someone who had already been through a hunt telling him to consider killing himself, and (4) recategorised as a spiritual failure four months later. That is the whole SSE question in one apprentice, and it is followed up in `sse-outcomes.md`.
+**And "0 to hero" is not supported by anything he said about his own finances.** No figure appears anywhere in the archive, and his own descriptions run the other way: a portfolio that swung with growth-stock cycles, worry about money that he tracked as correlating with his chronic pain, *"If I had a shit ton of money in the market, then I could adjust my portfolio to mostly lower risk stuff, **but I'm not at that point yet**"* (Jan 2022), a health-insurance plan he had cancelled because $600 a month was too much, a 13-year-old car and an 8-year-old laptop kept because they still work. He did leave a teaching job in 2020 to trade full time, which is real and is more than anyone else in the archive achieved — but there is **no evidence of a millionaire**, and the phrase was the teacher's, not his.
+
+So the flagship financial success is (1) not self-employment, (2) doubted as such by the person who achieved it, (3) unsupported by any figure, (4) achieved by someone who had been publicly hunted with "kill yourself" as option three and sanctioned with a six-month break for a political vent, and (5) recategorised as a spiritual failure four months after being celebrated. That is the whole SSE question in one apprentice, and it is followed up in `sse-outcomes.md`.
 
 ---
 

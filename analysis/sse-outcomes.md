@@ -51,7 +51,7 @@ The fair reading has to be included: teaching is real work, a teacher charging f
 
 Not a result. A sketch of where the study will start, with everything here needing confirmation against the full essay corpus:
 
-- **A one-off commission of €7,000** received by `holt` in Jan 2025 for a carving job, alongside copywriting at €70 per script and a share of about €3,250 from an €18,000 product sale in 2026. Five-plus years in, not full-time SSE. Plausibly L1–L2, trending up.
+- **`holt`**: his main income has been **freelance SEO and copywriting** — €70 per script and similar — not the woodcarving that is his path with heart. Alongside that: a €7,000 carving commission in Jan 2025 and a share of about €3,250 from an €18,000 product sale in 2026. Five-plus years in. So the group's most senior apprentice funds himself with contract work in a field he expects AI to eliminate, while the vocation remains partly subsidised. L1–L2 on the vocation, employment-equivalent income elsewhere.
 - **`fenn`**: bouncer and beer-bar work → contracted comedy tour guiding, self-scored at 97% "pseudo"-self-employed. Was living in his car in late 2024. Probably L2, with the attribution caveat above.
 - **`vela`**: belly dance bookings, a New Year's Eve show, tantra massage at CHF-level prices — while still holding a job as of late 2025. L1 with employment.
 - **`sable`**: corporate finance in Luxembourg, art sales, a yoga teacher-training, planned personal-finance services, an apartment rented out Dec 2025, and — per `yar` — recently left the corporate job. The test case in progress; her income trajectory over the next year is the single most informative data point available.
@@ -62,7 +62,12 @@ Not a result. A sketch of where the study will start, with everything here needi
 - **`yar`**: two IT jobs, no SSE. L0, and the largest income in the group.
 - **`arlo`**: the only apprentice the teacher has ever credited with getting rich — *"first apprentice to go from 0 to hero in terms of money"*, Sept 2022. The money came from **trading the stock market**, and he himself doubted it counted: *"I'm not actually running a business, I'm not offering my services to others… but is it, really? It certainly doesn't give me a sense of long-term stability."* He left, returned, left again, and was afterwards described as not *"charged in the correct way to pursue power"* and as a *"struggling victim"*. Full arc in `why-apprentices-leave.md`. **The flagship success is not SSE, is doubted by its own subject, and was posthumously reclassified as a spiritual failure.**
 
-Two of the three apprentices whose vocations were craft or healing — the two most clearly "path with heart" cases in the archive — were also the two removed over money.
+- **`orin`**: income from **renting out apartments**. Property, not vocation.
+- **`kesh` and `isla`**: both did **waiting jobs**. `kesh` was penalised £150 for missed essays in the same period she was planning to sleep in her car for a winter; `isla` was working for a bar owner she also used as boundary-training material.
+
+Two of the apprentices whose vocations were craft or healing — the clearest "path with heart" cases in the archive — are the two who were removed over money.
+
+**The provisional shape of the answer, then:** across thirty-one people and six years, the incomes that actually pay the bills in this group are freelance SEO, an engineering job, two IT jobs, a rental portfolio, army pay, waiting tables, a call centre, a contracted tour-guiding job, and stock trading. Every one of those is either employment, contract work, or capital. **Not one is the "successful self-employment on the path with heart" that the apprenticeship prescribes** — and the one case the teacher ever named as a money success was trading, by a man who doubted it counted and was later called a struggling victim. If that survives Monday's full pass against the essays, it is the most consequential finding in this repo, because unlike everything else it is denominated in a unit nobody can reinterpret.
 
 **What the sketch suggests, and what would refute it.** The pattern to test is that SSE in this group produces process milestones and occasional lump sums rather than replaced incomes, that the solvent members are solvent through employment or institutions, and that nobody has reached L4. It would be refuted by two or three apprentices at L3+ on SSE income alone, sustained over more than a year — and `sable` and `rook` leaving corporate this year is precisely the natural experiment that will show it either way.
 
