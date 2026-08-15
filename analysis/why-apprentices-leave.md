@@ -4,6 +4,12 @@ An open item from `frame-vs-evidence-log.md`, opened 2026-08-15. Nagual Anaam ha
 
 Two departures were reconstructed in full from the apprentice-group archive: message-volume curves, the final months of interaction, the exit itself, and everything said about the person afterwards. They were chosen for contrast — one slow fade after four years, one abrupt exit after two — and because both have enough material to see a trajectory rather than a snapshot.
 
+**The rule that licenses all of it was stated in 2021**, a year before the clearest case of it being applied. Verbatim, 2021-07-03:
+
+> *"It's a great idea to really study why people leave apprenticeship. **It will show you how almost all the time the reasons are not what they seem.** But to the person who's had enough, they appear totally legitimate. The machine mind is the ultimate spin doctor 🔄 Beware of its skewed news reports of the outside world in your head. Learn soberness, strategy and hard pragmatic perception. Ask questions 👍🏽😺"*
+
+Read as advice it is unremarkable — people do rationalise. Read as a standing rule it does something else: **it establishes in advance that any reason a leaver gives is not the real reason.** Which means the group can study departures indefinitely, as it is invited to, without a single stated reason ever counting as data. That is exactly what happened when `arlo` said the apprenticeship was not helping him heal and the answer came back as gratitude. The invitation to study departures and the rule that departures cannot be studied from what leavers say are the same message.
+
 **Roster context.** 27 people posted in the group in 2021; 6 of them still posted in 2026. Thirty-one distinct people have posted essays over the archive's life; the current roster is about ten. Departure is the normal outcome, not the exception, which is what makes the group's explanations for it worth examining.
 
 ---
