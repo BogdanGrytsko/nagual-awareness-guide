@@ -29,6 +29,31 @@ So when an apprentice attributes their illness to their own emotional pattern, t
 - **`orin` — a body she described as needing a "senior" programme** before she could return to jiu jitsu: walking, Falun Gong, tai chi, meridian tapping, Reiki, a naturopath, a paused certification because she needed a break. She left after four years. **And she is also the clearest positive case:** she quit smoking through the apprenticeship — *"30,000 cigarettes… HALF a LITER of tar"* — and credited it unreservedly a month before leaving.
 - **`holt` — a strong positive claim**: *"I'd literally be on medication by now for sure without his guidance"* (Apr 2026). Worth taking seriously and worth checking against what he wrote at the time.
 
+## The register — health events found so far
+
+Built from chat only; the essays will add to it on Monday. **This is a collection table, not a result.** "Stated cause" records what the person or the group said caused it, which is the variable under study. "Anchor" means an external check exists — a diagnosis, a procedure, a quantified change — as opposed to a self-reported feeling.
+
+| Person | Date | Reported event | Care sought | Stated cause | Outcome at last mention | Anchor |
+|---|---|---|---|---|---|---|
+| `fenn` | 2023-10 | flu, then hearing did not return in one ear | yes — doctors, rehab exercises | *"According to Louise Hay I was stubborn and refusing to listen to my higher self / conscience"* | **permanent**: partial hearing loss, impaired balance, constant tinnitus (2024-06) | yes |
+| `fenn` | 2023-12-11 | surgery (reason not stated in chat) | yes | — | recovering, "everything is working out" | yes |
+| `fenn` | 2023-12 | **quit smoking** after ~20 years | self | — | sustained as far as the archive shows | **yes — Tier A win** |
+| `fenn` | 2024-06 | tinnitus reinterpreted as guidance — *"I know my body is telling me something, and I often take them as confirmations of the thought I'm having"* | — | — | symptom unchanged | no — reinterpretation, not recovery |
+| `arlo` | 2021–2022 | chronic groin pain, persistent abdominal pain, knee pain | yes, plus EFT, Theta, acupuncture | his own: correlated with money worry | **worse**; left the apprenticeship over it (2022-05) | partial |
+| `arlo` | 2021-08 | cancelled health insurance at $600/month | — | cost | later took $500/month with a $6,100 deductible | yes |
+| `orin` | 2024 | body needing a "senior programme" before returning to jiu jitsu | naturopath | — | left the apprenticeship four months later | no |
+| `orin` | 2024-12 | **quit smoking** — *"30,000 cigarettes… HALF a LITER of tar"* | self, credited to the teacher | — | sustained; stated one month before leaving | **yes — Tier A win** |
+| `rook` | 2025-01 | kidney stones | yes — medical check | *"the kidney stones were only a reflection of my emotional imbalances"* | unstated | yes for diagnosis |
+| `isla` | 2022-02 | suspected hernia, being investigated | yes | — | unstated; paused planking forms | partial |
+| `kesh` | 2021 | knee injury, recurring constipation | — | — | unstated | no |
+| `kesh` | 2024-10 | returned to jiu jitsu after 3 months out | — | — | back training | partial |
+| `vela` | 2021 | knee problems "for a couple of years" | — | — | unstated | no |
+| `dell` | 2023-07 | migraines | rest, cold water | *"headaches is the way for my body to be heard and to force me to stop everything"* | managed | no |
+| `mira` | 2022-04 | lifelong dairy allergy — ate buttermilk, *"Next day, not even a single rash!"*; also dropped vegetarianism | none | gratitude, singing to her body, self-acceptance | reported resolved | **no — single self-report, no test** |
+| `holt` | 2026-04 | claim: *"I'd literally be on medication by now for sure without his guidance"* | — | apprenticeship credited | — | no — needs checking against what he wrote at the time |
+
+**One entry that is about the group rather than the body.** When `fenn` announced his surgery in the group, the reply he received alongside good wishes was *"At the same time - why so much self importance here? 🙈🙊"*, comparing him to a relative who made a drama of a procedure. A month later he had accepted it: *"So much self-importance, yes. Why? I don't know why! 😅 … Where do you see my self-importance shine through the most?"* Whatever else is true, **announcing an operation was treated as a character fault, and the patient agreed.**
+
 ## What gets scored
 
 Per apprentice: conditions reported with dates; whether medical care was sought, delayed or avoided; the stated cause each time; the outcome at last mention; and whether the outcome had an external anchor. Then the four axes above, tallied.

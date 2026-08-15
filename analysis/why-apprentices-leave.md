@@ -153,6 +153,38 @@ So the flagship financial success is (1) not self-employment, (2) doubted as suc
 
 ---
 
+## Case 5 — `sena`: praised, spared, and gone the same week
+
+**Span:** Mar 2021 → Dec 2022 (21 months), 842 messages, **69,854 words — the most prolific writer in the archive.** She ran the group's independent side chat and was, by the teacher's own description, an established apprentice.
+
+**Standing before the exit.** In Jan 2022 she was congratulated in the group as *"the very first certified Kukuwa instructor in her city"* — a real, dated, external credential, and one of the few genuine path-with-heart achievements anyone reached. In Apr 2022 she was the person asked to audit how many ex-apprentices were sitting in her side group, and she described her own practice of removing them once their farewells were done. She was, in other words, trusted with the group's boundary maintenance.
+
+**The exit, in three days.**
+- **2022-12-12** — *"`sena` when was the last time you put a self reflection in"*
+- **2022-12-13** — with `dov`: *"By end of day today. Tomorrow if no reply - you're on a self assessment break for 3 months. If you haven't got your head straight about this by then, you're out. Not running a juvenile detention centre here - should've replied to this first time like emotionally mature adults."*
+- **2022-12-14** — her reply: *"My apologies… I have been far from impeccable… **It has been 89 days since the submission of my last reflection.** I thank you very, very much for this hammer tap to check me back to sobriety… I ask to please have 72 hours to get back on track… I am far from an emotionally mature ad[ult]"*
+- Response: *"Perfect reply 😺👍🏽 **Well done for avoiding the cleaver** `sena` 😁"*
+
+**And that is her last message in six years of archive.** She was not removed. She complied, was praised for complying, was explicitly spared — and never wrote again. The 72 hours she asked for passed in silence, and nobody appears to have followed up.
+
+**Why this case matters to the money question.** She is one of the three Black women the teacher later grouped as having *"suffered exactly the same fate"* — but she lived in a major US city and there is **no sign of fee arrears in her case at all.** Her trigger was essays, not money. That refines the earlier finding: of the three, one exit was purely financial, one was financial and essays together, and one was essays alone. The common factor across all three is the **ultimatum**, not the poverty — which is what the base-rate test on Monday is designed to settle.
+
+## Case 6 — `gale`: the departure nobody mentioned
+
+**Span:** Feb 2022 → Mar 2023 (13 months), 338 messages, 23 essays. Included as the null case, because what is absent here is the finding.
+
+- **2023-02-15** — given a task: everyone in the group writes *"as if they are sending office emails"*, and he is to *"break this silly flow by communicating in the opposite way to everyone here from now on."*
+- **2023-02-26** — *"are you aware that there's a £50 penalty for not submitting essays on time without prior communication? 😊"*
+- **2023-02-27** — *"👆🏽👆🏽 Won't ask again"*
+- **2023-03-03 to 03-05** — his last messages are warm and ordinary: detailed appreciative feedback on another apprentice's essay, a considered answer about dividing the world into authentic and fake, and a farewell to a newcomer: *"All Best to you Pratik :)"*
+- Then nothing.
+
+**No farewell, no removal announcement, no explanation, and — searching the entire archive from his last message to today — not one mention of his name by anyone, ever again.** Six years, thirty-one people, and a thirteen-month apprentice simply ceases to appear. The 24-hour farewell norm was not invoked. No apprentice asked what had happened to him, as they did for `orin` and `arlo`.
+
+So the group's account of `gale`'s departure is that there is none. That is worth recording precisely because the other cases produce explanations so readily: **the explanations appear when someone asks, and whether anyone asks appears to depend on how embedded the person was**, not on what happened to them.
+
+---
+
 ## The cross-case finding
 
 **The proximate cause of departure in this archive is legible, dated, and never named by the group: a financial-penalty ultimatum over unsubmitted essays.** Traceable cases, all with the same shape — ultimatum or penalty, then an apologetic promise to reform, then exit within 1–10 weeks:
