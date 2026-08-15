@@ -1,0 +1,11 @@
+# Telegram credentials and login session — never commit.
+# .tg/user.session is a logged-in copy of the account.
+.tg/
+*.session
+*.session-journal
+
+# Playwright MCP page snapshots — can contain credentials from pages visited.
+.playwright-mcp/
+
+# Private Telegram exports (TAC etc) — other people's messages, never publish.
+tg-private/
