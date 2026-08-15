@@ -105,12 +105,18 @@ A group where the frame always wins loses the ability to learn. Every failure is
 
 ---
 
-## State of the investigation (2026-08-15)
+## State of the investigation (2026-08-15, end of day)
 
-**What exists.** Read-only Telegram access via `scripts/tg.py` (credentials in `~/.tg`, outside the repo). Exports of one apprentice's messages live in `tg-private/`, which is gitignored because it contains other members' private material. Six of his essays were pulled as PDFs; two were converted into `apprentice-essays/holt/`.
+**What exists now.** Read-only Telegram access via `scripts/tg.py` and `scripts/tg_docs.py` (credentials in `~/.tg`, outside the repo). The **full apprentice-group history is exported** — 34,609 messages, 1.31M words, Oct 2020 to Aug 2026 — plus an index of all **2,078 attachments**, of which 1,719 are essays. Both live in `tg-private/`, gitignored because they contain other members' private material, and both are re-creatable from the scripts. Four of Yar's own essays are converted into `apprentice-essays/yar/`; a handful of others' essays have been pulled where a case needed them.
 
-**What is known.** The four sealing mechanisms and the survivorship/commitment dynamics are argued in `conversations/merciless-eyes-verification-and-echo-chambers-2026-08-14.md`. One clear case of the frame overriding lived evidence is logged above; two cases of advice adapting are logged as counter-examples.
+**Four analysis threads, all with their rules fixed before scoring:**
+- this log — can the teaching be corrected?
+- `commitments-vs-outcomes.md` — does the frame produce change, or language about change?
+- `sse-outcomes.md` — what did six years of prescribing self-employment produce, in money?
+- `why-apprentices-leave.md` — four departures reconstructed in full, plus the mechanism.
 
-**What is not known, and matters.** This analysis rests almost entirely on **written** material — Telegram messages and essays. Private calls are where most of the teaching actually happens, and none of them are in the archive. Several essays are an apprentice's *summary* of a call, which is a filtered source. Yar has recordings of his own calls and intends to bring them in later; until then, every conclusion here should be held as provisional and derived from a partial record.
+**What is known.** Three cases of the frame overriding lived evidence are logged above, the strongest being an apprentice's own stated reason for leaving being replaced by "insufficient gratitude" eight days later. Two cases of advice genuinely adapting are logged as counter-examples, on purpose. On departures: nine exits carry nine explanations, every one a property of the person who left; a penalty or ultimatum precedes exit within 1–10 weeks in seven traceable cases; essay-submission rates are roughly flat across the group while enforcement is not, so what varies is who gets asked; and leavers are cleared out of adjacent groups within days, which is why no member can check any of it from inside.
 
-**The standard to keep.** The falsifier at the top of this file is the thing to answer, in either direction. Evidence that the frame does revise itself counts exactly as much as evidence that it doesn't — the log exists to hold both, and the counter-examples above are there on purpose.
+**What is not known, and matters.** This rests almost entirely on **written** material. Private calls are where most of the teaching happens and none are in the archive; several essays are an apprentice's *summary* of a call, which is a filtered source; masterclasses are invisible, including the one where the teacher is said to have told the group he had closed a "gate" for Yar. The 1,719 essays are indexed but **not yet converted to text**, so every financial and commitment finding here is provisional until they are. Yar has recordings of his own calls and intends to bring them in.
+
+**The standard to keep.** The falsifier at the top of this file is still unanswered in the direction that would vindicate the group: no case has been found where an apprentice reported a teaching not working and the *teaching* was what changed. That remains the thing to look for, and evidence for it counts exactly as much as evidence against — which is why the counter-examples above stay in, and why the day's own errors are corrected in place rather than quietly dropped.
