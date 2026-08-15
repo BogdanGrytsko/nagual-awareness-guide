@@ -8,7 +8,12 @@ This is a data-gathering exercise, not a verdict. The point is to replace recoll
 
 > Show one case where an apprentice ran a teaching, reported that it didn't work, and **the frame — not the apprentice — was what got revised.**
 
-There is a second standing question, designed and pre-registered in `commitments-vs-outcomes.md`: **does the frame produce change, or mainly language about change?** That one asks whether the teaching works; this one asks whether it can be corrected. Both can come out badly, both can come out well, and they can disagree — a system can be poor at correcting itself and still be good at making people act.
+There are two further standing questions, both pre-registered before any scoring:
+
+- `commitments-vs-outcomes.md` — **does the frame produce change, or mainly language about change?**
+- `sse-outcomes.md` — **what did five years of pushing successful self-employment actually produce?** The one prescribed outcome that leaves externally checkable evidence, because it is denominated in money.
+
+This file asks whether the teaching can be corrected; those two ask whether it works. All three can disagree, and that is fine — a system can be poor at correcting itself and still be good at making people act.
 
 Two or three such cases would settle it. As of 2026-08-15, none has been found; the search has been by recollection only (three years of membership), which is weak evidence either way. Essay and Telegram archives are now searchable, so this should be settled with citations.
 
