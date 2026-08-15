@@ -117,39 +117,48 @@ This makes the money hypothesis considerably stronger than the race hypothesis, 
 
 Every attachment in the group's history was indexed (2,078 files, of which 1,719 PDFs) and reduced to a cadence per person. Anyone with fewer than eight is omitted.
 
-| Person | Essays | Months | Per month | Longest gap | Gaps ≥21d | Enforcement seen |
-|---|---|---|---|---|---|---|
-| `dell` | 168 | 40 | 4.17 | 20d | 0 | — |
-| `wren` | 175 | 42 | 4.16 | 26d | 4 | €1,000 forfeiture threat (army, unrelated) |
-| `rook` | 108 | 27 | 4.06 | 22d | 1 | — |
-| `sable` | 129 | 34 | 3.85 | 66d | 2 | £50 penalty; also paid for a typo |
-| `vela` | 217 | 58 | 3.74 | 61d | 6 | — |
-| `thea` | 57 | 16 | 3.47 | 27d | 1 | asked whether submitting on time |
-| **`tove`** | **77** | **23** | **3.31** | **72d** | **4** | **£200 then £350 per essay; £1,050 total; removed** |
-| **`yar`** | **114** | **36** | **3.13** | **40d** | **3** | **none, ever** |
-| `fenn` | 164 | 54 | 3.05 | 130d | 9 | "next on the chopping block" |
-| `sena` | 48 | 16 | 2.93 | 61d | 3 | 3-month-break ultimatum; gone |
-| `mira` | 78 | 28 | 2.82 | 31d | 5 | removed over fees |
-| `naia` | 8 | 3 | 2.68 | 27d | 1 | penalty for one day late; removed |
-| `holt` | 182 | 68 | 2.66 | 138d | 14 | — |
-| `isla` | 119 | 56 | 2.13 | 81d | 17 | — |
-| `gale` | 23 | 11 | 2.12 | 54d | 4 | £50 penalty; gone within a month |
-| `kesh` | 102 | 58 | 1.77 | **201d** | **27** | £150 for three missed essays |
-| `orin` | 63 | 39 | 1.60 | 160d | 17 | asked to resubmit one essay |
-| `arlo` | 29 | 20 | 1.46 | 158d | 6 | — |
-| `bram` | 26 | 19 | 1.37 | 189d | 2 | penalty calculation demanded; gone within weeks |
+Raw essays-per-month punishes anyone who took a break, so the rate below is **per active month**: total span minus every absence longer than 45 days. "Absences" counts those stretches; "21–45d" counts ordinary late runs inside the active periods. Sorted by the adjusted rate; anyone with fewer than eight essays or an unidentifiable account is omitted.
 
-**`tove` was not an outlier.** At 3.31 essays a month she submitted *more* often than the two longest-serving apprentices in the group (`holt` 2.66, `isla` 2.13), and far more often than `kesh`, who has **27 gaps of three weeks or more and a 201-day gap** and was still an apprentice in 2026. The person with the harshest penalty regime in the archive has the seventh-best cadence in it.
+| Person | Essays | Active months | Per active month | Longest gap while active | 21–45d gaps | Absences >45d | Enforcement seen |
+|---|---|---|---|---|---|---|---|
+| `dell` | 168 | 40 | 4.17 | 20d | 0 | 0 | — |
+| `wren` | 175 | 42 | 4.16 | 26d | 4 | 0 | €1,000 forfeiture threat (army, unrelated) |
+| `sable` | 129 | 31 | 4.12 | 22d | 1 | 1 | £50 penalty; also paid for a typo |
+| `rook` | 108 | 27 | 4.06 | 22d | 1 | 0 | — |
+| `holt` | 182 | 46 | **3.93** | 39d | 7 | **7** | — |
+| `vela` | 217 | 56 | 3.88 | 39d | 5 | 1 | — |
+| `fenn` | 164 | 43 | 3.85 | 23d | 5 | 4 | "next on the chopping block" |
+| **`tove`** | **77** | **21** | **3.68** | **28d** | **3** | **1** | **£200 then £350 per essay; £1,050 total; removed** |
+| `thea` | 57 | 16 | 3.47 | 27d | 1 | 0 | asked whether submitting on time |
+| `bram` | 26 | 8 | 3.34 | 18d | 0 | 2 | penalty calculation demanded; gone within weeks |
+| `sena` | 48 | 14 | 3.34 | 28d | 2 | 1 | 3-month-break ultimatum; gone |
+| **`yar`** | **114** | **36** | **3.13** | **40d** | **3** | **0** | **none, ever** |
+| `gale` | 23 | 7 | 3.13 | 39d | 2 | 2 | £50 penalty; gone within a month |
+| `mira` | 78 | 28 | 2.82 | 31d | 5 | 0 | removed over unpaid fees |
+| `arlo` | 29 | 10 | 2.76 | 32d | 3 | 3 | — |
+| `naia` | 8 | 3 | 2.68 | 27d | 1 | 0 | penalty for one day late; removed |
+| `isla` | 119 | 47 | 2.52 | 39d | **13** | 4 | — |
+| `kesh` | 102 | 43 | 2.36 | 42d | **22** | 5 | £150 for three missed essays (Dec 2024) |
+| `orin` | 63 | 29 | 2.18 | 43d | 14 | 3 | asked to resubmit one essay |
+| `dov` | 25 | 12 | 2.00 | 39d | 8 | 2 | — |
 
-And `yar`'s own record contradicts his recollection of missing deadlines constantly: 3.13 a month over three years, three gaps beyond three weeks, longest 40 days — above the group median, and **never once penalised or asked when his last essay was.** `holt`, with a 138-day gap, was never penalised either.
+**The correction makes the asymmetry sharper, not weaker.** `tove` at 3.68 per active month is **eighth of twenty, and ahead of `yar` at 3.13** — she submitted essays *more* often than he does, took one absence to his none in a shorter tenure, and her longest run while active was 28 days against his 40. She was billed £1,050 and removed. He has never been penalised or asked once.
 
-So "she didn't submit her essays" does not explain `tove`'s exit. The submission record is roughly flat across the group; what varies is **who gets asked about it.** Enforcement is discretionary, and the discretion is what needs explaining — not the essays.
+The cleanest statement of it involves `holt`, because the break adjustment reveals what was hidden in the raw numbers: he has **seven separate stretches of over 45 days with no essay** — the most in the group — and *no* absence from the group chat longer than 45 days in the entire archive. He was present and not submitting, seven times, and was never penalised. `isla` and `kesh` have the weakest active cadence of the long-serving members (2.52 and 2.36, with 13 and 22 late runs); `isla` has never been penalised, and `kesh` was penalised £150 once, eighteen months before she chose to leave.
 
-**Caveats, stated because they cut against the point too.** Some essays go to the teacher by email and would not appear here — `tove` herself said on her last day *"I have sent the email of my essay"*, so counts may undercount, unevenly. Some long gaps are agreed breaks (army service, sanctioned pauses). People who post two essays at once inflate their count relative to weekly cadence. None of that changes the ordering enough to make `tove` the group's worst submitter, which is the claim being tested.
+So the submission record is roughly flat across the group, and what varies is **who gets asked about it**. Enforcement is discretionary. The discretion is the thing that needs explaining — not the essays.
+
+**Caveats, and what `yar` corrected.** Essays all reach the group chat eventually, bar the occasional one an author chooses not to share, so the index is close to complete — the earlier worry about essays going only by email was wrong. Some apprentices have had *special agreements* about essay frequency, which the statistics can't see and don't need to: the point is not that anyone owed a fixed number, it is that the people asked about their essays are not the people with the weakest records. Posting two essays at once inflates a count relative to a weekly rhythm. And `kesh` is no longer an apprentice — see below — but she was one in good standing, with a weaker record than `tove`, at the time `tove` was removed.
+
+### `kesh` — five years, self-announced, teacher silent
+
+Corrected from the first version of this file. She left on 2026-06-23, after five years (Jun 2021 → Jun 2026): *"Dear TAC, I'm going to be stepping away from the apprenticeship for now while I take some time to sort a few things out."* Seven apprentices answered warmly. **The teacher said nothing at all** — no message in the group mentions her leaving, no lesson was drawn, no question was asked about what could be learned from it. Her one penalty was eighteen months earlier, so this is not a penalty-then-exit case; it belongs with `orin`'s as a departure that the group simply absorbed. Two of the longest apprenticeships in the archive ended in the last twenty months, and neither produced an examination of anything.
 
 ### Who is actually in the room
 
-`yar`'s observation that this is a first-world club, with him the only member from a poorer country, is broadly supported by the archive — country by residence, with confidence varying: UK (teacher, fees in GBP), Denmark, France, Switzerland, Luxembourg/Latvia, Germany→Japan, Spain (from Ukraine), a NATO member state's army, the US (several), the UK again, and — the two exceptions — Kenya and Namibia. Both exceptions are gone, both over money.
+`yar`'s observation that this is a first-world club, with him the only member from a poorer country, is broadly supported by the archive — country by residence, with confidence varying: UK (teacher, fees in GBP), Denmark, France, Switzerland, Luxembourg/Latvia, Germany→Japan, a NATO member state's army, the US (several), the UK again, and — the exceptions — Kenya and Namibia. Both exceptions are gone, both over money.
+
+`yar` is the third exception and the instructive one: **Ukrainian, working for Ukrainian companies, resident in Spain.** His income is not first-world income; it is Ukrainian income that happens to be in IT. By his own account that is the only reason the fees are affordable to him — swap the industry and he is in `mira`'s position, not `sable`'s. Which means the club's membership is not really selected by country. It is selected by whether you happen to sit in a globally-paid profession, and that is a much narrower filter than it looks from inside.
 
 The filter therefore has two stages, and the second is the invisible one: **£150 a call plus GBP penalties means most of the world cannot enter at all**, so the surviving evidence about what the apprenticeship does comes from people for whom those sums are affordable. Worth measuring properly: fees as a share of median local income per apprentice's country.
 
@@ -169,6 +178,6 @@ There is one relevant general instruction, to everyone, from July 2021: *"If you
 
 - **`sena`'s case properly.** She left Dec 2022 with 842 messages and 70k words in the archive — enough for a full reconstruction. (AlmaSi is now identified as `mira`; see the update above.)
 - **Fees as a share of median local income**, per apprentice's country. This is the sharpest available test of the money hypothesis and needs no new data from the group.
-- **Why enforcement lands where it does.** Now that the submission record is flat across the group, the discretion is the variable. Candidate predictors to test: debt owed to the teacher, whether the person pushes back, partner status inside the group, tenure, country.
+- **Why enforcement lands where it does.** Now that the submission record is flat across the group, the discretion is the variable. **Lead candidate, agreed with `yar`: debt owed to the teacher.** Both money-driven removals were of people carrying debt for fees or calls — `mira` selling motorbikes, `tove` working a call-centre job for six months specifically to repay call debt, and then being penalised for lacking the time that job consumed. That is a foreseeable outcome of the arrangement, not a surprise about her character. The test: for every apprentice, whether they were ever in arrears, against whether they were ever penalised or given an ultimatum. Other predictors to check alongside it: whether the person pushes back, partner status inside the group, tenure, and country.
 - **What leavers are told privately.** All of the above is group-visible material. Calls are where the actual exit conversation happens, and none are in the archive.
 - **Whether the penalty rule predicts departure better than anything else.** This is a clean, falsifiable test on the existing corpus: for every apprentice who was ever penalised or given an ultimatum, how many left within 12 weeks — against the base rate for those never penalised. If the ultimatum is the best predictor, then "why apprentices leave" has a mechanical answer that no post-mortem in the group has ever mentioned.
