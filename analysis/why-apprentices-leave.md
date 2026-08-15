@@ -99,9 +99,76 @@ Yar raised it: `sena`, `AlmaSi` and `tove` were all Black women, and he senses a
 
 ---
 
+## Update, same day: AlmaSi found, and the enforcement doesn't track the record
+
+### `mira` (AlmaSi) — expelled for not being able to pay
+
+She was missing from earlier searches because she renamed herself mid-apprenticeship, a practice the group encourages: on 2022-08-05, *"I have decided on the name Almasi meaning Diamond in Swahili."* Her span is Mar 2021 → Aug 2023 (29 months, 899 messages, 78 essays). Kenyan.
+
+Her exit is the least ambiguous in the archive. She had borrowed against apprenticeship fees and fallen behind while running a small motorbike business — *"I started having difficulty with the drivers and breakdowns etc."* Asked for the exact repayment agreement, she explained she was selling a bike and the proceeds — **£327** — would go to the fees. The reply:
+
+> *"'Will be able to pay' exactly how much? Full amount owed, half, a little? 🤷🏽‍♂️ Anyway let's let August finish and then gonna have to put you on holiday my lovely till you can actually pay for the apprenticeship moving forward. I'll remove you from all groups here 1st of September."*
+
+Her answer thanked him for *"the gift of the apprenticeship & your patience."* Her last message is 2023-08-31. **She was removed for inability to pay**, full stop — no essay ultimatum, no assessment of her practice.
+
+This makes the money hypothesis considerably stronger than the race hypothesis, and it also sharpens it: `tove` told the group in May 2025 that she had taken the call-centre job she disliked specifically *"to repay my debt for apprenticeship calls. To Nagual Anaam and Hugo"* — six months of work to clear apprenticeship debt. That job then consumed the time she was being penalised £200–350 per essay for not having. Two of the three cases are people selling assets or taking jobs to fund fees, and being removed when the funding failed.
+
+### The enforcement does not track the submission record
+
+Every attachment in the group's history was indexed (2,078 files, of which 1,719 PDFs) and reduced to a cadence per person. Anyone with fewer than eight is omitted.
+
+| Person | Essays | Months | Per month | Longest gap | Gaps ≥21d | Enforcement seen |
+|---|---|---|---|---|---|---|
+| `dell` | 168 | 40 | 4.17 | 20d | 0 | — |
+| `wren` | 175 | 42 | 4.16 | 26d | 4 | €1,000 forfeiture threat (army, unrelated) |
+| `rook` | 108 | 27 | 4.06 | 22d | 1 | — |
+| `sable` | 129 | 34 | 3.85 | 66d | 2 | £50 penalty; also paid for a typo |
+| `vela` | 217 | 58 | 3.74 | 61d | 6 | — |
+| `thea` | 57 | 16 | 3.47 | 27d | 1 | asked whether submitting on time |
+| **`tove`** | **77** | **23** | **3.31** | **72d** | **4** | **£200 then £350 per essay; £1,050 total; removed** |
+| **`yar`** | **114** | **36** | **3.13** | **40d** | **3** | **none, ever** |
+| `fenn` | 164 | 54 | 3.05 | 130d | 9 | "next on the chopping block" |
+| `sena` | 48 | 16 | 2.93 | 61d | 3 | 3-month-break ultimatum; gone |
+| `mira` | 78 | 28 | 2.82 | 31d | 5 | removed over fees |
+| `naia` | 8 | 3 | 2.68 | 27d | 1 | penalty for one day late; removed |
+| `holt` | 182 | 68 | 2.66 | 138d | 14 | — |
+| `isla` | 119 | 56 | 2.13 | 81d | 17 | — |
+| `gale` | 23 | 11 | 2.12 | 54d | 4 | £50 penalty; gone within a month |
+| `kesh` | 102 | 58 | 1.77 | **201d** | **27** | £150 for three missed essays |
+| `orin` | 63 | 39 | 1.60 | 160d | 17 | asked to resubmit one essay |
+| `arlo` | 29 | 20 | 1.46 | 158d | 6 | — |
+| `bram` | 26 | 19 | 1.37 | 189d | 2 | penalty calculation demanded; gone within weeks |
+
+**`tove` was not an outlier.** At 3.31 essays a month she submitted *more* often than the two longest-serving apprentices in the group (`holt` 2.66, `isla` 2.13), and far more often than `kesh`, who has **27 gaps of three weeks or more and a 201-day gap** and was still an apprentice in 2026. The person with the harshest penalty regime in the archive has the seventh-best cadence in it.
+
+And `yar`'s own record contradicts his recollection of missing deadlines constantly: 3.13 a month over three years, three gaps beyond three weeks, longest 40 days — above the group median, and **never once penalised or asked when his last essay was.** `holt`, with a 138-day gap, was never penalised either.
+
+So "she didn't submit her essays" does not explain `tove`'s exit. The submission record is roughly flat across the group; what varies is **who gets asked about it.** Enforcement is discretionary, and the discretion is what needs explaining — not the essays.
+
+**Caveats, stated because they cut against the point too.** Some essays go to the teacher by email and would not appear here — `tove` herself said on her last day *"I have sent the email of my essay"*, so counts may undercount, unevenly. Some long gaps are agreed breaks (army service, sanctioned pauses). People who post two essays at once inflate their count relative to weekly cadence. None of that changes the ordering enough to make `tove` the group's worst submitter, which is the claim being tested.
+
+### Who is actually in the room
+
+`yar`'s observation that this is a first-world club, with him the only member from a poorer country, is broadly supported by the archive — country by residence, with confidence varying: UK (teacher, fees in GBP), Denmark, France, Switzerland, Luxembourg/Latvia, Germany→Japan, Spain (from Ukraine), a NATO member state's army, the US (several), the UK again, and — the two exceptions — Kenya and Namibia. Both exceptions are gone, both over money.
+
+The filter therefore has two stages, and the second is the invisible one: **£150 a call plus GBP penalties means most of the world cannot enter at all**, so the surviving evidence about what the apprenticeship does comes from people for whom those sums are affordable. Worth measuring properly: fees as a share of median local income per apprentice's country.
+
+### Returns from a break — who gets to come back
+
+Absences of 45+ days that were followed by a return: `orin` (65d), `dov` (58d, 70d), `arlo` (120d), `sena` (114d), `isla` (56d, 48d), `fenn` (116d), `sable` (60d). So returning is normal, and `yar` confirms that `sable` came back after a three-month removal and `isla` after a break.
+
+**None of the three Black women returned.** `mira` was told she could come back when she could pay, and didn't. `sena` returned from a 114-day absence in Dec 2022 straight into the ultimatum, and left immediately after. `tove` was removed with *"may you have a fruitful break period, hopefully see you again"* and never reappeared. Whether that is a difference in invitation, in affordability, or in willingness is exactly the question — and for `mira` the answer is stated outright in the text: the condition of return was money.
+
+### Did the teacher send Black apprentices to Africa?
+
+Not supported by the text, and the specific case is the reverse of the pattern. The Namibia move was made by `dell` — French, white — who relocated in June 2024 with a half-time remote job, to the home country of his Namibian partner `tove`. In text the teacher refers to it as *"your own strategy to be in Namibia"*, addressed to `dell`. `mira` was already in Kenya; `sena` was American and, in a Dec 2022 exchange, was on the receiving end of the teacher's view of the continent: *"there are serious admin hassles for small companies employing anyone outside the EU these days especially from a fuck all place like Africa."*
+
+There is one relevant general instruction, to everyone, from July 2021: *"If you live in a major city or a big town, think about relocating to less occupied areas within two years if possible."* Whether the Namibia move originated with the teacher in a call is not knowable from text — `yar` says it did, and that belongs in the record as his testimony, not as archive evidence.
+
 ## What to check next
 
-- **`sena`'s and AlmaSi's cases properly.** `sena` left Dec 2022 with 842 messages and 70k words in the archive — enough for a full reconstruction. AlmaSi needs identifying first; she may appear under a former name, or only in a predecessor group.
-- **Whether anyone ever came back from a "break."** Both `tove` and at least two others were removed with "hopefully see you again." Count how many returned. The word used at exit may be doing work the outcome doesn't support.
+- **`sena`'s case properly.** She left Dec 2022 with 842 messages and 70k words in the archive — enough for a full reconstruction. (AlmaSi is now identified as `mira`; see the update above.)
+- **Fees as a share of median local income**, per apprentice's country. This is the sharpest available test of the money hypothesis and needs no new data from the group.
+- **Why enforcement lands where it does.** Now that the submission record is flat across the group, the discretion is the variable. Candidate predictors to test: debt owed to the teacher, whether the person pushes back, partner status inside the group, tenure, country.
 - **What leavers are told privately.** All of the above is group-visible material. Calls are where the actual exit conversation happens, and none are in the archive.
 - **Whether the penalty rule predicts departure better than anything else.** This is a clean, falsifiable test on the existing corpus: for every apprentice who was ever penalised or given an ultimatum, how many left within 12 weeks — against the base rate for those never penalised. If the ultimatum is the best predictor, then "why apprentices leave" has a mechanical answer that no post-mortem in the group has ever mentioned.
