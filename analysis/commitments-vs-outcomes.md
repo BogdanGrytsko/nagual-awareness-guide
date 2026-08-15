@@ -79,6 +79,7 @@ A finding of "mostly Tier A/B, kept" is strong evidence for the apprenticeship. 
 | rook | 2025-08-31 | "I CHANGE NOW" — read others' essays, give more than he takes | A | D | open |
 | tove | 2025-09-02 | leave the apprenticeship if the essay pattern repeated | A | A | `abandoned` — stayed, paid £400 in penalties, restated the commitment |
 | fenn | 2025-08-19 | 97% successfully self-employed | — | A | outcome, not commitment — anchor case for what Tier A evidence looks like |
+| fenn | 2023-12 → 2026-06 | quit smoking — restated at least four times across 2.5 years, most recently *"Realizing why I smoke… = quitting"* | A | A | `abandoned`/ongoing — still smoking in the archive's last month. **The cleanest long-run specimen available**: a Tier A commitment, externally checkable, repeatedly restated, praised each time, never completed |
 
 ## Pilot before the full pass
 

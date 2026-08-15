@@ -165,7 +165,7 @@ So the flagship financial success is (1) not self-employment, (2) doubted as suc
 - **2022-12-14** — her reply: *"My apologies… I have been far from impeccable… **It has been 89 days since the submission of my last reflection.** I thank you very, very much for this hammer tap to check me back to sobriety… I ask to please have 72 hours to get back on track… I am far from an emotionally mature ad[ult]"*
 - Response: *"Perfect reply 😺👍🏽 **Well done for avoiding the cleaver** `sena` 😁"*
 
-**And that is her last message in six years of archive.** She was not removed. She complied, was praised for complying, was explicitly spared — and never wrote again. The 72 hours she asked for passed in silence, and nobody appears to have followed up.
+**And that is her last message in six years of archive.** She complied, was praised for complying, was explicitly spared — and never wrote again. The 72 hours she asked for passed in silence; **she was removed by the admin on 2023-01-14**, a month later. Nobody appears to have followed up in between, and no one asked about her afterwards.
 
 **Why this case matters to the money question.** She is one of the three Black women the teacher later grouped as having *"suffered exactly the same fate"* — but she lived in a major US city and there is **no sign of fee arrears in her case at all.** Her trigger was essays, not money. That refines the earlier finding: of the three, one exit was purely financial, one was financial and essays together, and one was essays alone. The common factor across all three is the **ultimatum**, not the poverty — which is what the base-rate test on Monday is designed to settle.
 
@@ -184,6 +184,36 @@ So the flagship financial success is (1) not self-employment, (2) doubted as suc
 So the group's account of `gale`'s departure is that there is none. That is worth recording precisely because the other cases produce explanations so readily: **the explanations appear when someone asks, and whether anyone asks appears to depend on how embedded the person was**, not on what happened to them.
 
 ---
+
+## The membership ledger — 40 removals, 2 self-departures
+
+Telegram keeps a service-message record of every join and removal, independent of anything anyone says. Pulled in full to `tg-private/membership-ledger.txt`:
+
+- **40 removals. 38 of them were performed by the admin account. Two were people leaving of their own accord.**
+- 38 additions plus 11 joins by link, across 36 distinct users added and 37 removed.
+
+**This changes how every departure in this file should be read.** The language throughout the archive is that people "leave", "give up", "walk away", are "not charged in the correct way" — and the record says that in 38 out of 40 cases somebody else pressed the button. The 24-hour farewell norm is not a description of people departing; it is a courtesy window offered before a removal. `hale`'s offence of *"choosing to leave immediately without any communication"* was, in the ledger's terms, one of the only two occasions anyone actually left.
+
+**Dates for the cases in this file**, all verified against the ledger rather than inferred:
+
+| Person | Last message | Removed | Gap |
+|---|---|---|---|
+| `hale` | 2022-04-18 | *(self-departure)* | — |
+| `arlo` | 2022-12-30 | **2023-01-02** | 3 days |
+| `sena` | 2022-12-14 | **2023-01-14** | 31 days |
+| `gale` | 2023-03-05 | **2023-03-08** | 3 days |
+| `mira` | 2023-08-31 | **2023-09-01** | 1 day |
+| `orin` | 2025-01-03 | **2025-01-04** | 1 day |
+| `tove` | 2025-11-19 | **2025-11-20** | 1 day |
+| `kesh` | 2026-06-23 | **2026-06-24** | 1 day |
+
+Two corrections to earlier sections of this file follow from it. **`sena` was not spared and then vanished in the same week** — she was spared on 14 December, said nothing for a month, and was removed on 14 January. And `arlo`'s second exit was a **removal on 2 January 2023, the same day** `orin` posted *"so `arlo` is gone? May I ask what happened?"* — she was reacting to the service message. The shrug she received was in response to a removal the teacher had just performed.
+
+**Re-admissions are also in the ledger, and they are more common than the group's language suggests.** `arlo` re-added 2022-09-02 after four months out. `fenn` **removed 2024-02-12 and re-added 2024-06-06** — a four-month removal that reads in the chat as a voluntary absence. `sable` **removed 2025-07-19, re-added 2025-09-16.** `isla` similarly. So "break" sometimes means a removal with a return, and the two are not distinguishable from the conversation alone.
+
+**And the churn at the bottom is invisible in the chat.** People added and removed within weeks: 13 days (Sept 2023), 10 days (June–July 2026), six weeks (Nov–Dec 2024), two months (Jan–Mar 2025), three months (2024), three and a half months (`naia`, 2025). None of these produced a post-mortem, and most produced no message at all.
+
+**Nobody renamed themselves out of the record.** Checked by Telegram user id rather than display name: `sena`, `gale`, `hale`, `arlo`, `orin`, `tove` and `mira` have not posted in the group under any name since the dates above.
 
 ## The cross-case finding
 

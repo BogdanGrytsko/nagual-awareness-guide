@@ -37,7 +37,7 @@ Built from chat only; the essays will add to it on Monday. **This is a collectio
 |---|---|---|---|---|---|---|
 | `fenn` | 2023-10 | flu, then hearing did not return in one ear | yes — doctors, rehab exercises | *"According to Louise Hay I was stubborn and refusing to listen to my higher self / conscience"* | **permanent**: partial hearing loss, impaired balance, constant tinnitus (2024-06) | yes |
 | `fenn` | 2023-12-11 | surgery (reason not stated in chat) | yes | — | recovering, "everything is working out" | yes |
-| `fenn` | 2023-12 | **quit smoking** after ~20 years | self | — | sustained as far as the archive shows | **yes — Tier A win** |
+| `fenn` | 2023-12 → 2026-06 | **stated intention to quit smoking, repeatedly, for at least 2.5 years** — *"Quitting smoking tobacco, first and foremost"* (2025-05), *"I must quit smoking. I'm not sure about the way forward with smoking right now"* (2025-10), *"Realizing why I smoke… = quitting"* (2026-06) | — | — | **still smoking as of the last message in the archive** | no — corrected: an earlier draft of this table wrongly recorded this as a completed quit |
 | `fenn` | 2024-06 | tinnitus reinterpreted as guidance — *"I know my body is telling me something, and I often take them as confirmations of the thought I'm having"* | — | — | symptom unchanged | no — reinterpretation, not recovery |
 | `arlo` | 2021–2022 | chronic groin pain, persistent abdominal pain, knee pain | yes, plus EFT, Theta, acupuncture | his own: correlated with money worry | **worse**; left the apprenticeship over it (2022-05) | partial |
 | `arlo` | 2021-08 | cancelled health insurance at $600/month | — | cost | later took $500/month with a $6,100 deductible | yes |
@@ -59,7 +59,7 @@ Built from chat only; the essays will add to it on Monday. **This is a collectio
 Per apprentice: conditions reported with dates; whether medical care was sought, delayed or avoided; the stated cause each time; the outcome at last mention; and whether the outcome had an external anchor. Then the four axes above, tallied.
 
 **Two things to count that will be easy to miss:**
-- **Quitting addictions is a real, large health outcome**, and this group has produced at least two smoking cessations plus reported reductions in drinking. If the tally ends up negative overall, these still belong in it at full weight — they are Tier A wins by any medical standard.
+- **Quitting addictions is a real, large health outcome**, and where one has actually happened it belongs in the tally at full weight — `orin`'s smoking cessation is a Tier A win by any medical standard, self-reported but specific and sustained over four years. **Check each claimed quit against later messages before recording it**: the first draft of this table logged a second cessation that never happened. `fenn` has been stating the intention to quit for at least two and a half years and was still smoking in the last month of the archive, which makes his case an entry for `commitments-vs-outcomes.md`, not a health win.
 - **Symptom reinterpretation is not recovery.** Tinnitus experienced as guidance is the same tinnitus. This is the single easiest place for the archive to look like it contains improvements that it doesn't.
 
 ## Confounders, stated in advance
