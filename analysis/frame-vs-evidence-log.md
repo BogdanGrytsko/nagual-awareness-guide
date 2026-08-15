@@ -62,6 +62,16 @@ A group where the frame always wins loses the ability to learn. Every failure is
 - **What happened next:** Nagual tells him black-and-white thinking is not adult, that he will meet many people who believe the matrix narrative, and to keep the friendship.
 - **Verdict:** **advice adapted** — the teacher loosening an apprentice's rigidity, which is the opposite of the sealing pattern. Logged deliberately as a counter-example.
 
+### "This apprenticeship is not helping me to heal" — the stated reason overwritten
+
+- **Dates:** evidence 2022-05-05, frame reasserted 2022-05-12
+- **Source:** TAC, ids 10341–10381 (his farewell and his reason) and 10515–10534 (the post-mortem). Case detail in `why-apprentices-leave.md`.
+- **Teaching:** the apprenticeship produces healing and wellbeing, alongside personal power; physical conditions are approached through the training.
+- **Contradicting evidence:** after eighteen months, `arlo` quit and explained why, unprompted, in the group: *"I have not given up on becoming a warrior. It's just that over the past few months my health conditions have become worse, and every-time I have a flare up of pain, it sets me back so much and it's very demotivating. I've had so many setbacks because of this. **I just don't feel this apprenticeship is helping me to heal at this time.**"* A clean report of a teaching not producing its result, from a long-standing member, with no hostility in it.
+- **What happened next:** eight days later an apprentice asked what could be learned from his leaving. The answer named the things he had thanked the teacher for and asked the group *"What would you thank me for if you were to leave?"*, concluding: *"Those who have this to thank the nagual for, they gain - those who are focused on everything but this will leave. **This is why `arlo` left.**"* His stated reason was not addressed, contradicted, or mentioned. Nobody in the group raised it either, and it was visible to all of them.
+- **Verdict:** **frame won**, and this is the strongest instance in the log so far, because the contradicting evidence was explicit, public, recent and unrefuted — it was simply replaced with a defect of the apprentice. Note the asymmetry: had his health improved, the archive shows that would have been logged as life evidence for the training.
+- **Also true:** he returned four months later, so he did not experience it as a rupture; and the teacher's claim that `arlo` credited him with real benefits is corroborated by `arlo`'s own farewell, which thanks him warmly. The problem is not that the gratitude was invented. It is that gratitude was substituted for the reason.
+
 ### The 5–10% gift — S. in Bhaarat
 
 - **Dates:** event 2025-08-28; escalation 2025-08-30 to 2025-09-13; canonised in the group's retelling 2026-04-06; retold in an undated Sunday masterclass
