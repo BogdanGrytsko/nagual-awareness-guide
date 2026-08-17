@@ -94,6 +94,56 @@ A group where the frame always wins loses the ability to learn. Every failure is
 
 ---
 
+### The Africa exchange — a factual dispute answered with a credential challenge
+
+- **Dates:** 2022-12-13 → 2022-12-15. `arlo`'s last message: 2022-12-30.
+- **Source:** TAC chat `c13654`–`c13705`. Found 2026-08-17 by the per-person dossier method,
+  not by any of the four vector studies — none of which could see it.
+- **Teaching:** that a rejection read as racial is the reader's own *"blame game"* and
+  *"false hierarchical worse-than/better-than comparative game"*; and factually, that small
+  companies face serious administrative obstacles hiring outside the EU.
+- **Contradicting evidence:** `mira`, who is Kenyan, was rejected from a freelance job on the
+  stated ground that the company *"prefer people from Europe"*. Her first reading was *"a ploy
+  to get rid of me / considered less than / racism."* She then abandoned it, and named the
+  lever: *"This change of perspective came after the nagual shared his opinion with me and said
+  **he doesn't hire people from 'third world countries' due to a grovelling mentality**."*
+  `arlo` disputed the reversal on the merits — the tax and admin reasons were *"laughable"*, he
+  too had read the rejection as possibly racist, and the recruiter had said *Europe*, not *EU*,
+  which are different things.
+- **What happened next:** the teacher answered the substance with *"There are serious admin
+  hassles for small companies employing anyone outside the EU these days especially from **a
+  fuck all place like Africa**"*, and answered `arlo`'s Europe/EU distinction with a challenge
+  to his standing rather than to his reasoning: *"I'm assuming you know because you have
+  personal life evidence to back it up? When was the last time you traveled to Europe? 😊"*
+  Another apprentice then turned on `arlo` over a misreading of his position, which `arlo`
+  corrected. His closing line: *"The other stuff about the recruiter was not that important,
+  but for some reason that's what the focus has become."* **He posted for the last time fifteen
+  days later and left without a farewell.** Nine months after this, `mira` was removed for
+  inability to pay.
+- **Verdict:** **frame won.** The disputed claim was never engaged; the disputant's
+  entitlement to speak was. Two revisions occurred and neither was to the frame: `mira`
+  revised her own perception into a defect, and `arlo` left.
+
+### The pre-decided healing that failed on schedule
+
+- **Dates:** commitment 2021-09-10, reported failure 2021-12-31.
+- **Source:** `c5700`-era chat and essay `e7590`.
+- **Teaching:** pre-decide a date by which a condition will be released, then act accordingly
+  — the technique as taught, and used by `arlo` on two conditions at once.
+- **Contradicting evidence:** on the date he set, in writing: *"I'd pre-decided to have healed
+  myself of this condition by 31 December 2021, but it does not appear that this is going to
+  happen… **I'm not sure how to proceed at this point being that the healing modalities I've
+  worked with have not helped.** I feel I've done as much internal energy work as I possibly
+  can (the Louise Hay work, the healing meditations, the EFT, the Theta healing, the
+  acupuncture, etc.). And so, where do I go from here?"*
+- **What happened next:** no revision, and no answer to the question he asked. He was reminded
+  — via don Juan's diarrhea analogy, which he recounts himself — that he *"concerns himself too
+  much about petty things"*. He continued, adding a urologist and a five-day fast.
+- **Verdict:** **frame won — but log the honest complication.** The *same* technique applied to
+  his knee on a parallel date **worked**, and he reported that too, three months early. So this
+  is not a method that never works; it is a method whose failures produce no adjustment while
+  its successes are credited. That asymmetry is the finding, not the failure.
+
 ## Open items
 
 - **The masterclass layer of the 5–10% episode.** The strongest sanction in that case — the teacher saying he had closed "that gate" — exists only in a Sunday masterclass, i.e. outside the text archive, and is here on Yar's recollection alone. Check it against his recordings when they are brought in. The same applies to whether the amount was ever discussed on a call. Until then the logged entry understates the pressure.

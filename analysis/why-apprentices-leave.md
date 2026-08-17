@@ -259,6 +259,7 @@ circular.
 | `thea` | public demand for footage of a promise, then *"Answer @…"* | 2023-07-21 | 2023-09-23 | **9** | **yes** |
 | `tove` | £200/essay *"for you specifically"*, then £350 | 2025-09-01 | 2025-11-19 | **11** | **yes** |
 | `rex` | *"I will be kicking y[ou out]"* | 2021-09-02 | 2021-11-22 | 12 | borderline |
+| `arlo` | **put on a 6-month break — *"on ice till the summer"*** | ~2021-12 | 2022-05-04 (1st exit) | ~21 | no |
 | `dov` | same escalated-impeccability notice as `hale`; then an Ayahuasca ultimatum | 2022-03-18 | 2022-12-15 | 39 | no |
 | `bram` | arrears; ordered to calculate total penalty owed | 2023-04-10 | 2023-12-02 | 34 | no |
 | `kesh` | £150 penalty for three missed essays | 2024-12-19 | 2026-06-23 | 79 | no |
@@ -266,8 +267,18 @@ circular.
 | `fenn` | *"He's next on the chopping block anyway"* | 2025-04-04 | **still present** | 71+ | no |
 | `wren` | forfeits the apprenticeship if she leaves the army inside a year | 2025-05-07 | **still present** | 66+ | no |
 
-**Result: 5 of 12 (42%), or 6 counting `rex` at exactly 12 weeks.** So the honest finding is
-the one I did not expect:
+**Result: 5 of 13 (38%), or 6 counting `rex` at exactly 12 weeks.** `arlo` was added on
+2026-08-17 when the per-person dossier turned up an enforcement event none of my sweeps could
+see: **he was suspended for six months** — *"on ice till the summer"* — and his own account of
+it is worth keeping, because it shows what suspension does to someone who believes he is
+working hard: *"When he initially put me on a 6-month break, I was very upset about that… it
+really frustrates me. I think to myself, is it possible that other apprentices are working
+harder than me? The answer I get is No."* He did not leave inside 12 weeks; he left at ~21, and
+then returned, and then vanished. **So the enforcement repertoire is wider than fines and
+ultimatums — suspension is in it — and my sweep patterns do not cover it.** Expect the true
+enforcement group to be larger than 13.
+
+So the honest finding is the one I did not expect:
 
 > **Penalty-or-ultimatum is not a mechanism that reliably produces departure.** Seven of the
 > twelve did not leave inside 12 weeks, and **four are still in the group between 15 months
