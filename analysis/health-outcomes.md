@@ -97,6 +97,8 @@ declared a quit more than once, that is treated as evidence the earlier one laps
 | `dell` | **coffee** | *"it has really been fine saying no to coffee for a week now, it was emotionally way easier than saying no to blunts"* (2024-01-14) | |
 | `bram` | **coffee** | *"I just got past the three week mark"* (2022-01-28) | |
 | `isla` | **weed** | *"I gave up weed"* (2026-05-03); *"when I stopped lying to myself about smoking weed"* (2025-04-27) | |
+| `yar` | **news** | *"So I choose to drop news"* and *"Since I've stopped watching the news I've uncovered a layer of sadness in myself"* (2024-03-03); then plainly, *"I've dropped watching the news (fuck that shit!)"* (2024-05-29) | **CORRECTED 2026-08-17.** I had this in the did-not-hold table, on the strength of *"Still addicted to the news"* — a line from the **diagnosis** section of the very same essay whose conclusion is that he dropped it. I quoted the fragment that fitted a pattern |
+| `yar` | **sweets and chocolate** | *"I've dropped watching the news… and eating lots of sweets, chocolates etc."* (2024-05-29) | missed entirely on the first pass — it is in the same sentence as the news |
 | `mira` | **tobacco** | *"It started with the will to stop smoking, which, **before the apprenticeship**, I thought was the hardest thing I ever undertook"* (2021-11-28) | **pre-apprenticeship — does not belong to the training** |
 | `rook` | **coffee** | *"Two years ago… I used to have a heavy coffee addiction"* (2025-01) | timing suggests before or very early |
 | `thea` | **alcohol** | *"I am a Being who loves and thrives being sober from alcohol"* (2022-09); *"Six or so months into being sober"* (2023-07) | held at least a year before she left |
@@ -112,8 +114,8 @@ declared a quit more than once, that is treated as evidence the earlier one laps
 | `isla` | sugar | *"I don't want to stop eating sugar, but I Want a healthy, lean, beautiful body"* (2023-11) |
 | `isla` | television | still watching in 2026: *"[`isla`], how come you still watch TV? 🙈 Why do you have TV in your place in the first place?"* |
 | `isla` | coffee | given up as a daily pacifier — *"I really just traded it for brewed cacao"* (2024-03) |
-| `yar` | news | stopped Feb 2024, then *"Still addicted to the news"* (2024-03-03) |
-| `yar` | weed, porn | **reduced, not stopped**: *"I drastically reduced weed and porn consumption"*, *"I reduced porn to once per month, only amateur"* (2026-05-09) |
+| `yar` | weed | **the written record stops short of the fact.** Last written word is *"I drastically reduced weed and porn consumption"* (2026-05-09), with *"I caught myself feeling — hey, I actually don't want to smoke weed at a corporate party"* and garage meetings becoming *"boring and pointless"*; but also *"I smoked weed and drove the next day"* (2026-02-17). **He reports having since stopped. The archive does not contain that, so it is a real gap, not an error** — the corpus ends 2026-08-15 |
+| `yar` | porn | **reduced, and the magnitude belongs in the record**: from *"hardcore porn addiction - like 5 days per week I was watching it for hours"* (2025-04-11) to *"once per month, only amateur"* (2026-05-09). One of the largest documented reductions in the archive; an earlier version of this row logged it as a bare "reduced" |
 | `gale` | cannabis, alcohol | *"struggling with overcoming addiction to cannabis and alcohol. This week I drank a lot"* (2022-04); *"I am still working on the coffee, and I admit enjoying a cigarette or two a month"* (2022-08). Left Mar 2023 — outcome unknown |
 | `hale` | ejaculation | assigned semen retention after *"36 years"*; *"I am experiencing resistance with this"* (2021-05). Gone within a year |
 | `holt` | masturbation | had stopped for 1.5 years *before* the apprenticeship; then **assigned a task to separate ejaculation from orgasm** — i.e. the target changed from abstinence to technique (2025-02) |
@@ -156,12 +158,21 @@ testing: he chose the amount, the payee and the terms himself.
 gone, tobacco still there after four years and six declared quits. Any claim about what this
 training does to addiction has to explain all three results at once.
 
+**A method warning, earned three times in one day.** Every error in this register came from the
+same move: **quoting the fragment that fits the pattern I was already forming.** It produced the
+false `reframed` zero; it made `fenn`'s smoking read as pure failure until the 30/day → 3–4/day
+reduction was added; and it put `yar` in the did-not-hold table by quoting the diagnosis half of
+an essay whose conclusion was the opposite. In this archive people habitually state the problem
+and the resolution in the same document — often in adjacent sentences — because that is what a
+reflective essay is. **Reading one sentence out of an essay is not evidence about the essay.**
+For any addiction claim, find the person's LAST word on it and read the whole passage around it.
+
 ## What gets scored
 
 Per apprentice: conditions reported with dates; whether medical care was sought, delayed or avoided; the stated cause each time; the outcome at last mention; and whether the outcome had an external anchor. Then the four axes above, tallied.
 
 **Two things to count that will be easy to miss:**
-- **Quitting addictions is a real, large health outcome**, and where one has actually happened it belongs in the tally at full weight. **COUNT CORRECTED 2026-08-17 — see the addictions register above.** An earlier version of this bullet put the tally at "three sustained cessations across two people". That was wrong and far too low: a full sweep of the corpus found **twelve cessations that held, across nine people**, against a comparable list that did not hold. The error came from reading the health vector alone — most of the cessations surfaced from the commitments and addictions sweeps instead. **The cessations remain the strongest evidence in this investigation that the training produces real physical change.** The register also shows two things that a bare tally hides: the pattern is substance-specific, and the single most-cited win was obtained under threat of expulsion.
+- **Quitting addictions is a real, large health outcome**, and where one has actually happened it belongs in the tally at full weight. **COUNT CORRECTED 2026-08-17 — see the addictions register above.** An earlier version of this bullet put the tally at "three sustained cessations across two people". That was wrong and far too low: a full sweep of the corpus found **fourteen cessations that held, across nine people**, against a comparable list that did not hold. The error came from reading the health vector alone — most of the cessations surfaced from the commitments and addictions sweeps instead. **The cessations remain the strongest evidence in this investigation that the training produces real physical change.** The register also shows two things that a bare tally hides: the pattern is substance-specific, and the single most-cited win was obtained under threat of expulsion.
 
   **`thea`'s coffee does not belong in that tally, and I nearly put it there.** She did end a ten-year daily habit cold turkey in October 2022, reported the withdrawal day by day, and wrote *"Safe to say the coffee addiction is gone"* — so the *commitment* she made (no coffee 11 Oct to 11 Nov) is correctly scored `kept` in `commitments-2021-22-scored.md`. But by March 2023 she is drinking it again by choice: *"I enjoy to drink coffee when it is special and honoured for me, not as a 'crutch' for appetite suppression"*. **Daily habit → occasional use is a real change and should be recorded as one. It is not abstinence, and calling it a cessation would be the same overstatement this file already caught once.**
 - **Check each claimed quit against later messages before recording it**: an early draft of this table logged a cessation that never happened. `fenn` has now been stating the intention to quit smoking for **four years** — the earliest dated version is 2022-05 — and was still smoking in the last month of the archive. That makes his smoking an entry for `commitments-vs-outcomes.md` and not a health win, **even though the same man's alcohol and coffee quits are real**. One person, same method, three attempts, two held and one didn't: that is the most honest specimen of what the training does that this archive contains.
