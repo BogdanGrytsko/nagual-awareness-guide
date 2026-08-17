@@ -9,3 +9,7 @@
 
 # Private Telegram exports (TAC etc) — other people's messages, never publish.
 tg-private/
+
+# Python bytecode - was tracked by accident, churned on every script run.
+__pycache__/
+*.pyc

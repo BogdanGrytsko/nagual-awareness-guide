@@ -100,5 +100,6 @@ Written now so the goalposts cannot move once the numbers exist.
 
 ## Open decisions
 
-- **D1 — pilot window.** Default above is 2024–2025 plus one 2021–22 leaver. The alternative is to centre the pilot on 2021–22, where the leavers are and where the roster turnover happened, at the cost of thinner essay coverage (123 and 249 essays vs 430 and 454).
+- **D1 — pilot window. DECIDED 2026-08-17: centre the pilot on 2021–22.** Yar's call, against my recommendation of the denser 2024–25 window, and his reasoning is better than mine was: 2021–22 is the cohort whose outcomes have *resolved*. A commitment made in 2021 has had five years to be kept, abandoned or reframed, and the people who made those commitments have since left, so their arcs are complete and closed. In 2024–25 most outcomes are still in progress, which would push mass into `unknown` for reasons that have nothing to do with the frame. The cost is accepted: thinner coverage (372 essays in window vs 884), and a corpus where the writers can no longer be asked anything.
 - **D2 — pseudonyms.** `fenn` and `tove` are minted here; the remaining senders need aliases before any table names them.
+- **D2 (corpus) — CLOSED 2026-08-17 without Google Drive.** The 389 absent documents, the 145 filename-ambiguous entries and Yar's own 96 were all recovered by downloading from Telegram **by message id** (`scripts/tg_backfill.py`), which is immune to filename collision and needed no Drive access. The gdrive MCP server still returns `invalid_request` on every query; it is no longer on the critical path.
