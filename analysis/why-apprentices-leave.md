@@ -238,6 +238,85 @@ Note also what the essay-penalty rule selects for: it makes *written output* the
 
 ---
 
+## The base-rate test, run 2026-08-17 — and it partly falsifies the section above
+
+The list in "The cross-case finding" was assembled by looking for cases that fit the shape.
+That is selection on the outcome, and the pre-registered fix was stated in
+`leavers-investigation`: **take everyone ever penalised or given an ultimatum — including
+the ones who stayed — and count how many left within 12 weeks.** Built with
+`scripts/sweep_enforcement.py`, which searches the enforcement phrasings the commitment
+extractor provably cannot see (it had missed `dov`'s ultimatum entirely).
+
+Twelve people have a dated, individually-directed enforcement event in the archive.
+`mira` is excluded from the timing because her event *was* her removal, which would be
+circular.
+
+| person | enforcement event | date | last message | weeks | left ≤12 wks? |
+|---|---|---|---|---|---|
+| `sena` | *"By end of day today. Tomorrow if no reply… you're out"* | 2022-12-13 | 2022-12-14 | **0** | **yes** |
+| `gale` | asked if he knew about the £50 essay penalty | 2023-02-26 | 2023-03-05 | **1** | **yes** |
+| `hale` | *"escalated impeccability… miss one more and I will simply remove you"* | 2022-03-18 | 2022-04-18 | **4** | **yes** |
+| `thea` | public demand for footage of a promise, then *"Answer @…"* | 2023-07-21 | 2023-09-23 | **9** | **yes** |
+| `tove` | £200/essay *"for you specifically"*, then £350 | 2025-09-01 | 2025-11-19 | **11** | **yes** |
+| `rex` | *"I will be kicking y[ou out]"* | 2021-09-02 | 2021-11-22 | 12 | borderline |
+| `dov` | same escalated-impeccability notice as `hale`; then an Ayahuasca ultimatum | 2022-03-18 | 2022-12-15 | 39 | no |
+| `bram` | arrears; ordered to calculate total penalty owed | 2023-04-10 | 2023-12-02 | 34 | no |
+| `kesh` | £150 penalty for three missed essays | 2024-12-19 | 2026-06-23 | 79 | no |
+| `sable` | asked if she knew about the £50 penalty | 2024-12-12 | **still present** | 87+ | no |
+| `fenn` | *"He's next on the chopping block anyway"* | 2025-04-04 | **still present** | 71+ | no |
+| `wren` | forfeits the apprenticeship if she leaves the army inside a year | 2025-05-07 | **still present** | 66+ | no |
+
+**Result: 5 of 12 (42%), or 6 counting `rex` at exactly 12 weeks.** So the honest finding is
+the one I did not expect:
+
+> **Penalty-or-ultimatum is not a mechanism that reliably produces departure.** Seven of the
+> twelve did not leave inside 12 weeks, and **four are still in the group between 15 months
+> and 20 months after their enforcement event.** `kesh` absorbed a £150 penalty and stayed
+> another 18 months. `sable` was asked about a £50 penalty and is still here. Stated as a
+> general law — penalised, therefore gone — the claim is false, and the earlier section
+> overstated it by listing only the cases that fit.
+
+**What survives, and it is sharper than what it replaces.** The five fast exits are not the
+five biggest fines. They are the five cases where the enforcement took the form of **a public
+demand for an immediate answer, under an explicit threat of removal, with a same-day or
+next-day deadline**: *"by end of day today, tomorrow you're out"*; *"Answer @…"*; *"miss one
+more and I will simply remove you"*; a direct question about a penalty put to someone in
+front of everyone. The seven who stayed were, with the exception of `rex`, handed **a standing
+charge they could pay or absorb** — £50, £150, a forfeiture clause, a remark about a chopping
+block — with no immediate public reply demanded.
+
+So the better-specified hypothesis, replacing the old one:
+
+> It is not the money that precedes departure. It is **being required to answer publicly,
+> immediately, with removal named as the alternative.** The fine is survivable; the summons
+> is not.
+
+That is testable on the next cohort and it makes a prediction: an apprentice given a standing
+penalty will usually stay, and an apprentice given a same-day public ultimatum will usually
+go, regardless of the amounts.
+
+**Three limits, stated rather than buried.**
+
+1. **The comparison group is contaminated, and this is the big one.** I can only see
+   enforcement that happened *in the group chat*. Fees and penalties are largely handled on
+   the paid calls, which are not in the archive. So "no documented enforcement" does not mean
+   "never enforced", and any base rate computed from the other group understates enforcement
+   there. The 42% is a figure about **publicly visible** enforcement only.
+2. **Last message is a proxy for departure, and an imperfect one.** `rex` posted for the last
+   time in Nov 2021 but was still being addressed as a member in Mar 2022 — so he was silent
+   inside the group for months before leaving it. Where the membership ledger gives an exact
+   removal date it should be preferred; for the rest, these weeks are lower bounds on tenure.
+3. **N = 12.** Nothing here supports a percentage to more than one significant figure, and a
+   single additional case moves it by eight points.
+
+**What this does not touch.** The rest of the section above stands: 38 of 40 exits were
+admin removals, the explanations offered afterwards are properties of the person who left,
+the leavers cannot be reached, and the essay-penalty rule makes written output the condition
+of membership. Those findings are about what is *said and done* around departures. This test
+was only about whether penalties *cause* them, and the answer is: not on their own.
+
+---
+
 ## The race question, precisely
 
 Yar raised it: `sena`, `AlmaSi` and `tove` were all Black women, and he senses a high correlation. What the archive supports, and what it doesn't:
