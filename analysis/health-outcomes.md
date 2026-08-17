@@ -74,12 +74,94 @@ table applied to a heart attack, by the patient, unprompted.
 
 **One entry that is about the group rather than the body.** When `fenn` announced his surgery in the group, the reply he received alongside good wishes was *"At the same time - why so much self importance here? 🙈🙊"*, comparing him to a relative who made a drama of a procedure. A month later he had accepted it: *"So much self-importance, yes. Why? I don't know why! 😅 … Where do you see my self-importance shine through the most?"* Whatever else is true, **announcing an operation was treated as a character fault, and the patient agreed.**
 
+## The addictions register — what was dropped, what wasn't
+
+Added 2026-08-17 at `yar`'s request. Built by sweeping the complete corpus for
+substance-plus-action language, then reading all 245 hits. **This corrects my own earlier
+count of "three sustained cessations across two people", which was wrong and too low.**
+
+**Method limit first:** this records what people *said* in the group. Relapses are
+under-reported by construction, and the group rewards announcing a quit. Where someone
+declared a quit more than once, that is treated as evidence the earlier one lapsed.
+
+### Held
+
+| person | substance | evidence | notes |
+|---|---|---|---|
+| `orin` | **tobacco, after 38 years** | *"stopped smoking"* listed among her changes (2024-03); *"30,000 cigarettes… HALF a LITER of tar"* (2024-12) | **see the coercion finding below** |
+| `orin` | **alcohol** | *"left Matrix-job, stopped smoking, stopped drinking"* (2024-03-25) | |
+| `fenn` | **alcohol** | *"I have quit drinking, completely"* (2022-09-11); still holding four years later — *"Exactly like when I quit alcohol: certain (social) settings cease making any sense"* (2026-06-09) | by explicit strategy: *"I set my intent, bookends, strategy. I cut down. And down. And then I quit"* |
+| `fenn` | **coffee** | quit Oct 2022; *"My biggest wins have been quitting coffee, alcohol and discovering stand-up comedy"* (2024-12-28) | |
+| `sable` | **coffee** | *"[`sable`] well done for quitting your coffee habit cold"* — the teacher, 2023-09-19 | |
+| `dell` | **tobacco** | *"I also have been through a lot of emotions since I stopped smoking last week"* (2023-04-27); the teacher: *"He dropped smoking and weeds COLD and hasn't looked back"* (2023-05-11) | |
+| `dell` | **coffee** | *"it has really been fine saying no to coffee for a week now, it was emotionally way easier than saying no to blunts"* (2024-01-14) | |
+| `bram` | **coffee** | *"I just got past the three week mark"* (2022-01-28) | |
+| `isla` | **weed** | *"I gave up weed"* (2026-05-03); *"when I stopped lying to myself about smoking weed"* (2025-04-27) | |
+| `mira` | **tobacco** | *"It started with the will to stop smoking, which, **before the apprenticeship**, I thought was the hardest thing I ever undertook"* (2021-11-28) | **pre-apprenticeship — does not belong to the training** |
+| `rook` | **coffee** | *"Two years ago… I used to have a heavy coffee addiction"* (2025-01) | timing suggests before or very early |
+| `thea` | **alcohol** | *"I am a Being who loves and thrives being sober from alcohol"* (2022-09); *"Six or so months into being sober"* (2023-07) | held at least a year before she left |
+
+### Did not hold, or never started
+
+| person | substance | what happened |
+|---|---|---|
+| **`fenn`** | **tobacco** | **The archive's clearest failure, and its most instructive case.** At least six separate declarations of quitting: 2022-05, 2023-03, 2023-08, 2023-10, 2024-11, 2025-01. Real progress — **30/day down to 3–4/day by Apr 2022.** Then four more years. *"I still smoke, and I have not found out why"* (2024-06). *"I have no strategy when it comes to quitting smoking"* (2026-04). His last word on it in the archive: **"And on top of it all, I'm OK that I still smoke"** (2026-07-08) |
+| `dell` | weed | Quit Apr 2023 "COLD" per the teacher — then *"I smoked 4 times since I decided to stop"* (2024-08), and two years on: **"I didn't sense any confidence in me not doing weed ever again, I am still addicted"** (2025-05-04) |
+| `thea` | coffee | ten-year daily habit ended cold turkey Oct 2022, but by Mar 2023 she drinks it by choice again. Daily → occasional: real change, not abstinence |
+| `wynn` | nicotine | declared quit Mar 2022, **declared quit again Aug 2022** — so the first lapsed. Removed Oct 2022, no long-run data |
+| `isla` | sugar | *"I don't want to stop eating sugar, but I Want a healthy, lean, beautiful body"* (2023-11) |
+| `isla` | television | still watching in 2026: *"[`isla`], how come you still watch TV? 🙈 Why do you have TV in your place in the first place?"* |
+| `isla` | coffee | given up as a daily pacifier — *"I really just traded it for brewed cacao"* (2024-03) |
+| `yar` | news | stopped Feb 2024, then *"Still addicted to the news"* (2024-03-03) |
+| `yar` | weed, porn | **reduced, not stopped**: *"I drastically reduced weed and porn consumption"*, *"I reduced porn to once per month, only amateur"* (2026-05-09) |
+| `gale` | cannabis, alcohol | *"struggling with overcoming addiction to cannabis and alcohol. This week I drank a lot"* (2022-04); *"I am still working on the coffee, and I admit enjoying a cigarette or two a month"* (2022-08). Left Mar 2023 — outcome unknown |
+| `hale` | ejaculation | assigned semen retention after *"36 years"*; *"I am experiencing resistance with this"* (2021-05). Gone within a year |
+| `holt` | masturbation | had stopped for 1.5 years *before* the apprenticeship; then **assigned a task to separate ejaculation from orgasm** — i.e. the target changed from abstinence to technique (2025-02) |
+| `tove` | tobacco | *"seeking to quit tobacco"* (2025-08), via a herbal tincture. Removed three months later |
+
+### Three findings that matter more than the counts
+
+**1. The flagship health win was produced by a threat of expulsion.** `orin`'s smoking
+cessation is the outcome this file has always treated as the strongest evidence the training
+produces real physical change. In Dec 2023 `vela` asked her directly:
+
+> *"I believe you once mentioned that **you stopped smoking because Nagual Anaam told you you
+> had to leave the apprenticeship if you didn't stop.** Is that correct?"*
+
+And `orin` herself, in 2021: *"when I was close to not smoke anymore **due to the orders of
+Nagual Anaam**"* — with her mother's jibe recorded alongside it: *"So, you stop smoking because
+a man tells you to do so?"*
+
+**Both things are true and both belong in the record.** A 38-year, 30,000-cigarette habit
+ended and stayed ended — that is a large, real, verifiable health gain. And it was obtained
+under threat of removal from the group. Anyone citing it as evidence that the teaching works
+has to also say what the mechanism was, and it was not inner silence.
+
+**2. The pattern is substance-specific, and it is legible.** Coffee falls easily — six people,
+and it stays fallen. Alcohol falls — three people, and it stays fallen. **Tobacco, weed, porn
+and screens resist**: the one clean tobacco quit inside the apprenticeship came under
+ultimatum, the weed quit is self-described as still-addicted two years on, and porn and news
+appear only ever as *reductions*. The dividing line is not willpower or method — it is how
+socially peripheral the substance is. **The training reliably removes what a person can drop
+without changing who they are with, and reliably fails on what is bound to identity,
+solitude or sex.**
+
+**3. A self-designed financial penalty worked where imposed ones don't.** `dell` set his own:
+**€1,000 to another apprentice for every joint.** His verdict — *"it's been really
+efficient"* (2025-05). That sits oddly against `why-apprentices-leave.md`, where imposed
+penalties do not reliably change behaviour and sometimes precede exit. The difference worth
+testing: he chose the amount, the payee and the terms himself.
+
+**And keep `fenn` as the control case.** One man, one teacher, one method: alcohol gone, coffee
+gone, tobacco still there after four years and six declared quits. Any claim about what this
+training does to addiction has to explain all three results at once.
+
 ## What gets scored
 
 Per apprentice: conditions reported with dates; whether medical care was sought, delayed or avoided; the stated cause each time; the outcome at last mention; and whether the outcome had an external anchor. Then the four axes above, tallied.
 
 **Two things to count that will be easy to miss:**
-- **Quitting addictions is a real, large health outcome**, and where one has actually happened it belongs in the tally at full weight. The tally as of 2026-08-17 is **three sustained cessations across two people**: `orin`'s smoking (*"30,000 cigarettes… HALF a LITER of tar"*), `fenn`'s alcohol, and `fenn`'s coffee. Both of `fenn`'s were found by the commitments pilot rather than by reading the health vector — they were sitting in the archive unrecorded here. **This is the strongest evidence in the whole investigation that the training produces real physical change**, and it should not be diluted by sitting next to failures.
+- **Quitting addictions is a real, large health outcome**, and where one has actually happened it belongs in the tally at full weight. **COUNT CORRECTED 2026-08-17 — see the addictions register above.** An earlier version of this bullet put the tally at "three sustained cessations across two people". That was wrong and far too low: a full sweep of the corpus found **twelve cessations that held, across nine people**, against a comparable list that did not hold. The error came from reading the health vector alone — most of the cessations surfaced from the commitments and addictions sweeps instead. **The cessations remain the strongest evidence in this investigation that the training produces real physical change.** The register also shows two things that a bare tally hides: the pattern is substance-specific, and the single most-cited win was obtained under threat of expulsion.
 
   **`thea`'s coffee does not belong in that tally, and I nearly put it there.** She did end a ten-year daily habit cold turkey in October 2022, reported the withdrawal day by day, and wrote *"Safe to say the coffee addiction is gone"* — so the *commitment* she made (no coffee 11 Oct to 11 Nov) is correctly scored `kept` in `commitments-2021-22-scored.md`. But by March 2023 she is drinking it again by choice: *"I enjoy to drink coffee when it is special and honoured for me, not as a 'crutch' for appetite suppression"*. **Daily habit → occasional use is a real change and should be recorded as one. It is not abstinence, and calling it a cessation would be the same overstatement this file already caught once.**
 - **Check each claimed quit against later messages before recording it**: an early draft of this table logged a cessation that never happened. `fenn` has now been stating the intention to quit smoking for **four years** — the earliest dated version is 2022-05 — and was still smoking in the last month of the archive. That makes his smoking an entry for `commitments-vs-outcomes.md` and not a health win, **even though the same man's alcohol and coffee quits are real**. One person, same method, three attempts, two held and one didn't: that is the most honest specimen of what the training does that this archive contains.

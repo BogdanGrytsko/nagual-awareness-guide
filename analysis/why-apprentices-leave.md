@@ -359,7 +359,7 @@ Her exit is the least ambiguous in the archive. She had borrowed against apprent
 
 Her answer thanked him for *"the gift of the apprenticeship & your patience."* Her last message is 2023-08-31. **She was removed for inability to pay**, full stop — no essay ultimatum, no assessment of her practice.
 
-This makes the money hypothesis considerably stronger than the race hypothesis, and it also sharpens it: `tove` told the group in May 2025 that she had taken the call-centre job she disliked specifically *"to repay my debt for apprenticeship calls. To Nagual Anaam and Hugo"* — six months of work to clear apprenticeship debt. That job then consumed the time she was being penalised £200–350 per essay for not having. Two of the three cases are people selling assets or taking jobs to fund fees, and being removed when the funding failed.
+This makes the money hypothesis considerably stronger than the race hypothesis, and it also sharpens it: `tove` told the group in May 2025 that she had taken the call-centre job she disliked specifically *"to repay my debt for apprenticeship calls. To Nagual Anaam and [`dell`]"* — six months of work to clear apprenticeship debt. That job then consumed the time she was being penalised £200–350 per essay for not having. Two of the three cases are people selling assets or taking jobs to fund fees, and being removed when the funding failed.
 
 ### The enforcement does not track the submission record
 
