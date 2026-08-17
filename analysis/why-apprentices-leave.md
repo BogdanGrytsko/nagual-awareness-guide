@@ -116,7 +116,7 @@ Then the norm is stated outright: *"I usually give anyone who leaves 24 hours to
 **Span:** Dec 2020 → Dec 2022, with a four-month exit in between: 1,145 messages, 55,800 words — the most substantive contributor among the leavers. Chosen because he is the single most important case in the archive for the money question.
 
 **The disciplinary arc.**
-- **Dec 2021** — named in the group as already on the way out for unsubmitted essays: *"Brett & `arlo` are already going out. I don't want time wasters here."*
+- **Dec 2021** — named in the group as already on the way out for unsubmitted essays: *"`rex` & `arlo` are already going out. I don't want time wasters here."*
 - **Dec 2021, days later** — the hunt. **What triggered it:** in a casual late-night exchange about acting "like a lion", he observed that acting like one has consequences nowadays, then added *"I'm just venting… in most respects, I'm still just a little lamb"*, said he could not stand the current US administration, that he would never vote for that party again, and that he unexpectedly missed the previous president. That is the whole offence — a vent about domestic politics, self-labelled as venting.
 
  The response, in sequence: *"Then either: 1. Move to another country like `taro` if you have half the balls 2. Seek to turn it into an advantage **3. Kill yourself and be done with it.** I made video about people like you `arlo`…"* — the "move to another country" line being a comparison to an apprentice who had emigrated, offered as the courageous alternative to complaining about your government. Then:
