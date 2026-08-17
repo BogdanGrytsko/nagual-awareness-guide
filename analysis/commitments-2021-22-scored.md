@@ -21,7 +21,7 @@ Evidence is cited as `c<id>` / `e<id>` — the Telegram message id, retrievable 
 | `kept` | 11 | 30% | C021, C028, C035, C042, C083, C085, C087, C088, C089, C095, C106 |
 | `partly` | 1 | 3% | C004 |
 | `abandoned` | 12 | 32% | C014, C023, C033, C059, C064, C065, C072, C079, C082, C084, C102, C105 |
-| `reframed` | 0 | 0% | — |
+| `reframed` | **not measurable** | — | see the retraction below |
 | `unknown` | 13 | 35% | C013, C027, C030, C043, C045, C046, C048, C071, C076, C090, C094, C111, C115 |
 | **total scored** | **37** | | plus C047 reclassified out of the register |
 
@@ -29,15 +29,37 @@ The ids are listed so the arithmetic is checkable. An earlier draft of this file
 bucket counts that did not sum to the stated total; they do now.
 
 **Read that carefully, because it does not say what either side of this argument would
-want it to say.** Somewhat under a third of the checkable commitments in this window were kept, several
-of them with hard external anchors and some ahead of schedule. About a third were abandoned. A
-third are not answerable from text at all. `reframed` — the bucket I
-expected to do the most work, and the one the sealing critique predicts — **has not fired
-once in this pass.** People here mostly either did the thing or went quiet about it. They
-did not, in this sample, convert a missed action into a fresh insight and move on.
+want it to say.** Somewhat under a third of the checkable commitments in this window were
+kept, several of them with hard external anchors and some ahead of schedule. About a third
+were abandoned. A third are not answerable from text at all.
 
-That last finding is evidence *against* part of the critique in
-`frame-vs-evidence-log.md`, and it gets stated first for that reason.
+> ## RETRACTION, 2026-08-17, a few hours after this file was first committed
+>
+> **The original version of this file claimed that `reframed` "has not fired once", and
+> called that evidence against the sealing critique. That claim was wrong, and it was the
+> strongest pro-apprenticeship statement in the file.**
+>
+> It did not survive the recall check in `commitments-recall-check.md`. `reframed` fired in
+> the very month chosen for that check, and my method was structurally incapable of seeing
+> it: a reframe contains no commitment language, because it is a decision *not* to, phrased
+> as an insight. An instrument built to find "I will" cannot find it.
+>
+> The case is `mira` and Kukuwa. She had told the teacher she would become a Kukuwa
+> instructor, said so in an essay, and bought a CPR/First Aid certificate towards it. She
+> then dropped it in a one-line aside — *"my KUKUWA ambitions have been placed on an
+> indefinite pause 😂"* — and her next essay converts the drop into a gain: the reasons for
+> keeping her word are relabelled as machine-mind *"ammunitions"*, and the abandonment
+> becomes *"a golden opportunity to immerse myself into Breathwork"* and a *"gateway to give
+> myself permission to be who I don't want to be"*, credited to a call with the teacher.
+> **Breathwork is then never mentioned by her again. Nobody ever asked about either.**
+>
+> The same check also showed **recall is about 27%** — the frozen register is a 1-in-4
+> sample, so no absolute count in this file should be read as a population figure — and that
+> my claim about the A:B ratio was an artifact of the pattern list, not a fact about how
+> much the teacher assigns. Both are documented in the recall-check file.
+>
+> The buckets below are left exactly as first committed. The correction is recorded here
+> rather than by editing the numbers, so that what I got wrong stays legible.
 
 ## What the apprenticeship looks good at
 
@@ -67,7 +89,7 @@ within weeks of saying she would.
 
 | id | person | commitment | verdict | evidence |
 |---|---|---|---|---|
-| C065 | `fenn` | have "buried this habit" (smoking) by the mid-July 2022 move | **abandoned** | "I still smoke, and I have not found out why" 2024-06-26 `c23607`; still smoking in the archive's final months |
+| C065 | `fenn` | have "buried this habit" (smoking) by the mid-July 2022 move | **abandoned — but see the note below** | "I still smoke, and I have not found out why" 2024-06-26 `c23607`; still smoking in the archive's final months |
 | C064 | `fenn` | "I can and I will be without smoking!" | **abandoned** | same |
 | C033 | `holt` | make €800/month from woodworking from September 2022 onward | **abandoned** | the deadline month passes with no woodworking income and **no mention of the target by him or anyone else** `e12360`, `c13153` |
 | C023 | `arlo` | have released the groin/pubic pain by 31 Dec 2021 | **failed, and reported honestly on the day** | 2021-12-31: the pain "has worsened as I have now started to have stomach pains quite a bit as well… the healing modalities I've worked with have not helped" `e7590` |
@@ -80,6 +102,16 @@ within weeks of saying she would.
 | C079 | `wynn` | pay off all debt by year end; own business running full time within a year | **abandoned — by her own account** | she lists them herself as "all kinds of silly things I told myself" `e11909` |
 | C004 | `arlo` | doing kukuwa **and** tai chi again by 1 Jul 2021 | **partly** | tai chi resumed, ~10 days late `c4133`; kukuwa explicitly *not* resumed at that date |
 | C072 | `isla` | earn a black belt in jiu jitsu | **abandoned (the pursuit, not the belt)** | a black belt legitimately takes ~a decade, so the belt cannot fail yet. But **jiu jitsu disappears from her record entirely** — one incidental hit in four years |
+
+**A necessary qualification on `fenn`'s two smoking entries.** Scoring them `abandoned` is
+correct — he promised cessation by mid-July 2022 and was still smoking four years later —
+but reported alone it misrepresents him. In the same month he wrote: **"I've gone from 30
+cigarettes per day to 3-4 cigarettes per day"** (`e9910`, 2022-04-14), with a described
+method of silence and affirmations before each cigarette. That is an ~87% sustained
+reduction in a 17-year habit, and it is a real Tier A physical change even though the
+stated commitment failed. The pattern across his three attempts is the most informative
+thing in this file: **alcohol quit and held, coffee quit and held, smoking cut by seven
+eighths and never finished.** Same man, same method.
 
 ## Not answerable from text
 
