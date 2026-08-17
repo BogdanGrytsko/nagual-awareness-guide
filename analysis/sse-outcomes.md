@@ -136,9 +136,9 @@ by the ruling of the person who made the claim.
 |---|---|---|---|
 | `thea` | coaching business: **$0 → $11,200 in 5 weeks → $25k by Dec 2022** | **L2–L3** | **the business was already four years old when she joined.** Left Sept 2023 |
 | `dov` | *"sole operator of a business and multiple investments"* | **L2+** | pre-existing. Left Dec 2022 |
-| `bram` | own business plus investments | **L2+** | pre-existing. Left Dec 2023, in arrears to the teacher |
+| `bram` | **employee throughout.** Fired from a *"well paying job of 15yrs"* for refusing the vaccine (2022-03); re-employed and content — *"I really like my job… I really like my boss"* (2023-02); **lost that job too** (2023-08); private side work for a customer of his employer beginning Dec 2022 | **L0 → L1 attempt** | **CORRECTED 2026-08-17.** An earlier version of this table had him as a pre-existing business owner at L2+ — I had conflated him with `dov`. He never got there. He was also soliciting investment from fellow apprentices for a venture that did not yet exist (*"'Our' business is it? 😸"*), and left Dec 2023 in arrears to the teacher |
 | `gale` | *"I'm a successful actor"* (self-declared, Feb 2022) | **L1–L2** | pre-existing. Left Mar 2023 |
-| `fenn` | contracted tour guiding, self-scored *"97% pseudo-self-employed"* | **L2** | his own attribution, kept as he made it |
+| `fenn` | bouncer and beer-bar work → **contracted comedy tour guiding: work he actually likes** | **L0 — employment, reclassified** | **CORRECTED 2026-08-17 at `yar`'s challenge.** I had him at L2. He is not self-employed: a company supplies every customer and, in his own words, *"I cannot decide to not work today, and if they were to close up shop, I would also be out of business."* The *"97% pseudo-self-employed"* label was doing work it should not — the honest read is employment. **But he did make a real change, and it needs its own category (below), not erasure** |
 | `holt` | freelance copy/SEO at **60 EUR/day** (2024); carving: a Fenrir sale (2023), a **€7,000** commission (Jan 2025), **~€3,250** share of an 18k pen sale (2026) | **L1–L2 on the craft** | 5+ years in. The craft earns in lump sums; the floor is contract work in a field he expects to vanish |
 | `vela` | belly dance bookings, tantra massage — alongside a boulder-hall job and paid tour guiding | **L1 + employment** | asked for and got a raise and remote terms in 2022 |
 | `wren` | **1,156 EUR in 21 days street singing** (Sept 2023) — the best path-with-heart earning *rate* in the archive; farm work at 5→7 EUR/hr, *"I don't look further than 400 EUR a month"* | **L1 → institutional** | joined the army in 2025 |
@@ -158,19 +158,51 @@ by the ruling of the person who made the claim.
 
 > *"Has anyone reached L3, where the vocation replaced the job, and stayed there for a year?"*
 
-**No — and the finding is more specific than a no.** Five people in the archive have ever held
-self-employment at subsistence level or better: `thea`, `dov`, `bram`, `gale` and `fenn`.
+**No. Zero, over six years and thirty-one people.**
 
-**Every one of the first four was already self-employed before joining the apprenticeship.**
-`thea`'s coaching business was four years old at intake; `dov` and `bram` arrived as business
-owners; `gale` arrived as a working actor. The fifth, `fenn`, is contracted by a company that
-supplies all his customers and scores himself 97% *pseudo*-self-employed.
+**Three people in the archive have ever held self-employment at subsistence level or better —
+and all three arrived with it.** `thea`'s coaching business was four years old when she joined
+in March 2022 (*"I have spent four years with my coaching business"*, Sept 2022); `dov` was a
+*"sole operator of a business and multiple investments"* from his earliest essays in mid-2021;
+`gale` introduced himself as *"a successful actor"* in Feb 2022. All three then left — Sept
+2023, Dec 2022, Mar 2023.
 
-**Not one person in six years moved from employment into salary-replacing self-employment
-while in the apprenticeship.** The ones at L2–L3 arrived there. And **four of those five left**
-— Dec 2022, Mar 2023, Sept 2023, Dec 2023.
+**Nobody moved from employment into salary-replacing self-employment while in the
+apprenticeship.** Not one person. The three who had it brought it with them; two more tried
+from a standing start and did not arrive (`bram`, who lost two jobs in the attempt; `isla`,
+whose yoga business was still *"my dream"* after three and a half years).
 
-Meanwhile the incomes that actually pay the bills across the cohort are: two IT jobs, a
+### The category the ladder was missing: a better job, not a business
+
+`yar` corrected two entries in this table on 2026-08-17 and the second correction exposed a
+gap in the instrument, not just an error in a cell.
+
+`fenn` was scored L2 because he calls himself *"97% pseudo-self-employed"*. That label was
+doing work it should not: a company supplies all his customers, he cannot choose not to work,
+and he is out of business if they close. **That is employment.** So he comes out of the SSE
+column entirely.
+
+**But something real did happen to him, and the ladder had nowhere to put it.** He moved from
+bouncing and beer-bar work to contracted comedy tour guiding — *work he actually likes*. On
+the teaching's own terms that is movement along the path with heart. It is simply not
+self-employment, and the L0–L5 ladder — built to measure business income — scores it as a
+zero.
+
+That matters for the fairness of this whole study. The most common genuine positive outcome in
+this cohort may be **job → more congenial job**, and an instrument that only counts businesses
+records it as nothing. Alongside `fenn`: `vela` negotiated a raise and remote terms and does
+paid tour guiding she enjoys; `wren` moved from farm labour to the army, which she talks about
+constantly and with enthusiasm; `isla` landed a job matching every item on a list she wrote.
+**Four cases of improved employment against zero salary-replacing businesses.**
+
+The honest summary is therefore two-sided:
+
+- **On the outcome the teaching actually prescribes — leave the slave job, replace the income
+  with a path with heart — the score is nil in six years.**
+- **On the outcome nobody prescribed but several people achieved — a job that suits them
+  better — there are four cases, and the study was not built to see them.**
+
+Meanwhile the incomes that pay the bills across the cohort remain: two IT jobs, a
 two-day-a-week engineering job, a rental portfolio, army pay, farm labour, waitressing, a
 call centre, contracted tour guiding, babysitting, freelance copywriting, and corporate
 finance. **Employment, institutions, or capital in every case** — the arrangements the
@@ -183,8 +215,54 @@ CPR certificate already bought), `mira`'s Breathwork replacement (never mentione
 `isla`'s yoga business (still "my dream" after 3½ years), `tove`'s traditional-healing path
 (no income in a year of pursuit), `wynn`'s pre-apprenticeship SSE (failed, four years of
 unpaid taxes), `wren`'s street singing (superseded by the army), `sable`'s art (net-negative
-so far), `kesh`'s BJJ teaching (barter). **Eight abandoned or stalled ventures against zero
-salary replacements.**
+so far), `kesh`'s BJJ teaching (barter, not cash), and **`bram`'s attempt — the fullest arc in
+the archive: fired from a 15-year job over the vaccine, private side work begun Dec 2022, a
+venture pitched to fellow apprentices for investment, a second job lost in Aug 2023, and exit
+in Dec 2023 in arrears.** **Nine abandoned or stalled ventures against zero salary
+replacements.**
+
+## The falsifiable prediction — registered 2026-08-17, to be checked in 2027
+
+Written now, before the outcome is known, so it cannot be adjusted afterwards. This is the
+thing this study owes: a claim that can be shown wrong.
+
+**Subjects.** `sable` and `rook`, the two apprentices who left corporate employment in 2026.
+They are the only clean job→SSE transitions the archive will contain, and they are the exact
+test the prescription has never yet passed.
+
+**The prediction.** By **2027-12-31**, neither `sable` nor `rook` will be at L3 — neither will
+be covering their former salary from self-employment income in their path with heart, sustained
+across twelve consecutive months. Specifically:
+
+1. `sable`'s art income will remain below her former corporate salary, and her art will
+   continue to run at or near net-negative once gallery fees, materials, printing and
+   promotion are counted. Her recorded sales to date are 100 EUR and 50 EUR against 300 EUR
+   and 90 EUR of outlay.
+2. At least one of the two will have taken employment, contract work, or a
+   customer-supplied arrangement of the `fenn` type by 2027-12-31.
+3. No apprentice, current or departed, will have reached L4 — assets accumulating from
+   path-with-heart income.
+
+**What refutes it.** Any *one* of these:
+
+- Either of them documents twelve consecutive months of self-employment income at or above
+  their prior salary, from the vocation rather than from contract work.
+- A third person moves from employment to salary-replacing self-employment inside the
+  apprenticeship and holds it a year.
+- Anyone reaches L4 on path-with-heart income.
+
+**What does NOT refute it**, stated in advance because these are the shapes the archive
+already produces and they will be tempting: a large one-off commission (`holt`'s €7,000);
+a lump-sum share of a single product sale (`holt`'s ~€3,250); a strong earning *rate* over a
+short window (`wren`'s 1,156 EUR in 21 days); gross revenue quoted without costs; a
+customer-supplied contract described as self-employment; or a stated intention, target or
+affirmation about future income.
+
+**Why the prediction is worth making rather than hedging.** If it is wrong, the central
+finding of this file is wrong and the teaching produces the outcome it prescribes — late, but
+real. If it is right, then the record will be **eight years and thirty-plus people with zero
+instances of the prescribed outcome**, and the absence of any stated timescale stops looking
+like vagueness and starts looking like the thing that makes that record survivable.
 
 ### The baseline — rule 4, and it cuts the other way
 
