@@ -54,7 +54,7 @@ There is a legitimate version of "look past the words to the idea." Here it reti
 
 | Date | Event |
 |---|---|
-| 2025-09-01 | Missed two essays without communicating. Penalty raised **"to £200 per missed essay for you specifically my dear."** Told she is *"self sabotaging"* and in a *"self destructive loop"*, and that *"other black apprentices [sena] & AlmaSi suffered exactly the same fate"* |
+| 2025-09-01 | Missed two essays without communicating. Penalty raised **"to £200 per missed essay for you specifically my dear."** Told she is *"self sabotaging"* and in a *"self destructive loop"*, and that *"other black apprentices [sena] & `mira` suffered exactly the same fate"* |
 | 2025-09-02 | Reminded she had promised to leave if it recurred; asked *"By when will you have paid £400 penalty?"* She announces her departure. Called *"a cheap joke"* and *"an absolute twat"* in the group. Her partner is told her leaving would damage **his** strategy |
 | 2025-09-03 | She retracts, thanks him, asks to stay |
 | 2025-09-27 → 09-30 | Interrogated on daily screen-time, then on how long since she last proactively wrote to anyone. *"Tbh - I'm almost through with you… you're on your last legs here my dear"* |
@@ -330,16 +330,16 @@ was only about whether penalties *cause* them, and the answer is: not on their o
 
 ## The race question, precisely
 
-Yar raised it: `sena`, `AlmaSi` and `tove` were all Black women, and he senses a high correlation. What the archive supports, and what it doesn't:
+Yar raised it: `sena`, `mira` and `tove` were all Black women, and he senses a high correlation. What the archive supports, and what it doesn't:
 
 **Evidenced.**
-1. **The teacher asserted the pattern himself**, as an explanation: *"Other black apprentices [sena] & AlmaSi suffered exactly the same fate."* A category-level causal claim about three named people, offered as instruction.
+1. **The teacher asserted the pattern himself**, as an explanation: *"Other black apprentices [sena] & `mira` suffered exactly the same fate."* A category-level causal claim about three named people, offered as instruction.
 2. **A racialised register exists in the group.** Same teacher, Dec 2022, on employing people from outside the EU: *"especially from a fuck all place like Africa."* `tove` was also, in her final weeks, working through a self-description about *"a typical representation of an average black woman"* — language she uses about herself after two years in the group, and which nobody questioned.
 3. **The penalty escalation applied to `tove` is the harshest in the archive** — £200 then £350 per essay, *"for you specifically"*, against £50 as the standing rate for others.
 4. **Two of the three cases share an identical exit mechanism**, verified independently of the teacher's claim.
 
 **Not evidenced.**
-1. **N = 3, and one of the three isn't in this archive at all.** No message by or about "AlmaSi" exists in the apprentice-group export under that spelling; her case is currently only the teacher's assertion.
+1. **N = 3, and one of the three isn't in this archive at all.** No message by or about "`mira`" exists in the apprentice-group export under that spelling; her case is currently only the teacher's assertion.
 2. **The mechanism is not race-specific.** The same ultimatum-and-penalty sequence was applied to European and American apprentices (£50 penalties, "chopping block" warnings, a €1,000 forfeiture threat, one removal), and at least three of them left within weeks too.
 3. So the correlation as stated — being a Black woman caused the exit — isn't established. What *is* established is that the **explanation** offered for those exits was racialised, which is a different and better-documented claim.
 
@@ -347,11 +347,11 @@ Yar raised it: `sena`, `AlmaSi` and `tove` were all Black women, and he senses a
 
 ---
 
-## Update, same day: AlmaSi found, and the enforcement doesn't track the record
+## Update, same day: `mira` found, and the enforcement doesn't track the record
 
-### `mira` (AlmaSi) — expelled for not being able to pay
+### `mira` (`mira`) — expelled for not being able to pay
 
-She was missing from earlier searches because she renamed herself mid-apprenticeship, a practice the group encourages: on 2022-08-05, *"I have decided on the name Almasi meaning Diamond in Swahili."* Her span is Mar 2021 → Aug 2023 (29 months, 899 messages, 78 essays). Kenyan.
+She was missing from earlier searches because she renamed herself mid-apprenticeship, a practice the group encourages: on 2022-08-05, *"I have decided on the name `mira` meaning Diamond in Swahili."* Her span is Mar 2021 → Aug 2023 (29 months, 899 messages, 78 essays). Kenyan.
 
 Her exit is the least ambiguous in the archive. She had borrowed against apprenticeship fees and fallen behind while running a small motorbike business — *"I started having difficulty with the drivers and breakdowns etc."* Asked for the exact repayment agreement, she explained she was selling a bike and the proceeds — **£327** — would go to the fees. The reply:
 
@@ -424,7 +424,7 @@ There is one relevant general instruction, to everyone, from July 2021: *"If you
 
 ## What to check next
 
-- **`sena`'s case properly.** She left Dec 2022 with 842 messages and 70k words in the archive — enough for a full reconstruction. (AlmaSi is now identified as `mira`; see the update above.)
+- **`sena`'s case properly.** She left Dec 2022 with 842 messages and 70k words in the archive — enough for a full reconstruction. (`mira` is now identified as `mira`; see the update above.)
 - **Fees as a share of median local income**, per apprentice's country. This is the sharpest available test of the money hypothesis and needs no new data from the group.
 - **Why enforcement lands where it does.** Now that the submission record is flat across the group, the discretion is the variable. **Lead candidate, agreed with `yar`: debt owed to the teacher.** Both money-driven removals were of people carrying debt for fees or calls — `mira` selling motorbikes, `tove` working a call-centre job for six months specifically to repay call debt, and then being penalised for lacking the time that job consumed. That is a foreseeable outcome of the arrangement, not a surprise about her character. The test: for every apprentice, whether they were ever in arrears, against whether they were ever penalised or given an ultimatum. Other predictors to check alongside it: whether the person pushes back, partner status inside the group, tenure, and country.
 - **What leavers are told privately.** All of the above is group-visible material. Calls are where the actual exit conversation happens, and none are in the archive.
