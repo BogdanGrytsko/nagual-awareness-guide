@@ -139,7 +139,7 @@ by the ruling of the person who made the claim.
 | `bram` | **employee throughout.** Fired from a *"well paying job of 15yrs"* for refusing the vaccine (2022-03); re-employed and content — *"I really like my job… I really like my boss"* (2023-02); **lost that job too** (2023-08); private side work for a customer of his employer beginning Dec 2022 | **L0 → L1 attempt** | **CORRECTED 2026-08-17.** An earlier version of this table had him as a pre-existing business owner at L2+ — I had conflated him with `dov`. He never got there. He was also soliciting investment from fellow apprentices for a venture that did not yet exist (*"'Our' business is it? 😸"*), and left Dec 2023 in arrears to the teacher |
 | `gale` | *"I'm a successful actor"* (self-declared, Feb 2022) | **L1–L2** | pre-existing. Left Mar 2023 |
 | `fenn` | bouncer and beer-bar work → **contracted comedy tour guiding: work he actually likes** | **L0 — employment, reclassified** | **CORRECTED 2026-08-17 at `yar`'s challenge.** I had him at L2. He is not self-employed: a company supplies every customer and, in his own words, *"I cannot decide to not work today, and if they were to close up shop, I would also be out of business."* The *"97% pseudo-self-employed"* label was doing work it should not — the honest read is employment. **But he did make a real change, and it needs its own category (below), not erasure** |
-| `holt` | freelance copy/SEO at **60 EUR/day** (2024); carving: a Fenrir sale (2023), a **€7,000** commission (Jan 2025), **~€3,250** share of an 18k pen sale (2026) | **L1–L2 on the craft** | 5+ years in. The craft earns in lump sums; the floor is contract work in a field he expects to vanish |
+| `holt` | craft: a Fenrir sale (2023), a **€7,000** commission (Jan 2025), **~€3,250** share of an 18k pen sale (2026), a website at 40–50k impressions/day. Separately, freelance copy/SEO at **60 EUR/day** (2024) | **L1–L2 on the craft, in transition** | **CORRECTED 2026-08-17 at `yar`'s challenge.** I had framed the copywriting as his income floor with the craft "partly subsidised" — implying dependency. That is wrong on two counts. The copywriting is (a) **bootstrap capital** for the craft business and (b) **a directly transferable skill** for marketing it, which is what the blog and affiliate work are. He is **currently attempting to run the business without the external SEO income.** Bootstrapping a craft business off contract work is not a failure mode, it is the ordinary way such businesses get built |
 | `vela` | belly dance bookings, tantra massage — alongside a boulder-hall job and paid tour guiding | **L1 + employment** | asked for and got a raise and remote terms in 2022 |
 | `wren` | **1,156 EUR in 21 days street singing** (Sept 2023) — the best path-with-heart earning *rate* in the archive; farm work at 5→7 EUR/hr, *"I don't look further than 400 EUR a month"* | **L1 → institutional** | joined the army in 2025 |
 | `sable` | art: quoted **4k EUR** (buyer declined), told to quote 3k next time, **sold one at 100 EUR** thinking it worth 300, prints at **50 EUR** profit — against **300 EUR** gallery fee and **90 EUR** for a logo | **L1, currently net-negative** | corporate finance until 2026. The natural experiment, now running |
@@ -226,13 +226,20 @@ replacements.**
 Written now, before the outcome is known, so it cannot be adjusted afterwards. This is the
 thing this study owes: a claim that can be shown wrong.
 
-**Subjects.** `sable` and `rook`, the two apprentices who left corporate employment in 2026.
-They are the only clean job→SSE transitions the archive will contain, and they are the exact
-test the prescription has never yet passed.
+**Subjects.** Three, not two. `sable` and `rook`, who left corporate employment in 2026, plus
+**`holt`, who is attempting to run the craft business without the freelance income that has
+been funding it** — added 2026-08-17 once `yar` corrected the reading of his copywriting.
+`holt` is in some ways the better test: he has the longest tenure (5+ years), the clearest
+path with heart, real craft revenue already banked, and a marketing skill built specifically
+to sell it. If the prescription works for anyone, the prior probability says him.
 
-**The prediction.** By **2027-12-31**, neither `sable` nor `rook` will be at L3 — neither will
-be covering their former salary from self-employment income in their path with heart, sustained
-across twelve consecutive months. Specifically:
+**The prediction.** By **2027-12-31**, none of `sable`, `rook` or `holt` will be at L3 — none
+will be covering their former salary, or in `holt`'s case his freelance income, from
+path-with-heart revenue sustained across twelve consecutive months. Specifically:
+
+0. `holt` will either still be taking freelance copy/SEO or equivalent contract work, or will
+   have replaced it with another non-craft income source, rather than living on craft revenue
+   for twelve straight months.
 
 1. `sable`'s art income will remain below her former corporate salary, and her art will
    continue to run at or near net-negative once gallery fees, materials, printing and
