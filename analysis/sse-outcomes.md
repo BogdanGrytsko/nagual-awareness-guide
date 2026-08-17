@@ -2,7 +2,7 @@
 
 The third standing question, opened 2026-08-15 at `yar`'s request, and in one respect the most important: **successful self-employment (SSE) is the only major prescribed outcome that produces externally checkable evidence.** Inner silence is unobservable; personal power is unobservable; whether a gift "opens doors of abundance" is unfalsifiable. Money is none of those things. Someone either left the job or didn't, and either replaced the income or didn't.
 
-Status: **designed, not yet run.** Rules frozen before scoring, as in `commitments-vs-outcomes.md`.
+Status: **RUN 2026-08-17.** Rules were frozen before scoring, as in `commitments-vs-outcomes.md`; results are in the RESULTS section below and the design above is left unedited.
 
 ## The question
 
@@ -74,6 +74,136 @@ What is missing is different and more specific: **nobody has yet replaced a livi
 So the question for Monday is not "has anyone earned anything from their path with heart" — several have. It is **"has anyone reached L3, where the vocation replaced the job, and stayed there for a year"** — and that is answerable in a unit nobody can reinterpret.
 
 **What the sketch suggests, and what would refute it.** The pattern to test is that SSE in this group produces process milestones and occasional lump sums rather than replaced incomes, that the solvent members are solvent through employment or institutions, and that nobody has reached L4. It would be refuted by two or three apprentices at L3+ on SSE income alone, sustained over more than a year — and `sable` and `rook` leaving corporate this year is precisely the natural experiment that will show it either way.
+
+## RESULTS — run 2026-08-17
+
+Run with `scripts/sweep_sse.py` over the complete corpus (2,002 essays + 34,609 messages).
+**246 monetary figures exist in the entire archive and all 246 were read.**
+
+### First, what the method cannot see — stated before the results, per `commitments-recall-check.md`
+
+**Income that was never posted is invisible.** Fees, arrears and earnings are largely
+discussed on the paid calls, and no call is in the archive. So **every ladder score below is
+a floor, not a measurement**, and "no reported income" never means "no income". This limit is
+larger here than in the other studies, because money is private in a way that essays are not.
+
+### The promise: there is no stated timescale, anywhere
+
+The design file said the study is worthless without the claim, and predicted that if no
+timescale was ever stated *that is itself the finding*. It was not stated.
+
+**In six years the teacher mentions SSE, "path with heart" or "slave job" in twelve messages
+total.** Not one attaches a date, a horizon, or a success criterion. There is no "within N
+years", no income target, no definition of what would count as having arrived. `yar`'s
+recollection of "vague, five to ten years" is not contradicted by the archive, and it is not
+supported by it either — the archive contains no horizon at all.
+
+Two of those twelve messages are the same link, posted in 2024 and again in 2025: *"Follow
+this link for self education on SSE"* — pointing at **an Instagram daily-copywriting
+account.** That is the sum of the instructional material for SSE in the chat archive. It is
+worth noting alongside `holt`'s own assessment in Dec 2025 that *"Copywriting, especially
+entry level, is disappearing very quickly."*
+
+**Consequence, stated plainly:** a prescription with no timescale and no success criterion
+cannot fail. That is not an incidental gap. It is the structural feature that makes this the
+one prescribed outcome denominated in money and *still* unfalsifiable on its own terms.
+
+### The teacher's own assessment, six years in
+
+The sharpest datum in this study is his, not mine. 2026-04-27, unprompted, to the group:
+
+> *"Tbh- in every call it's extremely rare for any apprentice to be interested or involved in
+> their explorations & insights in presence. **Pretty much all the time, the talk is about how
+> to earn more pocket money by doing something that's mildly more interesting than a slave
+> job.**"*
+
+That is the person who set the goal describing what the pursuit of it amounts to across the
+whole cohort. It agrees with the ladder scoring below, and it was said without any prompting
+from an outcome study.
+
+### The flagship success was withdrawn by the teacher himself
+
+`arlo` was credited in Sept 2022 as *"first apprentice to go from 0 to hero in terms of
+money"*. On **2022-10-12** `arlo` reports: *"Based on my last call with Nagual Anaam, I know
+now that **the money I made in the stock market was not from SSE**."* So the one money success
+the teacher ever named was reclassified as not-SSE by the teacher, six weeks later, before
+`arlo` left in December. The archive's only "0 to hero" case is therefore not an SSE outcome
+by the ruling of the person who made the claim.
+
+### The ladder
+
+| person | income reality | level | note |
+|---|---|---|---|
+| `thea` | coaching business: **$0 → $11,200 in 5 weeks → $25k by Dec 2022** | **L2–L3** | **the business was already four years old when she joined.** Left Sept 2023 |
+| `dov` | *"sole operator of a business and multiple investments"* | **L2+** | pre-existing. Left Dec 2022 |
+| `bram` | own business plus investments | **L2+** | pre-existing. Left Dec 2023, in arrears to the teacher |
+| `gale` | *"I'm a successful actor"* (self-declared, Feb 2022) | **L1–L2** | pre-existing. Left Mar 2023 |
+| `fenn` | contracted tour guiding, self-scored *"97% pseudo-self-employed"* | **L2** | his own attribution, kept as he made it |
+| `holt` | freelance copy/SEO at **60 EUR/day** (2024); carving: a Fenrir sale (2023), a **€7,000** commission (Jan 2025), **~€3,250** share of an 18k pen sale (2026) | **L1–L2 on the craft** | 5+ years in. The craft earns in lump sums; the floor is contract work in a field he expects to vanish |
+| `vela` | belly dance bookings, tantra massage — alongside a boulder-hall job and paid tour guiding | **L1 + employment** | asked for and got a raise and remote terms in 2022 |
+| `wren` | **1,156 EUR in 21 days street singing** (Sept 2023) — the best path-with-heart earning *rate* in the archive; farm work at 5→7 EUR/hr, *"I don't look further than 400 EUR a month"* | **L1 → institutional** | joined the army in 2025 |
+| `sable` | art: quoted **4k EUR** (buyer declined), told to quote 3k next time, **sold one at 100 EUR** thinking it worth 300, prints at **50 EUR** profit — against **300 EUR** gallery fee and **90 EUR** for a logo | **L1, currently net-negative** | corporate finance until 2026. The natural experiment, now running |
+| `isla` | babysitting **$200** for one day a week; *"My dream is to create a Successfully Self-Employed yoga business"* (Mar 2025) | **L0–L1** | in Feb 2024 the teacher **bet her £100 she would be back to waitressing** |
+| `wynn` | pet sitting, **$300 in a month**, split 50/50 | **L0–L1** | names her earlier attempt herself: *"my past **unsuccessful self-employment** adventure"* — consumer debt, student loans, four years of unpaid taxes. Took a pay rise at her job to fund the next attempt |
+| `mira` | art priced from **$10**; sold motorbikes, **£327** earmarked straight to apprenticeship fees | **L1** | removed Sept 2023 for inability to pay |
+| `tove` | market stall; traditional healing produced no income; a call-centre job taken to repay call debt | **L1** | owed **£650** in essay penalties at the end |
+| `orin` | rental apartments | **capital, not vocation** | **quit her job ~Oct 2021 with no replacement and no income identified** — *"And no, I do not know yet where the money for life should come from"* |
+| `kesh` | waitressing; teaching kids' BJJ four times a week in exchange, not for cash | **L0–L1** | left June 2026 after five years |
+| `dell` | engineering job, two days a week, remote | **L0 with a good job** | funds the household |
+| `arlo` | stock trading — **ruled not-SSE by the teacher** | **L0 for SSE** | left Dec 2022 |
+| `yar` | two IT jobs; apartment sales; an equity share worth ~**$12,500** | **L0** | the largest income in the group |
+| `rook` | left corporate in 2026 | too early | the second half of the natural experiment |
+
+### The answer to the question this file was opened to ask
+
+> *"Has anyone reached L3, where the vocation replaced the job, and stayed there for a year?"*
+
+**No — and the finding is more specific than a no.** Five people in the archive have ever held
+self-employment at subsistence level or better: `thea`, `dov`, `bram`, `gale` and `fenn`.
+
+**Every one of the first four was already self-employed before joining the apprenticeship.**
+`thea`'s coaching business was four years old at intake; `dov` and `bram` arrived as business
+owners; `gale` arrived as a working actor. The fifth, `fenn`, is contracted by a company that
+supplies all his customers and scores himself 97% *pseudo*-self-employed.
+
+**Not one person in six years moved from employment into salary-replacing self-employment
+while in the apprenticeship.** The ones at L2–L3 arrived there. And **four of those five left**
+— Dec 2022, Mar 2023, Sept 2023, Dec 2023.
+
+Meanwhile the incomes that actually pay the bills across the cohort are: two IT jobs, a
+two-day-a-week engineering job, a rental portfolio, army pay, farm labour, waitressing, a
+call centre, contracted tour guiding, babysitting, freelance copywriting, and corporate
+finance. **Employment, institutions, or capital in every case** — the arrangements the
+teaching says to leave.
+
+### Ventures attempted and abandoned — rule 3
+
+Counting only live ventures reads as progress, so: `mira`'s Kukuwa-instructor plan (dropped,
+CPR certificate already bought), `mira`'s Breathwork replacement (never mentioned again),
+`isla`'s yoga business (still "my dream" after 3½ years), `tove`'s traditional-healing path
+(no income in a year of pursuit), `wynn`'s pre-apprenticeship SSE (failed, four years of
+unpaid taxes), `wren`'s street singing (superseded by the army), `sable`'s art (net-negative
+so far), `kesh`'s BJJ teaching (barter). **Eight abandoned or stalled ventures against zero
+salary replacements.**
+
+### The baseline — rule 4, and it cuts the other way
+
+In the general population roughly a fifth of new businesses fail inside a year and about half
+within five. **The cohort cannot be compared to that baseline, because almost nobody started
+a business.** What the archive shows is not a cohort of founders failing at ordinary rates; it
+is a cohort that largely **did not launch** — market stalls, occasional commissions, barter,
+and plans held for years without a first customer. On the specific question rule 4 was written
+to answer, the honest conclusion is that the apprenticeship is **not adding to what these
+people would have achieved anyway**, and for the two people removed over money it subtracted:
+`mira` was selling motorbikes to pay fees when she was expelled for not affording them.
+
+### What would refute this
+
+Two or three apprentices reaching L3 on SSE income alone and holding it past a year. `sable`
+and `rook` both left corporate employment in 2026 and are the live test; their income
+trajectories through 2027 are the most informative data this question will ever get. Revisit
+in 2027 — and note in advance that the current picture predicts they return to employment or
+to contract work, because that is what every previous case did.
 
 ## Data to pull
 
