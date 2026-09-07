@@ -290,6 +290,28 @@ trajectories through 2027 are the most informative data this question will ever 
 in 2027 — and note in advance that the current picture predicts they return to employment or
 to contract work, because that is what every previous case did.
 
+## Post-corpus update, 2026-09-07: the first live candidate
+
+The corpus behind everything above ends 2026-08-15. A TAC pull covering 2026-08-16 to 2026-09-06
+adds one datum that bears directly on the headline claim:
+
+- **`vela` registered as officially self-employed on 2026-08-18** (msg 35304): *"today I received
+  the letter from the authorities that I am now registered as self-employed"*, having been helped
+  through it by the owner of the venue she works from.
+- **She completed the qualification behind it on 2026-09-01** (msg 35413) — a Tantra massage
+  certification begun in January 2025 — and reports paying clients, one calling a session
+  *"spitzenklasse"* (msg 35414).
+
+**What this does and does not change.** It does not yet touch the headline — *nobody moved from
+employment into salary-replacing self-employment in six years* — because income is unknown and
+the certification, not the apprenticeship, is the proximate cause. But it is **the first case in
+the archive of an apprentice completing a multi-year vocational qualification and formally
+registering a business**, and it belongs with `sable` and `rook` as a live test rather than being
+discovered late. **Add `vela` to the 2027-12-31 prediction set**, with the same criterion: is the
+income subsistence-or-better, and does it hold past a year? Note also she is a case the earlier
+sweep would have scored as "arrived with it" only if the January-2025 start were visible — it was
+not, which is a small warning about the arrived-with/acquired-here distinction generally.
+
 ## Data to pull
 
 The financial detail lives in essays, not chat, so this needs the same extraction pipeline as `commitments-vs-outcomes.md` — one download of the 1,719 essays, then two passes: one for the teacher's SSE claims and timescales, one for per-person income and venture events. Chat search alone will not settle it; a first sweep found only about 200 messages group-wide with any monetary figure, and most were gifting-task reports.

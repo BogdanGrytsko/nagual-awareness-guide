@@ -130,3 +130,28 @@ yes-is-yes promise). What does not survive is any absolute count, the A:B ratio,
    a light aside, then a later essay converting it into a lesson.
 4. **Do not report a bucket as zero when the instrument cannot see it.** Report
    `not measurable`.
+
+## Added 2026-09-07: two more zeroes the instruments cannot see
+
+Rule 4 generalises beyond commitments. Two demonstrations, both with the hidden material
+recovered from outside the text archive:
+
+5. **Dissent is invisible in TAC, and now demonstrably so.** On call 73 (5/8), 2026-09-05, the
+   teacher reports that *"some of the women had a blowout. Oh, guru with his disciple. Oh, shady
+   shady. I sorted them out… They're all fine now."* All **147 TAC messages from 2026-08-16 to
+   2026-09-06** were pulled and contain **zero** trace of it — only congratulation. So objection
+   is raised in calls and DMs and settled there, while the written record retains the
+   celebration. **Any measure of group sentiment, agreement or satisfaction taken from TAC is
+   biased upward by an unknown amount.** This affects every study here that reads tone or
+   consensus off chat. Detail in `relationship-outcomes.md`.
+
+6. **A self-report of zero interior pull is unmeasurable, not measured.** Same call: *"being with
+   me is like being with water. It's completely neutral. There's no taste, no nothing… no
+   agendas, no nothing because I don't care."* The instrument is the speaker's introspection,
+   narrated to his own apprentices on a recorded call; it cannot return *"there was some pull and
+   I chose not to act on it"*. Treat any first-person zero about motive the way `reframed` is now
+   treated: **structurally undetectable, so not scorable in either direction.**
+
+Corollary for both: **the fix is a different instrument, not a harder search.** Calls are the
+instrument for 5, and there is no instrument for 6 — which is itself the finding, because it is
+what makes a self-adjudicated standard unfalsifiable.

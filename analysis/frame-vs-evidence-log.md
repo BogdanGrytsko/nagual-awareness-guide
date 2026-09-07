@@ -144,6 +144,29 @@ A group where the frame always wins loses the ability to learn. Every failure is
   is not a method that never works; it is a method whose failures produce no adjustment while
   its successes are credited. That asymmetry is the finding, not the failure.
 
+### "Guru with his disciple" — the objection sorted out
+
+- **Dates:** visit late Aug 2026; her account 2026-09-02; his account 2026-09-05
+- **Source:** TAC msg 35391; call 73 (5/8) at `00:59:42`, `01:00:10`, `01:02:17`. **Caption-tier
+  evidence** — auto-generated captions, cleaned, not hand-checked. Full case in
+  `relationship-outcomes.md`.
+- **Teaching / stance:** the teacher's own abuse standard, stated by him: *"if I start thinking
+  about myself and using you guys as a tool to experience myself as some kind of nagual, then
+  that is abuse… It really has to be about you. What do you need?"*
+- **Contradicting evidence:** members of the group applied that standard **to him** after a
+  26-year-old apprentice (`wren`) spent four days at his home at his invitation to "learn about
+  relationships": *"some of the women had a blowout. Oh, guru with his disciple. Oh, shady
+  shady."*
+- **What happened next:** *"**I sorted them out.** [expletive] off… sorted them out, too.
+  **They're all fine now.**"* No trace of the objection survives anywhere in TAC — 147 messages
+  from 2026-08-16 to 2026-09-06 contain only congratulation.
+- **Verdict:** **frame won**, and by a mechanism not previously logged here: not a teaching that
+  survived contradicting evidence, but **a challenge terminated before it could become
+  evidence.** What got revised was the objectors. Recorded with the fairness rules that belong to
+  it — both participants say nothing sexual happened, `yar` independently finds that credible,
+  she asked for the help and raised the imprinting risk herself. **The finding is about who is
+  permitted to apply the standard, not about what occurred.**
+
 ## Open items
 
 - **The masterclass layer of the 5–10% episode.** The strongest sanction in that case — the teacher saying he had closed "that gate" — exists only in a Sunday masterclass, i.e. outside the text archive, and is here on Yar's recollection alone. Check it against his recordings when they are brought in. The same applies to whether the amount was ever discussed on a call. Until then the logged entry understates the pressure.
