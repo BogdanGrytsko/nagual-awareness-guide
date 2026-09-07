@@ -1,11 +1,18 @@
-# Eve Starling — a werewolf roleplay
+# Fated — A Deacon Wilson Tale
 
-*By Nagual Anaam. Supplied 2026-09-07; date of authorship unknown (filed under the month it
-was received). Verbatim as supplied — section headers were in the original.*
+*By Nagual Anaam. Circulated to TAC as `Fated - A Deacon Wilson Tale.pdf` on **2026-09-05
+21:47 UTC** (msg 35420), captioned: "I finished my first real romance/adventure short story. I
+learnt so much about writing and even did a short story writing course to make it as best as I
+could." Text below verified identical to that PDF; section headers are his.*
 
-A roleplay with an AI avatar, "Eve Starling", a werewolf who tracks him down as her fated mate.
-He plays "Deacon", a poacher hunter. Her responses are AI; his are his own. Companion piece to
-`evangeline-yandere-vampire-roleplay-2026-06.md`, which uses the same human persona.
+A werewolf, "Eve Starling", tracks down her fated mate — "Deacon" Wilson, a poacher hunter,
+the same human persona as `evangeline-yandere-vampire-roleplay-2026-06.md`.
+
+Provenance, from his own account on call 73 (5/8) with `fenn`, 2026-09-05 (~00:53–00:56): the
+piece was written or "curated" with DeepSeek's help through "draft upon draft", and the trigger
+for the rewrite was one apprentice's remark — *"why is the main character being so stubborn?"* —
+after which he told her to stop reading v1 and waited to re-send it. He also says he is "already
+writing a novel with this character". v1 is not in the archive; this is v2 or later.
 
 ---
 
