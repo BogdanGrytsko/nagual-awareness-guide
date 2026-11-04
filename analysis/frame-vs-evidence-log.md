@@ -489,6 +489,69 @@ matters.
   which is ordinary and good. Then check whether the result is later attributed to the advice,
   to `yar`, or to the teacher.
 
+### Call 77's essay history checked against the teacher's own emails (2023-07 to 2026-10)
+
+**Source.** Every essay `yar` sends goes to the teacher by email first, and the teacher replies
+before it is shared with the group. The full thread was exported on 2026-11-04: 118 first
+submissions and 140 teacher replies. The raw mail stays private. Each reply was scored 1–10 on
+the teacher's *written reaction*, not on the essay itself:
+- 9: superlative.
+- 8: "excellent".
+- 7: "good work, please share".
+- 6: praise plus a real criticism.
+- 5: an amend request.
+- 4: resubmit required.
+- 3: resubmit or a heavy criticism, plus a personal put-down.
+
+The criticism categories were fixed before reading the later replies.
+
+**The claims from call 77.**
+- The first essay was *"horrible in terms of flow and grammar"* (`01:59:17`).
+- *"4 years later… writing an essay where everyone has to say that's not good enough"*
+  (`02:09:10`).
+- `yar`'s "seven" was answered with "three… he's being generous" (`01:59:45`).
+
+**What the emails show.**
+- **The first essay (2023-07-21)** got *"This is excellent… please share"*. Grammar and flow were
+  not raised at the time. The teacher may have revised his view since, but the written record
+  has no trace of it.
+- **The span is 3 years 3 months, not 4.** The mean reaction is **7.2/10** (median 7). 12 of 118
+  replies are 5 or below, and none of those fall in the first 10 months. By half-year the mean
+  runs 7.7, 7.2, 7.5, **6.5** (2025-H1), 7.1, 7.4, **6.0** (2026-H2, n=5). The group turned an
+  essay down once, on 2026-10-27.
+- **"Everyone says not good enough" is not the written record.** Remarks about one essay at a time
+  began in Oct 2023. The first criticism of the *pattern* came after 19 months and about 68
+  essays (2025-02-13): *"lazy bare minimum approach which is a streak in pretty much all your
+  essays tbh."* Every reply before it, including the ones that criticised the essay, also called
+  it good or excellent.
+- **`yar`'s "seven" matches the teacher's own written average.**
+
+**What was raised, when, and whether it was fixed.**
+- **Context and the reader's viewpoint.** First raised Oct 2023, 11 times in all. **Never fixed.**
+  Each rewrite was accepted within about a week, and the problem came back. This is the real
+  weak spot the record shows, and it counts against `yar`.
+- **English and typos.** Four times; the harshest was Oct 2025. **Fixed within a week.** The
+  teacher praised the English three times in a row, and it never came up again.
+- **Claim-checking (C1-type).** Twice, both as questions about a single essay. The first was
+  answered the same evening.
+- **Feelings, insight and way forward (C2-type).** Three times: 2025-03-12, 2025-04-21 and
+  2025-12-19. The last one asked for *"your own insights, any lessons learnt, any changes you
+  will make"*. `yar`'s rewrite a week later began his C2 peak (Dec 2025–Mar 2026).
+
+**Verdict on the C2 dispute, refined.** `yar` was told by email, three times, each time as a
+correction to one essay. He acted on it, and the result was praised. It was never stated as a
+standard for every essay. During the April–October 2026 decline, the emails criticised context and
+effort, not feelings. One of those essays was called *"fantastic… well done on all fronts"*. So
+the earlier verdict stands, now with dates:
+- The feedback on C2 was fair.
+- "I was never told" would be wrong.
+- "I was never told it was the standard" is right.
+- The call's history, *"4 years… everyone has to say that's not good enough"*, does not match
+  what the teacher himself wrote at the time.
+
+**Limits.** Email is one channel; feedback given on calls or in Telegram is not counted. "Good
+work, please share" is the default reply, so the scores mainly pick up the outliers.
+
 ## Open items
 
 - **"Everyone is working for themselves now"** (call 76, `00:34`). The teacher gave universal
