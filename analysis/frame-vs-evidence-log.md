@@ -515,16 +515,23 @@ The criticism categories were fixed before reading the later replies.
 - **The first essay (2023-07-21)** got *"This is excellent… please share"*. Grammar and flow were
   not raised at the time. The teacher may have revised his view since, but the written record
   has no trace of it.
-- **The span is 3 years 3 months, not 4.** The mean reaction is **7.2/10** (median 7). 12 of 118
-  replies are 5 or below, and none of those fall in the first 10 months. By half-year the mean
-  runs 7.7, 7.2, 7.5, **6.5** (2025-H1), 7.1, 7.4, **6.0** (2026-H2, n=5). The group turned an
-  essay down once, on 2026-10-27.
+- **The span is 3 years 3 months, not 4.**
+  - 99 of 118 replies are "good work" or better. 12 asked for changes or carried a heavy
+    criticism, and none of those fall in the first 10 months.
+  - The group turned an essay down once, on 2026-10-27.
+  - The 1–10 average (about 7) is not reported as a finding. It depends mostly on where "good
+    work, please share" is placed on the scale, and that reply has no fixed value.
+- **Most replies gave nothing to act on.** 85 of 118 were a variant of "good work / excellent,
+  please share" with nothing else. Only 19 contained a concrete point to fix, about 1 in 6. An
+  apprentice can't calibrate against praise that carries no information. The "everyone says not
+  good enough" history asks him to have heard a signal that was mostly absent from the replies.
 - **"Everyone says not good enough" is not the written record.** Remarks about one essay at a time
   began in Oct 2023. The first criticism of the *pattern* came after 19 months and about 68
   essays (2025-02-13): *"lazy bare minimum approach which is a streak in pretty much all your
   essays tbh."* Every reply before it, including the ones that criticised the essay, also called
-  it good or excellent.
-- **`yar`'s "seven" matches the teacher's own written average.**
+  it good or excellent. "Lazy" or "bare minimum" appears three times in all: 2025-02-13,
+  2026-09-17 and 2026-10-27. There is a 19-month gap between the first and second, and about 30
+  "excellent or better" replies fall inside it.
 
 **What was raised, when, and whether it was fixed.**
 - **Context and the reader's viewpoint.** First raised Oct 2023, 11 times in all. **Never fixed.**
@@ -550,7 +557,8 @@ the earlier verdict stands, now with dates:
   what the teacher himself wrote at the time.
 
 **Limits.** Email is one channel; feedback given on calls or in Telegram is not counted. "Good
-work, please share" is the default reply, so the scores mainly pick up the outliers.
+work, please share" is the default reply, so any 1–10 score of it is the scorer's choice, not the
+teacher's.
 
 ## Open items
 
