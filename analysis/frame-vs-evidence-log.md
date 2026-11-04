@@ -2,6 +2,8 @@
 
 A place to accumulate concrete cases where a teaching met contradicting evidence from an apprentice's own life, and to record **what got revised: the apprentice, or the frame.**
 
+**Reading a new call?** Run the checklist in `checks.md`. It was built from the cases below.
+
 This is a data-gathering exercise, not a verdict. The point is to replace recollection with dated citations, because memory conforms to whatever frame you currently hold — which is the very thing under examination.
 
 ## The question
@@ -201,9 +203,13 @@ matters.
   saying on your own by your own steam. You don't remember that, do you?"* (`00:07:17`). `[fenn]`:
   *"No, I do not remember"* (`00:08:10`). He then accepted it as a trait of his: *"It's a thing
   with me. I'm sure"* (`00:14:38`).
-- **Verdict: frame won**, on attribution. Nobody checked who proposed the boundary, though
-  `[fenn]`'s earlier calls and essays could settle it. The apprentice revised his memory on the
-  teacher's word. This is the same pattern as call 76, where progress is credited to the teacher.
+- **Verdict: frame won**, on attribution. On the call, nobody checked who proposed the boundary.
+  The apprentice revised his memory on the teacher's word. This is the same pattern as call 76,
+  where progress is credited to the teacher.
+- **A check was attempted afterwards.** `yar` asked `[fenn]` to look through his old recordings
+  and settle it. As of 2026-11-04 that has not happened. The claim stays unchecked, which is the
+  default outcome: settling it costs effort, and leaving it costs nothing. If the old calls ever
+  come into `private-calls/`, this is the first thing to search for.
 
 #### The marketing course: outside expertise against the teacher's
 
@@ -220,6 +226,28 @@ matters.
   teacher's counter-claim (*"followers create success, not talent"*) was argued from music, not
   from games. The point that `yar` has no marketing experience is fair and stays. **Falsifiable,
   and `yar`'s own:** the game launch will show which method produced the audience.
+
+#### "I feel good" becomes "80% wasted": the apprentice's own report overruled
+
+- **Source:** call 73, `01:56`–`02:04`.
+- **What happened:** `yar` spontaneously invited `[fenn]` to stay with his family for a week (no
+  drinking, smoking, sugar or coffee). `[fenn]` declined warmly. The teacher asked *"which one of
+  you lost energy?"* `yar`: *"I feel good."* After a series of questions (*"Did you… was the
+  invitation wasted or was it taken up?"*), `yar` said *"80% wasted."* The teacher: *"So, you
+  wasted a perfectly good invitation and you're saying, 'I feel fine.'"* `yar` then described his
+  own way of giving invitations as *"a communist mind"*, and the teacher answered *"that's not the
+  warrior Toltec warriors world."* Homework followed: an essay on Castaneda's *"warrior being
+  available and unavailable"*.
+- **The evidence:** the only first-hand data in the exchange is `yar`'s own report of his state,
+  given twice ("I feel good", "I feel fine"). The frame's claim is that an unaccepted invitation
+  loses energy. Nobody checked that claim. It overrode the report.
+- **Verdict: frame won**, and here the evidence was the apprentice's own experience, not an
+  outside source. The steps are typical of the method the teacher describes (*"I ask questions
+  that I already know the answer to"*, call 73 `01:17:07`): a question, the apprentice's
+  answer, then repeated questions until the answer changes. The rule that justified it came
+  straight after: *"I would only extend invitations where I know it's going to be excitedly
+  accepted"*. As the addendum in `relationship-outcomes.md` notes, the reason he gave was about his
+  own energy.
 
 #### Verification required of apprentices, waived for the teacher
 
