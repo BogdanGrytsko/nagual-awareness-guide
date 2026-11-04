@@ -51,12 +51,12 @@ ALIASES = [
     (B + r"(?:[CS]ila|Seila)" + B, '[wren]'),
     (B + r"(?:[Aa]s?saia?s|As?saya|Assayiah|Assa|Asa|Georg)" + B + r"|(?<=what )Isaiah" + B, '[holt]'),
     (B + r"(?:Leo|Ben)" + B, '[rook]'),
-    (B + r"(?:Derwen|Darwin)" + B, '[vela]'),
+    (B + r"(?:Derwen|Darwin)" + B + r"|(?<=like )Dar" + B, '[vela]'),
     (B + r"Ilona" + B, '[sable]'),
     (B + r"(?:Jules|Jewels)" + B, '[kesh?]'),
     (B + r"Sophie" + B, "[tove's daughter]"),
     # named in passing, identity not established
-    (B + r"(?:Ala|Ela|Ella|Maya|Dwan|Christine|Lona|Lana|Cau|Yara|David|Andy|Justin|Dar)" + B, '[name]'),
+    (B + r"(?:Ala|Ela|Ella|Maya|Dwan|Christine|Lona|Lana|Cau|Yara|David|Andy|Justin)" + B, '[name]'),
 ]
 
 # Per-call redactions agreed with yar on 2026-11-04 (family medical; fenn's money and financial

@@ -185,8 +185,8 @@ money-handling details, and third parties' finances.
   (`00:34:00`).
 - **Link to call 74.** On 2026-09-17 the course became the dispute, and the question was *"Why
   didn't you run it through me?"* (call 74, `02:21:00`). The plan had been put to him on
-  2026-08-08 and met with "carry on". The specific course purchase may not have been discussed;
-  the approach was. Check 7.
+  2026-08-08 and met with "carry on". `yar` confirms he raised it in outline but not in detail,
+  so the specific course was not discussed, but the approach was. Check 7.
 - **The explanation offered** was a national trait: *"that's exactly the Slavic mindset literally
   a slave mindset"* (`00:48:57`), and successful Ukrainian founders *"don't think like you or any
   Ukrainian that you know which is the bottom feeders"* (`00:49:33`). `yar` agreed on the call.
@@ -199,7 +199,11 @@ money-handling details, and third parties' finances.
   met with *"could it be that you might be talking out of your ass right now with great
   conviction about taxes"* (`01:56:40`). Then: *"You've done your research. Then what's… what
   have you found?"* (`01:57:37`). The teacher went on to use `[fenn]`'s figure himself. **Evidence
-  quietly won**, though the change was not named.
+  quietly won, and was not owned.** The "talking out of your ass" line was never withdrawn. The
+  conversation went straight on to `[fenn]`'s choices (*"You're such a rebel… what you've chosen
+  is to run away from the problem"*) and his conscience (*"You were aware of that before. You just
+  didn't listen to your conscience, did you?"*). The teacher took the figure, and the apprentice
+  got the correction.
 - **Verdict: frame won on the market argument.** It was reframed, not tested: a proposed
   five-minute comparison (`00:25:43`) was never run. The game launch remains the falsifier.
 
@@ -207,8 +211,15 @@ money-handling details, and third parties' finances.
 
 - **Follow-up on call 76's homework** (for `commitments-vs-outcomes.md`):
   - **Tradition and holy text:** `yar` had the Bible for about a week and had not opened it
-    (*"Guess I wasn't that clear on the task"*, `00:03:00`). Call 76 had said *"till the next
-    call I want you to start"*. `[fenn]` had not studied the I Ching. **Not done, by both.**
+    (*"Guess I wasn't that clear on the task"*, `00:03:00`). The teacher replied *"I think I did
+    explain it"* (`00:14:27`). The actual words in call 76 were: *"till the next call I want you
+    to start pick one spiritual tradition that has a holy book… that you will start really deep
+    diving into"* (call 76, `01:54:42`). Read literally, the task due by the next call is to pick
+    one, and the deep dive is what follows. `yar` picked the Bible in that call and had it
+    delivered. **Partly done (chosen and bought, not started). The instruction was ambiguous,**
+    and `yar`'s reading of it is a fair reading of the words. `[fenn]` had not studied the I Ching.
+    Check 3 applies: the apprentice's account of the instruction was met with the teacher's memory
+    of it, while the recording itself supports both readings.
   - **Express feelings to his wife and ask her for safety:** never raised on the call.
     **Unchecked.** That is a gap in the method's own follow-up, not a result.
   - **The "invisible being" contemplation and `[fenn]`'s hexagram essays:** not checked.
@@ -220,9 +231,29 @@ money-handling details, and third parties' finances.
   the words of a confession, *"I put my hands up. I surrender… you will never see any low-effort
   essay from me ever again"*, and called it *"the language of an overcomer"* (`02:23:12`).
   `yar`'s own answer did not change: *"In my eyes, I'm neutral"* (`02:23:27`).
-  - **Verdict: open, and checkable.** The evidence on both sides is written: the essays and the
-    written feedback. A side-by-side comparison would settle it, and nobody has done one. This is
-    the first case in the series where the apprentice's report did not move under questioning.
+  - **The re-read was a real check, done before the call.** On 2026-10-29, after the TAC feedback,
+    `yar` and Claude scored his last 20 essays on two criteria. **C1** is contemplating the topic.
+    **C2** is why the feeling, and what it means going forward; that is `[vela]`'s point. The
+    group's recent essays were then scored the same way. The results:
+    - **C2: the feedback was fair.** It peaked Dec 2025–Mar 2026, then fell to low / low-med from
+      April. All five commenters beat his April–October level.
+    - **C1: it depends on the topic.** High on topics he chose (AI, money, the momentum law),
+      low to low-med on assigned topics. 11 of the 20 scored low or low-med.
+    - **Way forward:** his is the strongest in the group.
+  - **What `yar` said on the call matches that, with one overstatement.** He conceded C2: *"in the
+    realm of… digging into feeling parts of it they are… like [vela] described"* (`02:13:51`). He
+    defended C1: *"I didn't see that I do lazy job in contemplating things usually"*. The review
+    supports "not lazy on my own topics", not "not lazy usually". So the self-report is accurate
+    on C2 and generous on C1.
+  - **Verdict: split.** The feedback was largely fair (C2 fully, C1 on assigned topics). The
+    teacher's account of the exchange was not. He treated a documented, criterion-by-criterion
+    check as *"I will not look at facts"*. `yar`'s "seven" was a self-rating of *growth* from his
+    first essay to his latest (`02:12:04`). It was turned into *"despite your self assessment
+    that my essays are at a level of seven"* (`02:16:44`), which is a claim about quality that
+    `yar` had conceded on C2. And the teacher declined to give the rating that would have made
+    the disagreement concrete. And the self-report itself did not move: `yar` kept the part the
+    evidence supports and conceded the part it doesn't. That is the outcome the checks are meant
+    to protect.
 - **Old Testament by sampling** (`01:06`–`01:29`). The judgement that the Old Testament is
   "rotten" rested on random openings, with *"You are so dumb and stupid that I have to explain
   this"* (`01:06:07`). Then `yar` proposed reading both while still checking for himself (*"I
