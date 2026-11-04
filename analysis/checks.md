@@ -1,6 +1,6 @@
 # Checks: questions to run on any call, essay or exchange
 
-A reusable list of checks, built from patterns that kept recurring in the cases in
+A reusable list of twelve checks, built from patterns that kept recurring in the cases in
 `frame-vs-evidence-log.md`. Use it when reading a new call transcript, or on your own while
 still on a call.
 
@@ -22,9 +22,29 @@ teacher's say-so won. The cases:
 | 74 | the standard indie-game marketing method | the course author's credentials, then *"Why didn't you run it through me?"* |
 | 75 | `yar`'s observation about his wife and dogs | absorbed into "it's all control mechanisms"; "you can test it", but no test was set |
 
-The teacher did adapt, three times (calls 72, 73, 75). Every time it was about **how** to do
-something: pace, phrasing, timing. Never once was it about **whether he was right**. So the
-honest summary is that advice responds to the apprentice, and claims do not.
+On the calls, the teacher adapted three times (calls 72, 73, 75). Every time it was about **how**
+to do something: pace, phrasing, timing. Never once was it about **whether he was right**. One
+claim did move, the invitation rule between calls 73 and 74, but quietly: the change was not
+named, and the blame went to the apprentice.
+
+**"Always right" is too strong, and the written archive shows why.** A search of his 5,012 TAC
+messages (2020–2026) for concession phrases finds about 25 concessions. They are of four kinds:
+- logistics and his own oversights (links, names, forgotten replies);
+- a memory dispute conceded to `[fenn]` in writing: *"My bad - I had remembered that… But
+  actually you are correct… My apologies"* (msg 12091, 2022-08-18);
+- a piece of advice he owned as a mistake: *"I could definitely have dug a little deeper… before
+  giving you the IG directive. Lesson for me there"* (to `sable`, msg 25852, 2024-12-02);
+- a term changed at an apprentice's suggestion (essays → "personal reflections", msg 2502,
+  2021), although he added that the task had been "absolutely clear".
+
+**What the search does not find** is a concession on a claim about how the world or people work,
+which is to say, on the teaching itself. A fairer summary is: **he concedes errors of execution,
+and sometimes of advice, especially in writing. He does not concede the teaching.** In the five
+live calls, there were no concessions at all. Calls versus writing is a difference worth
+watching (check 11).
+
+The search's limits: it is phrase matching, so concessions without those phrases are missed. The
+result is a lower bound.
 
 Note the mechanism. The responses don't engage the evidence. They change the subject to
 something else:
@@ -65,10 +85,11 @@ the good advice. It is not visible in any one call, only across them.
 
 7. **Consistency across calls.** Does today's statement contradict an earlier call, and is the
    earlier one acknowledged? `yar`'s observation, 2026-11-04: *"as if each call is a new session
-   with limited influence of the others."* Inside the apprenticeship, nobody has the earlier
-   calls in front of them, so a contradiction cannot be noticed. These transcripts are the only
-   memory across calls. *(call 75 "fly your own kite" against call 76 "you can't, you have to be
-   taught")*
+   with limited influence of the others."* The calls are recorded, and everyone has access to
+   their own. But nobody re-reads them side by side, and memory slips for everyone, the teacher
+   included. So in practice a contradiction between calls goes unnoticed, and reading the
+   transcripts together is the only thing that makes it visible. *(call 75 "fly your own kite"
+   against call 76 "you can't, you have to be taught"; call 73 invitation rule against call 74)*
 
 8. **Routing.** Does the remedy run through the teacher: more calls, "bring it to me", "run it
    through me"? Is there any remedy that would make him less necessary? *(call 75 said yes; call
@@ -82,6 +103,17 @@ the good advice. It is not visible in any one call, only across them.
 10. **Credit the advice separately.** List the advice that is good on its own terms, whoever gives
     it. These checks are about the structure, not about whether the teacher is useful. Both can be
     true, and in these calls both are.
+
+11. **Calls against writing.** Does the same kind of point get conceded in writing but not live,
+    or the reverse? The TAC archive has written concessions. Five calls have none. If this holds
+    up, it matters: the hard conversations happen live.
+
+12. **Kind of evidence.** When two recollections or experiences collide, is one of them checkable
+    (a published finding, a recording, a document) and the other not? "My memory against his" is a
+    stalemate. "A finding anyone can look up against a recollection" is not, and should not be
+    treated as one. *(call 73: infantile amnesia, which is a population finding, against a
+    personal memory from 8 months, the kind of very early memory that research finds is usually
+    reconstructed.)*
 
 ## How to record a result
 

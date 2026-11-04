@@ -248,6 +248,20 @@ matters.
   straight after: *"I would only extend invitations where I know it's going to be excitedly
   accepted"*. As the addendum in `relationship-outcomes.md` notes, the reason he gave was about his
   own energy.
+- **Follow-up in call 74 (`01:09`–`01:31`), raised by `yar`.** He brought the topic back with
+  more cases of declined invitations. Asked *"is anything being taken from you?"*, he answered:
+  *"it wasn't subtracted but I like didn't gain."* That is the same evidence as before: no loss
+  of energy. This time the teacher's conclusion matched it: *"if the invitation is fine… that's
+  totally fine. Then it's up to them if they want to… come they can come. If they don't want to
+  come, at least you know that they have understood"* (`01:30:30`). The cause was moved to `yar`'s
+  communication (*"chances are that you're communicating in ways that are confusing people"*,
+  `01:20`). The friend's own stated reason, that she was busy, was not addressed.
+- **Revised verdict: frame quietly revised.** "Only invite where it will be excitedly accepted"
+  (call 73) became "a clear invitation is fine, it's up to them" (call 74). The revision moved
+  toward what `yar` had reported. It was never named as a revision, and the blame went to the
+  apprentice's clarity rather than to the earlier rule. This is checks 6 and 7 in `checks.md`
+  together. It is also the closest any case has come to the falsifier at the top of this file:
+  the evidence did win, but without the teaching admitting it had changed.
 
 #### Verification required of apprentices, waived for the teacher
 
