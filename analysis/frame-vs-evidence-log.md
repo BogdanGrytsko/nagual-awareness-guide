@@ -189,7 +189,9 @@ does not show those lines.
 - **Verdict: unnamed reversal, on both points.** On 24 July the course was reported to him and
   praised, and the game was expected to sell itself. By 17 September, followers mattered more
   than the game, and the course had not been "run through" him. Neither change was acknowledged.
-  Checks 6 and 7. **To confirm with `yar`: whether this is the same $290 course.**
+  Checks 6 and 7. **`yar` confirmed on 2026-11-04 that it is the same $290 course.** So call 74's
+  *"Why didn't you run it through me?"* is contradicted by the record: he was told about the
+  purchase on 24 July and approved it.
 - **Counter-examples in the same call, kept:**
   - The teacher argued on `yar`'s wife's side against `yar`'s rigidity about exercise: *"I have
     to argue on her side… She's doing nothing unjust to you"* (`01:16:4x`). He advised inspiring
