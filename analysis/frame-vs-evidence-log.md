@@ -169,6 +169,40 @@ A group where the frame always wins loses the ability to learn. Every failure is
   she asked for the help and raised the imprinting risk herself. **The finding is about who is
   permitted to apply the standard, not about what occurred.**
 
+### Call 70 (2026-07-24): the course was reported and praised, and the game would "sell itself"
+
+Caption-tier, in `private-calls/`. Redacted with `yar`'s agreement: financial arrangements
+between the teacher and `yar`'s family, `yar`'s wife's body and weight, and `[fenn]`'s figures.
+Stamps inside the redacted spans are given here for completeness, but the published transcript
+does not show those lines.
+
+- **The marketing thread starts here, and it starts with approval.** `yar`: *"I have bought a
+  course on marketing and I've done 20 25% of it. Got up to the point of uh preparing for steam
+  page."* Teacher: *"Excellent. Well done. That's very good"* (`01:55:5x`). `yar` also gave him
+  credit: *"Turns out uh you were right. Social media presence is needed."*
+- **The teacher's position on 24 July:** *"if it's a good game, it will sell itself in the end…
+  set the ground up for social media now… But don't expect any big uh effects anytime soon… The
+  game will pull people in. If it's… even a half decent game, it'll pull enough people in"*
+  (`02:03:2x`–`02:03:4x`).
+- **Eight weeks later (call 74):** *"followers create success, not talent"* (`02:16:59`), and,
+  about the course, *"Why didn't you run it through me?"* (`02:21:00`).
+- **Verdict: unnamed reversal, on both points.** On 24 July the course was reported to him and
+  praised, and the game was expected to sell itself. By 17 September, followers mattered more
+  than the game, and the course had not been "run through" him. Neither change was acknowledged.
+  Checks 6 and 7. **To confirm with `yar`: whether this is the same $290 course.**
+- **Counter-examples in the same call, kept:**
+  - The teacher argued on `yar`'s wife's side against `yar`'s rigidity about exercise: *"I have
+    to argue on her side… She's doing nothing unjust to you"* (`01:16:4x`). He advised inspiring
+    rather than pressing. This is good advice, though the generalisations about women that came
+    with it are unsupported.
+  - Corrected on a fact, he took it at once. Teacher: *"she's spending your money"*. `yar`: *"that
+    was like her money"*. Teacher: *"Okay. If it's her money, then there's nothing"*
+    (`01:31:4x`). **Evidence won**, in a small way, and openly.
+  - `[fenn]`'s *"I'm okay financially"* was checked live during the call, and the numbers backed
+    the teacher's concern. Here the teacher's claim was the one that survived a check.
+- **Running count, check 11:** no live concession on the teaching in seven calls. Factual
+  corrections are accepted (calls 70 and 71). Claims about how things work are not.
+
 ### Call 71 (2026-08-08) and call 77 (2026-11-04): the series' two ends
 
 Both are caption-tier and in `private-calls/`. Call 71 has redactions agreed with `yar`: tax and

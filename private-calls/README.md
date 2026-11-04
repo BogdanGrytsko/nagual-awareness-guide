@@ -33,13 +33,16 @@ in the table before committing. Everything else is verbatim caption text.
 
 Agreed with `yar` on 2026-11-04 and applied by `scripts/process_call.py`. A redacted span shows
 as one line, `[hh:mm:ss] [redacted: …]`. Money figures appear as `[amount]`. Current
-redactions: family medical (call 73), `[fenn]`'s finances (calls 71 and 74), tax and
-money-handling details (call 71), third parties' finances (call 71).
+redactions: family medical (call 73); `[fenn]`'s finances (calls 70, 71 and 74); tax and
+money-handling details (call 71); third parties' finances (call 71); financial arrangements
+between the teacher and `yar`'s family (calls 70, 71 and 74); `yar`'s wife's body and weight
+(call 70).
 
 ## Index
 
 | # | date | part | length | topics |
 |---|---|---|---|---|
+| 70 | 2026-07-24 | 2/8 | 2:18:18 | fenn's savings and maturity; yar's wife and exercise (redacted in part); marketing course reported and praised; "the game will sell itself" |
 | 71 | 2026-08-08 | 3/8 | 2:38:48 | yar's game demo and market research; "carry on" on the course plan; fenn's savings and tax (redacted in part) |
 | 72 | 2026-08-24 | 4/8 | 2:01:55 | fenn's tour script and tips; gender-roles video with yar's wife; "men protect women" corrected |
 | 73 | 2026-09-05* | 5/8 | 2:09:01 | yar's son and presence; fenn's diet and coffee; [wren]'s Glastonbury visit; invitations and energy |
@@ -51,7 +54,7 @@ money-handling details (call 71), third parties' finances (call 71).
 Dates are YouTube upload dates. \*Call 73 was probably recorded on Thursday 2026-09-03: `[fenn]`
 says "today is… Thursday".
 
-Video IDs, for re-fetching: 71 `vWL0bZZn-mo`, 72 `SG3W1HPDd9k`, 73 `EKOeCVzK6J8`, 74 `ZzsYu1ISEeU`, 75 `He9GWW6VIWk`,
+Video IDs, for re-fetching: 70 `5ViBEze487k`, 71 `vWL0bZZn-mo`, 72 `SG3W1HPDd9k`, 73 `EKOeCVzK6J8`, 74 `ZzsYu1ISEeU`, 75 `He9GWW6VIWk`,
 76 `XQGXFBB3-4w`, 77 `3cgI76jN5LE`.
 
 To process a call: fetch the `en-orig` VTT with yt-dlp into `tg-private/personal-calls/`, run

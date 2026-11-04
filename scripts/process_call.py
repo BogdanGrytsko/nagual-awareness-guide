@@ -29,8 +29,8 @@ ALIASES = [
      "[fenn's partner]"),
     (NL + r"latte(?=\. Those)", r"\1[fenn's partner]"),
     # fenn's employer is a quasi-identifier; the name can be split across caption lines
-    (r"Politically" + NL + r"Incorrect(?: Tours| to Us)?", r"[employer]\1"),
-    (B + r"Politically Incorrect(?: Tours)?", '[employer]'),
+    (r"(?i)politically" + NL + r"incorrect(?: tours| to us)?(?!,)", r"[employer]\1"),
+    (r"(?i)" + B + r"politically incorrect(?: tours| to us)?", '[employer]'),
     # yar's wife and her caption garbles
     (B + r"(?:(?:O|Oo|Ho|A|E)lena|[AE]lona|Oena|Oina|Helen(?: K)?)" + B, "[yar's wife]"),
     (B + r"Lena" + B + r"(?= on the streets)", "[yar's wife]"),
@@ -55,6 +55,8 @@ ALIASES = [
     (B + r"Ilona" + B, '[sable]'),
     (B + r"(?:Jules|Jewels)" + B, '[kesh?]'),
     (B + r"Sophie" + B, "[tove's daughter]"),
+    (B + r"(?:Avianna|Aviana|Ariana)" + B, '[isla]'),
+    (B + r"Magnus" + B, '[a colleague]'),
     # named in passing, identity not established
     (B + r"(?:Ala|Ela|Ella|Maya|Dwan|Christine|Lona|Lana|Cau|Yara|David|Andy|Justin)" + B, '[name]'),
 ]
@@ -64,11 +66,16 @@ ALIASES = [
 #   ('block', start, end, label): lines stamped in [start, end] collapse into one label line
 #   ('amounts', start, end, label): numbers in lines stamped in [start, end] become the label
 REDACTIONS = {
+    'call-70-': [('block', '00:54:56', '00:57:38', "[redacted: financial arrangements between the teacher and yar's family]"),
+                 ('block', '01:26:29', '01:55:33', "[redacted: yar's wife - body, weight and exercise; another apprentice's weight]"),
+                 ('amounts', '00:20:00', '00:24:00', '[amount]')],
     'call-71-': [('block', '01:49:30', '01:56:10', '[redacted: tax and money-handling details]'),
+                 ('block', '01:15:40', '01:16:45', "[redacted: financial arrangements between the teacher and yar's family]"),
                  ('block', '01:56:50', '01:57:33', "[redacted: third parties' finances]"),
                  ('amounts', '01:13:00', '02:08:00', '[amount]')],
     'call-73-': [('block', '00:11:07', '00:11:13', '[redacted: family medical]')],
     'call-74-': [('block', '00:33:42', '00:35:16', "[redacted: fenn's personal finances]"),
+                 ('block', '00:36:26', '00:36:50', "[redacted: financial arrangements between the teacher and yar's family]"),
                  ('amounts', '00:30:00', '00:44:00', '[amount]')],
 }
 AMOUNT = re.compile(r'[£€$]?\d[\d,.]*(?:\s?(?:k|K|kroner|krone|corner))?')
