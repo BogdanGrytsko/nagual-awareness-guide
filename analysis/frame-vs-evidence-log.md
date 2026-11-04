@@ -242,10 +242,21 @@ money-handling details, and third parties' finances.
     - **Way forward:** his is the strongest in the group.
   - **What `yar` said on the call matches that, with one overstatement.** He conceded C2: *"in the
     realm of… digging into feeling parts of it they are… like [vela] described"* (`02:13:51`). He
-    defended C1: *"I didn't see that I do lazy job in contemplating things usually"*. The review
-    supports "not lazy on my own topics", not "not lazy usually". So the self-report is accurate
-    on C2 and generous on C1.
-  - **Verdict: split.** The feedback was largely fair (C2 fully, C1 on assigned topics). The
+    defended C1: *"I didn't see that I do lazy job in contemplating things usually"*.
+  - **What "usually" means here, worked out 2026-11-04.** Dictionaries define it as "most
+    often" or "as a rule", with no number attached. Studies of how people read frequency words put
+    "usually" at about 70–80% (cited from memory, not re-checked). The C1 distribution across the
+    20 essays is high 2, med-high 1, med 6, low-med 6, low 5. How the claim fares depends on what
+    counts as "lazy":
+    - **"Lazy" = low only** (5/20, 25%). "Usually not lazy" holds, at 75%.
+    - **"Lazy" = low or low-med** (11/20, 55%). Neither "usually lazy" nor "usually not lazy"
+      holds. It is close to an even split.
+
+    The feedback's real target was C2, the feeling side. There the April–October essays score
+    low or low-med in 7 of 9 (78%), so "usually" holds even at the strict reading. **The
+    self-report is accurate on C2. On C1 it is defensible, or a split, depending on the
+    threshold. It is not an overstatement.**
+  - **Verdict: split.** The feedback was fair on C2, the feeling side it was aimed at. On C1 it is a split. The
     teacher's account of the exchange was not. He treated a documented, criterion-by-criterion
     check as *"I will not look at facts"*. `yar`'s "seven" was a self-rating of *growth* from his
     first essay to his latest (`02:12:04`). It was turned into *"despite your self assessment
