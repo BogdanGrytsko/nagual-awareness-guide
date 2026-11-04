@@ -1,0 +1,3238 @@
+[00:00:02] Let's just see. It's him.
+[00:00:05] He might just be about to join. Who
+[00:00:06] knows?
+[00:00:14] >> No, that's not [fenn]. So, he hasn't made
+[00:00:16] a payment. I don't think he's joining.
+[00:00:21] >> Bothering me for no reason. Got it.
+[00:00:25] >> Yeah. All right. Whatever. [fenn] isn't
+[00:00:28] someone you rely upon for anything to be
+[00:00:31] quite honest. Um
+[00:00:36] yeah, he's
+[00:00:40] he's not someone you you know he doesn't
+[00:00:42] make anything easy
+[00:00:45] for himself or others, you know. But
+[00:00:49] anyway, let's move on. Let's go. What's
+[00:00:52] been happening? Give me some updates.
+[00:00:54] Uh,
+[00:00:56] I want to show you
+[00:00:59] the how the building system in the game
+[00:01:02] is going to work because I have it I
+[00:01:05] have it ready.
+[00:01:08] >> Okay.
+[00:01:09] >> Share the screen and
+[00:01:15] this is the top. All right. Player will
+[00:01:18] start from kind of empty map. What you
+[00:01:21] see right now is a little bit too much.
+[00:01:23] So there are still um bridges they will
+[00:01:26] be gone but that's will be kind of
+[00:01:28] starting point of the map.
+[00:01:29] >> Mhm.
+[00:01:30] >> Then the first thing the player can do
+[00:01:32] is
+[00:01:35] to build the main main keep as he builds
+[00:01:39] keeps another slots and building
+[00:01:42] opportunities come this
+[00:01:46] now. Um so every building you have to
+[00:01:49] build with gold. Gold is earned by
+[00:01:51] killing monsters. Right now I will be
+[00:01:53] showing only how the building of the
+[00:01:55] whole castle step by step should work.
+[00:01:58] >> Mhm.
+[00:01:58] >> Then the player has to build the inner
+[00:02:01] uh ring of walls.
+[00:02:05] Uh so now it looks Yeah. like this. And
+[00:02:10] >> so I've got a question already.
+[00:02:11] >> Yes.
+[00:02:13] >> What's in it for the player to build all
+[00:02:15] this
+[00:02:17] >> levels of protections from from mobs? Uh
+[00:02:21] so
+[00:02:23] >> like building the walls for example,
+[00:02:26] what bonus does that give him?
+[00:02:30] >> Uh creates more of a labyrinth
+[00:02:33] structure. Um allows for choke points
+[00:02:36] for enemies to to be hauled and killed
+[00:02:40] in.
+[00:02:41] >> And the walls can only be destroyed by
+[00:02:44] ballista, not the soldiers. Yeah.
+[00:02:46] >> Yes. walls it themsself can be destroyed
+[00:02:49] by ballistas. Uh tammon tammons these
+[00:02:53] are this white small walls.
+[00:02:55] >> Mhm.
+[00:02:56] >> Uh they can be destroyed by fire
+[00:02:58] archers. That's what's the plan. But so
+[00:03:01] and if they are destroyed by fire
+[00:03:03] archers,
+[00:03:04] small walls can be climbed by certain
+[00:03:07] units. Small wall is like like this wall
+[00:03:10] 4 m high.
+[00:03:11] >> This big wall cannot be climbed by by
+[00:03:14] those. So when the the player is Oh,
+[00:03:17] here's Steam.
+[00:03:20] When the player is um
+[00:03:23] building these walls,
+[00:03:26] is he encountering fire archers?
+[00:03:30] [fenn], welcome.
+[00:03:31] >> Greetings, [fenn]. That's excellent
+[00:03:34] question. I will
+[00:03:36] Yeah, he should, but that's
+[00:03:39] that's a balancing and and level. So you
+[00:03:43] going to so you're saying you're going
+[00:03:44] to come to the balancing later.
+[00:03:46] >> Uh next next week this week not yet done
+[00:03:51] but yes that has to go in balancing. I'm
+[00:03:56] >> because what you want to think about is
+[00:03:58] before working on walls you want to
+[00:04:00] think about well why should the player
+[00:04:03] bother with them?
+[00:04:04] >> Why should Yeah. If they're going to be
+[00:04:06] destroyed by fire archers and the player
+[00:04:10] doesn't have the capability to counter
+[00:04:12] that except with walls that can be
+[00:04:14] destroyed by fire archers, then he's not
+[00:04:17] going to build them.
+[00:04:18] >> You the player will say, "Well, I want
+[00:04:21] to spend my money somewhere else."
+[00:04:22] >> Mhm.
+[00:04:24] Some waves there can be a wave that will
+[00:04:27] teach a player to to build this walls
+[00:04:29] because that will that wave will have
+[00:04:32] >> will come relatively early and will have
+[00:04:34] units that scale walls. Uh
+[00:04:37] [clears throat]
+[00:04:37] >> but if you build it like this with with
+[00:04:40] this white walls they cannot do it. So
+[00:04:42] that's protection.
+[00:04:43] >> Okay.
+[00:04:44] >> Later on we will have to introduce
+[00:04:46] counter to to white walls because they
+[00:04:49] can be destroyed.
+[00:04:50] >> Exactly. That's how you have to do it
+[00:04:52] cuz the initial build is very important.
+[00:04:56] >> The initial build has to be flexible
+[00:04:58] enough so that players can
+[00:05:03] kind of build according to how they want
+[00:05:05] it.
+[00:05:06] >> How they want it?
+[00:05:09] >> Were you thinking that it'll be a preset
+[00:05:11] build?
+[00:05:12] >> Mostly uh I I want to give players
+[00:05:16] degree of flexibility. Yeah. Uh
+[00:05:20] but uh in the end I want them to get the
+[00:05:22] the castle the full castle which they
+[00:05:25] can update uh in different maybe
+[00:05:28] directions here and there but the castle
+[00:05:30] will will be there.
+[00:05:32] >> So the only motivation I can see for the
+[00:05:35] player to do that and it not becoming
+[00:05:37] repetitive
+[00:05:39] in terms of replay value
+[00:05:41] >> Mhm.
+[00:05:41] >> is that you have unbelievable amounts of
+[00:05:45] mobs coming.
+[00:05:47] the most
+[00:05:48] >> like it gets crazy insane.
+[00:05:52] That's the only motivation I can find in
+[00:05:54] 2026 where someone will go, "Well, I've
+[00:05:57] played the game and played the demo.
+[00:05:58] It's fine, but I wouldn't, you know,
+[00:06:01] it's fine. You just build the castle and
+[00:06:02] then it's done."
+[00:06:04] >> Mhm. But if you have like if you shock
+[00:06:07] the player with later on when the
+[00:06:10] castle's done and they've worked towards
+[00:06:11] all the tears and done all that cuz
+[00:06:15] they'll need all that because
+[00:06:17] it's going to get completely crazy.
+[00:06:20] >> Okay.
+[00:06:21] >> All right. All right. I see.
+[00:06:23] >> You understand? Otherwise,
+[00:06:26] >> it's not rewarded. I I see.
+[00:06:28] >> Yeah. There's no not enough rewards to
+[00:06:30] replay,
+[00:06:33] >> you know.
+[00:06:34] Like the replayability for We Are
+[00:06:36] Billions is literally the billions. It's
+[00:06:39] not in anything else in that game or the
+[00:06:41] rest of the game is just nonsense.
+[00:06:45] But what it does is it allows you
+[00:06:48] complete flexibility of where to wall
+[00:06:50] off, what to do to get those zombies
+[00:06:53] out, you know, and uh it gets
+[00:06:57] really bad later on, you know. bad as in
+[00:07:01] like just too much going on. So, you
+[00:07:04] have to have your [ __ ] together by that
+[00:07:06] time.
+[00:07:08] >> Yes,
+[00:07:10] >> uh I just wanted to mention last time
+[00:07:11] you showed the game, uh the moment that
+[00:07:14] got me, ooh, this is shaping to become
+[00:07:17] something was when I saw the hordes of
+[00:07:20] these little hats coming running. It was
+[00:07:22] like, ah, that's beginning to look like
+[00:07:25] something.
+[00:07:26] >> You will have that.
+[00:07:29] >> Yeah. So think think like that that
+[00:07:32] that's the only thing that'll make all
+[00:07:33] this worthwhile.
+[00:07:35] >> Okay. Okay. That's an extra
+[00:07:36] >> you know. Yeah. You know when the first
+[00:07:38] time someone buys the game and the
+[00:07:41] reputation of the game is that later on
+[00:07:43] you better get all this together cuz
+[00:07:46] you're going to you know people talk to
+[00:07:48] each other gamers and they're saying
+[00:07:49] yeah you you play that game you better
+[00:07:52] level up as fast as possible because
+[00:07:55] it's merciless. they will come and they
+[00:07:58] will overwhelm the castle if you're not
+[00:08:00] ready.
+[00:08:01] >> Yeah. So this labyrinth value like right
+[00:08:05] now uh mobs could be yeah would be
+[00:08:09] easily travel from from this point
+[00:08:10] directly to the next gate. However, we
+[00:08:13] uh yeah can build another layer of
+[00:08:16] protection. So now
+[00:08:18] they have
+[00:08:19] >> this is these are preset layers are they
+[00:08:21] or layer build where they want. No,
+[00:08:25] reset. I I don't want players to build
+[00:08:27] where they want. That's okay. That's a
+[00:08:30] different game. I we I could go that
+[00:08:32] direction. I I right now I thought that
+[00:08:34] No.
+[00:08:35] >> Okay. So then
+[00:08:38] >> historical castle.
+[00:08:40] >> Okay. So So fine. The castle is leveled
+[00:08:43] up.
+[00:08:44] >> Mhm.
+[00:08:46] >> And you can only
+[00:08:49] like do it in one way. That's it. Right.
+[00:08:53] That's the
+[00:08:54] >> once. Yes, but buildings you can go the
+[00:08:57] plan is that you can
+[00:09:00] choose the order of building either
+[00:09:02] building more defensive or going more
+[00:09:06] into economy and certain buildings like
+[00:09:08] towers can be upgraded in a different
+[00:09:11] way and you can well bring barracks and
+[00:09:15] units. So this will be a spot for units
+[00:09:18] those can be different units. So the the
+[00:09:21] layout is preset. So difference yeah
+[00:09:24] comes from from towers and units in
+[00:09:26] different different path.
+[00:09:30] >> Okay. So the replayability is coming
+[00:09:33] from mix and match of minmaxing units
+[00:09:36] and uh what you know whether we should
+[00:09:40] have ice arrows or fire arrows or fire
+[00:09:43] arrows are great early on but they're
+[00:09:45] rubbish later on. So you need to upgrade
+[00:09:47] to explosive arrows. End game is this
+[00:09:51] and end game is that.
+[00:09:53] >> Yes.
+[00:09:53] >> So I would say think about replayability
+[00:09:56] at this point
+[00:09:57] >> already
+[00:09:57] >> from here on out.
+[00:09:58] >> Okay.
+[00:09:59] >> Because
+[00:10:00] if you don't then you'll have a finished
+[00:10:02] game or a near finished game and if the
+[00:10:06] replayability is not there
+[00:10:09] then you'll have a problem. You'll have
+[00:10:11] to scratch things and go back quite a
+[00:10:14] few steps.
+[00:10:17] You understand? So think about what
+[00:10:20] would make you play this game again and
+[00:10:22] again.
+[00:10:23] >> Okay.
+[00:10:25] >> So So what what
+[00:10:28] >> well
+[00:10:28] >> imagine that a friend was making this
+[00:10:30] game. What would make you play this game
+[00:10:31] again and again?
+[00:10:34] >> At least two or three times. Um
+[00:10:41] [clears throat] try out few different
+[00:10:43] heroes if they have different combat
+[00:10:45] style and uh randomly generated waves of
+[00:10:51] units somehow balanced. That's that's a
+[00:10:53] hard part. But yeah, can
+[00:10:56] >> what do you mean by that? Uh you can
+[00:11:00] have this castle few castles but um
+[00:11:05] uh
+[00:11:06] waves that are coming on on it are not
+[00:11:10] preset. So they would be somewhat
+[00:11:13] randomly generated
+[00:11:16] >> in terms of the unit combinations in the
+[00:11:19] waves.
+[00:11:21] [sighs]
+[00:11:22] >> Unit combination.
+[00:11:25] Yeah. Yeah.
+[00:11:29] Otherwise, what what is randomly
+[00:11:30] generated?
+[00:11:33] >> Different sizes of of packs, different
+[00:11:36] spawn points of packs of units around
+[00:11:39] the map. Uh yeah, harder units at the
+[00:11:43] start or somewhat hard,
+[00:11:45] >> not harder, but
+[00:11:46] >> yeah, balanced harder units. Yeah.
+[00:11:49] >> Okay. So the player is we start and then
+[00:11:52] the player gets his walls together as
+[00:11:55] soon as he can
+[00:11:57] >> because
+[00:11:58] >> some some of the walls well player has
+[00:12:00] to balance some of the walls he has to
+[00:12:04] get but maybe he rest he has can invest
+[00:12:06] right now in the economy
+[00:12:09] >> to to buy more units later on.
+[00:12:12] >> Okay. So the player has to constantly be
+[00:12:15] deciding where to invest. Should I get
+[00:12:18] more protection or should I get should I
+[00:12:20] future proof the base?
+[00:12:22] >> Right.
+[00:12:23] >> And all that time he's defending
+[00:12:26] uh spawn points that are not preset that
+[00:12:29] are random
+[00:12:35] >> cuz that's to the Yes. For for the
+[00:12:38] replayable game mode. Yes. For the
+[00:12:40] simple first play through it will be
+[00:12:43] preset
+[00:12:43] >> or like a campaign mode it's preset.
+[00:12:46] >> Yes. Yes.
+[00:12:47] >> Campaign mode preset well bal well well
+[00:12:50] designed.
+[00:12:51] >> Yeah. Okay. So the campaign mode will
+[00:12:53] have really
+[00:12:55] you you know you've designed it in a
+[00:12:57] certain way so that the flow is really
+[00:12:59] well. Okay. Have you played the new
+[00:13:02] Dune? What is it? Dune Awakening
+[00:13:05] strategy game. It's top I think it's top
+[00:13:07] down
+[00:13:09] >> no
+[00:13:09] >> strategy. No
+[00:13:12] haven't come up recently. June Awakening
+[00:13:15] is doing very well on Steam since it was
+[00:13:18] released.
+[00:13:20] >> Let's have a look.
+[00:13:28] >> Um, where's Dune Awakening?
+[00:13:33] And of course, it won't come. Of course,
+[00:13:37] just this endless nonsense will come and
+[00:13:39] we won't get it.
+[00:13:45] >> [laughter]
+[00:13:47] >> Um another part is that certain level
+[00:13:52] some
+[00:13:58] more decision making uh can come from
+[00:14:03] the weather or at least day night cycle
+[00:14:07] both day and night. So at night archers
+[00:14:09] have shorter range.
+[00:14:11] Uh yeah this kind of stuff but I have
+[00:14:14] not thought it through really.
+[00:14:16] >> Okay.
+[00:14:17] >> Yeah you want to think through you know
+[00:14:20] the mistake that can happen is a weak
+[00:14:25] early game and then a strong late game.
+[00:14:28] So what you know devs do is they really
+[00:14:31] focus on the end game. Ah, we'll have so
+[00:14:33] many units and the castle will be
+[00:14:35] amazing and there'll be cannons blowing
+[00:14:37] off everywhere and and you know cuz they
+[00:14:40] want to put out that trailer on Steam
+[00:14:42] which is going to look incredible. So
+[00:14:44] they kind of subconsciously start
+[00:14:45] working
+[00:14:46] >> that way you know.
+[00:14:49] >> Uh I would say start thinking about well
+[00:14:52] how are you going to build it to that
+[00:14:53] epic those epic battles?
+[00:14:58] What is the player having to do?
+[00:14:59] Otherwise, you have players that
+[00:15:03] >> are having to slog through the first,
+[00:15:06] you know, 4 hours, 2, 3 hours of the
+[00:15:09] game.
+[00:15:09] >> Yeah.
+[00:15:10] >> Um, to get to the good bits.
+[00:15:13] >> So, how you going to keep it interesting
+[00:15:16] uh as the player is building it,
+[00:15:19] building their base? That it's that's
+[00:15:24] that's quite important.
+[00:15:29] Wow.
+[00:15:30] >> Mhm.
+[00:15:39] Right. So, campaign mode is simple
+[00:15:42] enough. You get your standard freaking
+[00:15:45] advisor
+[00:15:47] who you find in the wild or rescue him
+[00:15:49] from some bandits or thugs or something.
+[00:15:51] Oh, I'm a castle builder and I shall
+[00:15:54] advise you how to do it. Thank you for
+[00:15:56] saving these old bones. And then you
+[00:15:59] know that freaking voice with the little
+[00:16:01] tune that comes up and then he'll say,
+[00:16:02] "Right now we have 50 gold. You are able
+[00:16:05] to sire. You are now able to build the c
+[00:16:09] the walls." And then you go click here
+[00:16:12] and then play kicks there. You know, all
+[00:16:14] the standard [ __ ]
+[00:16:18] >> More advanced [ __ ] Indie developers
+[00:16:20] usually don't afford to to make voice
+[00:16:23] advisors. Oh, these days.
+[00:16:26] >> These days,
+[00:16:27] >> what kind of AI do what what voice do
+[00:16:29] you want? I can do it in front of you
+[00:16:31] right now.
+[00:16:32] >> Yeah, I I get it. I get it.
+[00:16:34] >> So, voice over is is totally not a
+[00:16:37] problem these days.
+[00:16:40] >> Right. So, you want to, you know, the
+[00:16:43] first 10 minutes, how are they going to
+[00:16:45] be interesting?
+[00:16:48] >> Uh, especially the first hour.
+[00:16:52] >> Mhm.
+[00:16:54] players may even forgive the first 10
+[00:16:56] minutes being a little bit boring
+[00:16:57] because you're setting up you know
+[00:16:59] nothing's going on much you're just
+[00:17:02] starting out that's fine but beyond 10
+[00:17:06] 15 minutes people start if it's still
+[00:17:08] boring and sloggy
+[00:17:10] then people start to lose interest and
+[00:17:12] go I can't be bothered with this game
+[00:17:14] I'll just go and play um you know Pax
+[00:17:17] Romana or something
+[00:17:19] >> you know Pax Romana
+[00:17:21] >> uh Oh,
+[00:17:22] >> I think I heard but
+[00:17:25] >> it's the Ano franchise. A N O. It's a
+[00:17:29] massive franchise. How do I know more
+[00:17:31] about [ __ ] video games? Every single
+[00:17:33] time we've had this conversation
+[00:17:36] so How do you How by now are you not
+[00:17:39] more informed about games than I do? And
+[00:17:41] I haven't even played games lately.
+[00:17:48] I become
+[00:17:48] >> How often do you look at the Steam uh
+[00:17:50] main page?
+[00:17:52] >> Not often, but I write right now I often
+[00:17:54] look at what
+[00:17:57] uh is being trailers of of indie
+[00:18:00] upcoming games like kind every day.
+[00:18:02] That's what I do.
+[00:18:04] >> Where do you look look at them?
+[00:18:05] >> Uh I have subscription to like two three
+[00:18:09] four channels I think that post them.
+[00:18:12] >> What channels? Where? What does that
+[00:18:13] mean channels? Let's check. So,
+[00:18:18] >> see
+[00:18:19] I can show you.
+[00:18:22] >> No, I mean but where? What? Twitch or
+[00:18:24] YouTube? What are you talking about?
+[00:18:26] What is channels?
+[00:18:27] >> YouTube channels.
+[00:18:29] >> Okay, so YouTube channels, right?
+[00:18:32] Um,
+[00:18:33] >> uh, this would be the this list of
+[00:18:36] subscriptions that review games, but
+[00:18:39] also post trailers of, um,
+[00:18:42] >> why do you need Steam page?
+[00:18:44] >> Yep.
+[00:18:45] >> Why do you need to watch trailers of all
+[00:18:47] these games? What's the What's in it for
+[00:18:49] you?
+[00:18:50] >> Uh,
+[00:18:52] I search for trailers of games in
+[00:18:56] similar genre. somewhat
+[00:18:58] >> what
+[00:18:58] >> 3D build like
+[00:19:02] >> 3D builders hack and slash
+[00:19:06] >> um
+[00:19:06] >> so so what's the point of watching the
+[00:19:08] trailers though
+[00:19:11] >> uh
+[00:19:20] competitor search uh trailer
+[00:19:25] >> yeah but
+[00:19:26] >> it gives It gives me a feeling of of a
+[00:19:28] game what they do. I decide if I want to
+[00:19:31] later on check how did they they do
+[00:19:34] their marketing if they are successful
+[00:19:38] trailer probably.
+[00:19:42] >> So
+[00:19:44] >> skip through trailer. Uh not much point
+[00:19:47] in watching the whole trailer.
+[00:19:49] [laughter]
+[00:19:51] >> I mean it's not like you don't you
+[00:19:53] shouldn't watch trailers. I'm just
+[00:19:55] trying to figure out as a businessman
+[00:19:58] what how are you what is the reason for
+[00:20:00] investing time in watching trailers
+[00:20:04] >> see how other people do it if it's
+[00:20:06] similar genre because I I don't quite
+[00:20:10] know well
+[00:20:12] and see what's coming up in the market
+[00:20:15] uh what ideas what game ideas are
+[00:20:17] happening
+[00:20:19] >> okay so uh how much like
+[00:20:24] How much do you like h how
+[00:20:29] for example um if you just go to steam
+[00:20:34] and click store
+[00:20:37] I can spend literally just invest by the
+[00:20:40] timer 5 minutes
+[00:20:43] of my time and know literally every
+[00:20:46] single game that is that is out there
+[00:20:50] right now which one's doing well which
+[00:20:52] one is not cuz the trailer auto plays. I
+[00:20:55] don't actually have to go and subscribe
+[00:20:57] to YouTube channels and then have they
+[00:21:00] posted content? Oh, they have posted.
+[00:21:02] All right, let me look at it. Which
+[00:21:04] trailer is that? Why would I do all of
+[00:21:06] that do you think? I mean
+[00:21:08] >> Steam has like what only well people
+[00:21:11] with a with a Steam page or already
+[00:21:13] launched games? Do you mean
+[00:21:15] >> you go to [fenn] as just you checked go
+[00:21:18] to store that's it?
+[00:21:19] >> Yes. Here
+[00:21:20] >> you have everything there. What's on
+[00:21:22] sale? what's not, what trailers, what
+[00:21:24] information, what everything. So, I
+[00:21:27] don't understand the YouTube angle. like
+[00:21:29] do you have a lot of time on your hands
+[00:21:31] or you want to do things
+[00:21:34] um like
+[00:21:37] I mean I can understand watching
+[00:21:39] trailers for like a week before I'm
+[00:21:43] starting to shoot my own trailers or
+[00:21:45] make my own trailers, but I can't
+[00:21:46] understand
+[00:21:48] when the game is kind of 10% finished.
+[00:21:52] You're watching trailers for what
+[00:21:54] reason?
+[00:21:56] when you have no idea what the Ano
+[00:21:59] franchise is or any of the names I'm
+[00:22:01] dropping, which I learned literally from
+[00:22:04] looking at the front page of Steam.
+[00:22:11] >> Pax Romana is the latest in in the Ano
+[00:22:14] franchise is an incredible game and is
+[00:22:17] doing very very well.
+[00:22:21] It gives you snapshots, screenshots.
+[00:22:23] Steam makes sure that I don't have to
+[00:22:26] spend time trolling through stuff on
+[00:22:29] YouTube. It just gives me everything
+[00:22:31] right there. So, I I I'm trying to
+[00:22:33] understand your decision about it.
+[00:22:36] >> Well, this one particularly looks a bit
+[00:22:38] like
+[00:22:40] it's already establish well established.
+[00:22:43] It's a different league that I'm playing
+[00:22:46] on.
+[00:22:46] >> Yeah, but that that's not what we're
+[00:22:48] talking about. Y
+[00:22:49] >> Okay.
+[00:22:50] >> We're not talking about leagues.
+[00:22:52] >> Why? I'm trying to understand why what
+[00:22:54] is the advantage in the YouTube trailer
+[00:22:58] watching
+[00:23:00] versus just quickly going through.
+[00:23:04] Oh, I see civilized.
+[00:23:06] Let's have a look. Yeah, 5 seconds
+[00:23:08] trailer. That's great. All right. What
+[00:23:10] else is there? What's on sale? What?
+[00:23:11] Okay, great. Yeah. What studios? What
+[00:23:14] are the studios that are doing well at
+[00:23:17] the moment? Which what's happening? What
+[00:23:19] indie games is doing well? How how do
+[00:23:21] you find that all information within
+[00:23:24] five minutes on YouTube?
+[00:23:28] >> Uh
+[00:23:30] I uh follow certain indie devs that do
+[00:23:34] well and they do uh YouTube um
+[00:23:39] time to time and post videos on YouTube
+[00:23:41] about their current project.
+[00:23:44] >> So all you know is the work these devs
+[00:23:47] are doing on their channel. That's it.
+[00:23:48] You don't actually know about the video
+[00:23:50] game world.
+[00:23:53] Is that correct or not?
+[00:23:55] >> No, they the devs work on games. Yeah.
+[00:23:59] So they they talk about games or their
+[00:24:01] ideas about games in those YouTube
+[00:24:04] channels.
+[00:24:06] >> Okay. Yeah. So that's deep research. I'm
+[00:24:08] talking about knowing the market. How do
+[00:24:10] you get to know the market? By watching
+[00:24:12] devs develop games.
+[00:24:16] Perhaps
+[00:24:19] I should give it a try right now. Yeah,
+[00:24:21] it's I need uh to
+[00:24:25] filter it properly.
+[00:24:28] Gives too much noise.
+[00:24:30] >> This page gives me too much noise. I'm
+[00:24:32] not interested in all of this. Like
+[00:24:33] >> why not? Do you know about Rim World?
+[00:24:35] >> Yes.
+[00:24:36] >> What's Rim World?
+[00:24:38] >> It's a mega survival colony sim.
+[00:24:43] How how is it doing in the market?
+[00:24:46] >> How is it doing in the market?
+[00:24:48] >> Extremely well. [clears throat] 50
+[00:24:50] million plus.
+[00:24:52] >> That's cuz you're reading it off right
+[00:24:53] now, which is proving
+[00:24:55] >> I knew about it. I knew about it because
+[00:24:57] I I do my another well I I do a research
+[00:25:02] about how well if I spot a game and I
+[00:25:05] I'm interested then I do a different
+[00:25:07] research on how actually how well did it
+[00:25:11] do here. So you actually move away from
+[00:25:15] steam, go to Google and then search what
+[00:25:19] I don't understand.
+[00:25:19] >> I go to steam database. This is extract
+[00:25:23] from steam database. So if I uh am about
+[00:25:26] to do
+[00:25:27] >> Yeah. Well, you have you got all the
+[00:25:29] time to do all this roundabout business.
+[00:25:32] Why would you break stones when you
+[00:25:34] could just get a bulldozer and do the
+[00:25:36] fields? I I don't understand this way of
+[00:25:38] working. That's what I'm trying to like
+[00:25:43] perhaps we should set a 5minut timer
+[00:25:45] both of us. You do your thing the way
+[00:25:48] you do it and I'll do my thing and we'll
+[00:25:50] see who gets who ends up with more
+[00:25:52] information about the gaming world.
+[00:25:56] >> So it's
+[00:25:59] >> so I'm trying to understand your words.
+[00:26:01] >> You know what I mean?
+[00:26:03] partially I I guess yes I I feel what
+[00:26:07] you mean but
+[00:26:10] the difference is
+[00:26:15] okay so when you research now the the
+[00:26:18] result of your research what what do you
+[00:26:20] want the result end result of this five
+[00:26:23] minutes
+[00:26:24] >> think of it like reading a newspaper why
+[00:26:26] do people need read newspapers do you
+[00:26:28] think
+[00:26:30] >> I don't know I don't read a newspapers
+[00:26:32] >> I don't [ __ ] If you read a newspaper or
+[00:26:34] not, you have a brain. Use it to answer
+[00:26:38] the [ __ ] question.
+[00:26:39] >> Fair enough. Fair enough. Uh, so why do
+[00:26:41] people read newspapers? To be in the
+[00:26:44] know of what is generally happening in
+[00:26:48] the world.
+[00:26:48] >> Okay. You understand the the newspaper
+[00:26:51] called Financial Times. Ever heard of
+[00:26:53] that?
+[00:26:54] >> Yes.
+[00:26:54] >> All right. Why would someone read the
+[00:26:56] Financial Times?
+[00:27:00] and to get general information about
+[00:27:04] what is happening in financial world
+[00:27:06] also.
+[00:27:06] >> Excellent. Because that person might be
+[00:27:08] interested. They might work in the
+[00:27:10] finance business. They might be [yar's wife].
+[00:27:12] They might be [name]'s boss. They're all
+[00:27:14] reading Financial Times. Okay. Clear so
+[00:27:17] far?
+[00:27:18] >> Yes.
+[00:27:18] >> All right. Now, imagine you come in and
+[00:27:22] someone says, "I don't read Financial
+[00:27:23] Times." What I do is I just check
+[00:27:27] something and then go I go to Google and
+[00:27:29] then I check there whether what's
+[00:27:31] happening with that particular company
+[00:27:34] or I subscribe to some YouTube channels
+[00:27:36] which then sometimes post contents about
+[00:27:39] the financials of the world and then I
+[00:27:41] kind of watch their videos sometimes and
+[00:27:44] that's how I know everything about the
+[00:27:46] financial world.
+[00:27:50] H [laughter]
+[00:27:52] wouldn't someone ask you well just read
+[00:27:55] just buy the latest issue of Financial
+[00:27:57] Times and just read that you get a lot
+[00:28:00] more out of that then I don't know what
+[00:28:01] what all this is extra so I'm I'm I
+[00:28:05] think I'm justified in being confused
+[00:28:07] with the way you're approaching
+[00:28:09] especially because you don't even know
+[00:28:11] uh your knowledge isn't up to date.
+[00:28:16] So is your system actually working to
+[00:28:19] give you the knowledge that you're
+[00:28:20] seeking or not? [laughter]
+[00:28:22] Because someone who is not even
+[00:28:24] interested in financials
+[00:28:26] has more knowledge you know in the same
+[00:28:28] way like I'm not even interested in game
+[00:28:30] developing like you are but I have far
+[00:28:32] more knowledge of the game gaming world
+[00:28:36] where it's going what's happening what's
+[00:28:38] happening in the behind the scenes with
+[00:28:40] staff layouts and all sorts of things.
+[00:28:44] uh than you do.
+[00:28:52] >> Do you think that uh
+[00:28:55] you don't need to know anything about
+[00:28:57] the gaming world except the exact games
+[00:28:59] that you are developing and that's it.
+[00:29:04] >> Yeah, I thought that yeah I need to know
+[00:29:06] around you know that small small
+[00:29:07] spotlight
+[00:29:09] that that would be enough.
+[00:29:10] >> How small of a spotlight?
+[00:29:12] >> How small? um
+[00:29:21] in general about what strategy games are
+[00:29:23] around or hack and slash but yeah in
+[00:29:26] specific uh
+[00:29:29] just few few specific games to to a
+[00:29:32] deeper extent.
+[00:29:33] >> Okay. So if someone is in, for example,
+[00:29:37] um
+[00:29:38] a property dealer,
+[00:29:42] right, you wouldn't advise them to read
+[00:29:44] the financial times. Then they should
+[00:29:46] not be reading that. What's the point?
+[00:29:48] Just read your some little brochure
+[00:29:50] about properties in the area and you're
+[00:29:52] good to go. Is that would that be your
+[00:29:54] advice for that business to thrive?
+[00:30:09] That's what I did. But if that's my
+[00:30:12] advice,
+[00:30:14] >> well, let's put it another way. There's
+[00:30:15] two property developers.
+[00:30:18] One of them reads the Financial Times
+[00:30:19] every day. He's he really knows what's
+[00:30:23] up, what's down, what's happening. What
+[00:30:25] are the Fortune 500 companies doing?
+[00:30:27] What is happening? What's happening? Why
+[00:30:29] is there a revolution in Libya? So that
+[00:30:31] that's going to affect this. But there's
+[00:30:33] something I know. Oh, that's a And there
+[00:30:35] is another guy, the neighboring property
+[00:30:39] dealer, who only reads the occasional
+[00:30:41] brochure that gets sent to him for free.
+[00:30:44] Uh some properties in the area and well,
+[00:30:47] whatever. This one's going for that much
+[00:30:50] money and oh yeah, we're good. Yeah.
+[00:30:52] Blah blah. Which one's likely to do well
+[00:30:55] in in prop in the property business, do
+[00:30:57] you think?
+[00:31:10] It's not that obvious. I amum.
+[00:31:15] >> Okay, that's fine. It may not be obvious
+[00:31:17] to you. That's fine. Which one do you
+[00:31:19] think?
+[00:31:24] Um
+[00:31:26] may and give you two minute analogy of
+[00:31:29] so I was watching I think some bigger
+[00:31:32] YouTube channels about investment or
+[00:31:35] stock market and a smaller one and the
+[00:31:38] bigger one would tell you about
+[00:31:42] things in the world and let's say edgit
+[00:31:45] tells that now it's good time to buy
+[00:31:47] Tesla and the smaller one would also
+[00:31:50] give you some brief of things of the
+[00:31:52] world it's fine
+[00:31:54] and occasionally would mention that oh
+[00:31:57] this is you know what you try to buy the
+[00:32:02] stocks of companies that are searching
+[00:32:04] for lithium
+[00:32:05] >> because it goes to batteries blah blah
+[00:32:07] blah
+[00:32:08] >> and both I got burnt with both
+[00:32:12] small channels yeah did definitely do
+[00:32:15] some had some hidden motives for that
+[00:32:19] and uh that was not a good idea to
+[00:32:22] listen to
+[00:32:23] big channels
+[00:32:31] in the stock market world. I felt that
+[00:32:33] knowing this information that everyone
+[00:32:35] knows is useless because everyone knows
+[00:32:38] it. So that's why I didn't go for for
+[00:32:41] large for well-known allknown
+[00:32:43] information
+[00:32:46] development
+[00:32:48] or in final in in game development.
+[00:32:54] >> Well, I'm trying to understand another
+[00:32:55] one. So what you would scan through this
+[00:32:58] let's say you would have a
+[00:33:00] >> let's put it this way. There's two game
+[00:33:02] developers.
+[00:33:04] One of them is I only work with small
+[00:33:06] spotlights. So, I only do RTS games and
+[00:33:09] I only watch a few channels where the
+[00:33:11] RTS games are being talked about and uh
+[00:33:15] I'm developing this RTS game. Okay.
+[00:33:18] There's another game developer who takes
+[00:33:21] make sure that he looks at Steam
+[00:33:25] three, four times a week, every day if
+[00:33:27] possible, see what's going on, what are
+[00:33:29] some franchises, what are they doing,
+[00:33:31] what are they not doing, what's
+[00:33:32] happening, gets a general feel for the
+[00:33:34] market. And over one year, which one of
+[00:33:37] them will sell more games? Or or rather,
+[00:33:39] which one of them will you invest in?
+[00:33:42] >> I would invest in the first one, the
+[00:33:44] spotlight one.
+[00:33:45] >> You would invest in the small spotlight
+[00:33:47] guy.
+[00:33:47] >> Yes.
+[00:33:48] >> And he's he will know how to market the
+[00:33:50] game. He'll know everything and he will
+[00:33:52] make you money.
+[00:33:55] >> We will get him a course how to market a
+[00:33:57] game, a specific game, specific niche.
+[00:34:00] And
+[00:34:00] >> okay, great. In that case, carry on the
+[00:34:03] way you are. And then if you make a
+[00:34:05] profit well and good if you don't then
+[00:34:07] you know uh
+[00:34:10] >> you know where you know you will
+[00:34:13] understand what bare minimum means.
+[00:34:15] Maybe you don't right now. I don't think
+[00:34:16] you do. But
+[00:34:18] >> I don't think
+[00:34:18] >> these things are best learned by
+[00:34:20] experience.
+[00:34:23] If you can't see the value of knowledge
+[00:34:24] then
+[00:34:25] >> I can't see the value. So I Yes. That's
+[00:34:27] I'm trying to I'm trying. So you would
+[00:34:29] scan through through steam page. you
+[00:34:32] would you would you filter out certain
+[00:34:35] text or you would get general like
+[00:34:38] >> what do you think I would do
+[00:34:41] >> if I'm developing a game how do you
+[00:34:42] think I would do
+[00:34:45] so imagine I'm developing a manga
+[00:34:48] sex game
+[00:34:53] >> well uh
+[00:34:56] >> you know those sex games you know the
+[00:34:57] ones
+[00:34:58] >> uh in theory I never Well, I tried once.
+[00:35:03] Guess.
+[00:35:03] >> All right. Type in NSFW
+[00:35:06] in the search.
+[00:35:16] >> Yes. All of this stuff.
+[00:35:17] >> Ah, yes. I play I play Dockkey
+[00:35:20] Literature Club.
+[00:35:22] I
+[00:35:23] >> So, imagine I'm developing one of these.
+[00:35:26] How would I go about it in terms of
+[00:35:28] marketing?
+[00:35:31] in terms of uh I'm coming from zero. I
+[00:35:34] know nothing. I'm I want to develop a
+[00:35:37] sex game floated in the market. Walk me
+[00:35:40] through.
+[00:35:40] >> You
+[00:35:42] would
+[00:35:44] sex games different beast. Uh you would
+[00:35:49] uh filter only for these types of games.
+[00:35:51] You wouldn't care about
+[00:35:53] 3D action shooters or or Warhammer
+[00:35:56] games, whatever. That does that's yes
+[00:35:59] that goes away.
+[00:36:00] >> Okay. So I you reckon I would only do
+[00:36:04] any of this and not bother with anything
+[00:36:07] else that's going on in the gaming
+[00:36:10] market. Is that correct?
+[00:36:14] >> That's what makes sense to me. But I my
+[00:36:16] guess
+[00:36:16] >> Yeah, that's fine. That's fine. That's
+[00:36:18] what makes sense to you. [fenn], how
+[00:36:20] would you do it?
+[00:36:25] Uh,
+[00:36:27] I would
+[00:36:34] get
+[00:36:37] uh the knowledge of
+[00:36:41] uh
+[00:36:44] everything that is available
+[00:36:46] to players as much as I could in in the
+[00:36:51] market. what is uh being um what can I
+[00:36:54] get as a player of course in my niche in
+[00:36:58] this case they're not safe for work uh
+[00:37:03] I would have a focus there yes but I
+[00:37:06] would also want to know if Rockstar
+[00:37:10] games come out with something that
+[00:37:13] >> he he used a very specific keyword
+[00:37:17] >> want to know
+[00:37:18] >> exactly why you I think you spotted that
+[00:37:21] keyword.
+[00:37:23] >> I Why would you want to know if
+[00:37:25] Rockstars has come up with uh Well, you
+[00:37:29] might Okay. Why Why would you want to
+[00:37:31] know?
+[00:37:32] >> Uh because they might fill uh a need
+[00:37:36] that people have uh that I could if if I
+[00:37:41] Yeah. I would be curious about what is
+[00:37:44] it that they do that work? Maybe there's
+[00:37:48] they're doing something where yes, they
+[00:37:50] have uh what you call that fulfilled the
+[00:37:54] need for people, but they're they're
+[00:37:56] missing something that I could do that
+[00:37:58] is just what I'm actually already doing.
+[00:38:00] Maybe like
+[00:38:04] um
+[00:38:04] >> I have to be honest, this doesn't make
+[00:38:06] sense to me.
+[00:38:08] >> Okay, that's fine. You do it the way you
+[00:38:11] do it. It's already a failed business
+[00:38:14] model. this much I can guarantee you
+[00:38:17] because you are specifically and
+[00:38:20] deliberately
+[00:38:22] closing off the input of knowledge which
+[00:38:25] the mind needs to succeed
+[00:38:28] and you're throwing [ __ ]
+[00:38:33] um reasons to be lazy and do the bare
+[00:38:37] minimum about it so that you can uh just
+[00:38:42] [snorts] you know um say that I'm
+[00:38:45] developing a game, right? You don't seem
+[00:38:49] to be me to be actually interested.
+[00:38:54] You seem to me to be interested in doing
+[00:38:57] some game developing,
+[00:39:00] but I don't think you are actually
+[00:39:02] interested in gaming.
+[00:39:10] Gaming is super broad. I would get lost
+[00:39:12] and then in that ocean
+[00:39:14] >> I'm do does it look like I'm lost in the
+[00:39:17] ocean of gaming
+[00:39:21] >> and no.
+[00:39:22] >> So if you are pitching for investment
+[00:39:25] for your game and I was pitching for
+[00:39:28] invest investment in my game which one
+[00:39:30] would of us would walk away with the
+[00:39:31] investment.
+[00:39:40] I failed to see what I I
+[00:39:50] would have to pitch something specific
+[00:39:52] right so that then
+[00:39:55] yeah if if you pitch something specific
+[00:39:57] and you have as well as I have pitched
+[00:40:00] something specific and you have broad
+[00:40:02] much broader knowledge in general then
+[00:40:04] you would go away with it. So which one
+[00:40:07] of us has much broader knowledge of
+[00:40:10] gaming because I want to I'm interested
+[00:40:14] enough.
+[00:40:15] >> You have. Yes. You you
+[00:40:17] >> Okay. So do do lazy people or even if
+[00:40:21] they're perceived as lazy people, do
+[00:40:23] they get any investment?
+[00:40:26] >> No. Imagine that you work twice as hard
+[00:40:28] as me at your little spotlight thing
+[00:40:32] and I work twice as less as you, but I
+[00:40:35] have a lot more knowledge that my mind
+[00:40:37] assimilates and outputs in uh in the
+[00:40:42] work in and I work half the time that
+[00:40:44] you do. Which one of us us is going to
+[00:40:47] end up with a uh with a game that is
+[00:40:51] worth playing?
+[00:41:02] No one knows.
+[00:41:05] >> Okay. So, imagine that you have to build
+[00:41:07] a house. Okay. And you come and tell me
+[00:41:11] I know all about bricks.
+[00:41:14] I don't want to know anything else. All
+[00:41:16] you have to do is put a brick, take
+[00:41:18] cement, put a brick, take cement, put a
+[00:41:20] brick, take cement, and a house is
+[00:41:22] built.
+[00:41:24] I haven't bothered to look at anything
+[00:41:25] else. I don't even look at other houses
+[00:41:26] or anything like [ __ ] him. I don't care.
+[00:41:29] It's very simple. Take a brick, put it
+[00:41:31] up. Take a brick, put it up. Take a
+[00:41:33] brick, put it up. So, building a simple.
+[00:41:36] I'm going to have a successful house
+[00:41:38] very soon as house uh I I don't really
+[00:41:41] need to know anything else about the
+[00:41:43] market, housing, how to foundations,
+[00:41:46] walls. It's easy. Brick, cement, brick,
+[00:41:49] cement. The rest is well whatever,
+[00:41:53] right? That's you building a house. And
+[00:41:55] then there's [fenn] building a house. And
+[00:41:57] he goes, "Yeah, I know all about bricks,
+[00:42:01] but I also know all about walls.
+[00:42:04] I also know all about foundations.
+[00:42:07] I know about paint.
+[00:42:09] I know about shingles, what kind of
+[00:42:12] roofing, whether they should have a
+[00:42:13] chimney, whether a fireplace. I know all
+[00:42:16] about acoustics. I I know all about
+[00:42:18] whether if the sun shines is the house
+[00:42:21] going to get hot or cold. I know all
+[00:42:23] about which you know uh whether the land
+[00:42:26] is slightly slanted. So how to make the
+[00:42:28] house so that it's actually stable.
+[00:42:32] I also know all about the property
+[00:42:34] market. I know that in this particular
+[00:42:37] road, the properties are uh much more
+[00:42:41] valued than in the neighboring street
+[00:42:44] because there's a there's a open road on
+[00:42:47] that street, but in this street is quite
+[00:42:49] quiet, so the property values are
+[00:42:51] higher. I also know about the local
+[00:42:53] property dealers around here. I've gone
+[00:42:55] around shaking hands with all of them
+[00:42:57] and just had coffee with one of the guys
+[00:42:59] and we're making good friends along
+[00:43:01] those lines. I also know that certain
+[00:43:03] other developers are developing about to
+[00:43:05] purchase a property over there
+[00:43:08] and that may or may not impact the house
+[00:43:10] I'm building over here.
+[00:43:14] So I say all of this and I look at all
+[00:43:17] of this and you go, "Oh, Steve, none of
+[00:43:20] that makes any sense. I don't know what
+[00:43:21] you're talking about. It's just simple.
+[00:43:24] Take a brick, put it up." That's how we
+[00:43:25] do it in Poland. And take a brick and
+[00:43:28] put it up. Take a brick and put it up.
+[00:43:30] and I will be fine. Everything will be
+[00:43:33] fine.
+[00:43:35] >> And Steve goes, "Oh, [ __ ] hell. This
+[00:43:37] guy is such a loser, man."
+[00:43:39] >> And you go, "Well, I genuinely cannot
+[00:43:41] understand. It's very simple."
+[00:43:44] >> Well, first guy, what's the difference
+[00:43:46] then?
+[00:43:47] >> First guy in this analogy, first guy
+[00:43:49] knows how to build the house, not only
+[00:43:50] bricks, he knows about acoustics and
+[00:43:53] roofs, etc. He may not know about other
+[00:43:56] houses. He may not know well about where
+[00:44:00] the roads or the not that well how where
+[00:44:04] the the best land is. I agree to that.
+[00:44:07] There is another layer to analogy. [fenn]
+[00:44:09] knows about how to build houses in
+[00:44:11] Africa. But we are building houses in
+[00:44:14] US. That would be analogy of not for say
+[00:44:17] for game versus knowing something about
+[00:44:20] coy games.
+[00:44:21] >> No. So in the US uh the neighboring
+[00:44:24] street doesn't matter then or the
+[00:44:27] neighboring developers don't matter or
+[00:44:29] the noise levels don't matter. Is that
+[00:44:30] what you're saying? In Africa they
+[00:44:32] matters and so you you should know all
+[00:44:33] of that in Africa but you don't need to
+[00:44:35] know any of that in America. Is that
+[00:44:36] what you're saying?
+[00:44:37] >> You need to need something in Africa.
+[00:44:39] There are specific things to Africa. But
+[00:44:42] there are yes some
+[00:44:44] >> so you're saying that the specifics in
+[00:44:47] Africa are much more important to know
+[00:44:49] than the broader actual topic of house
+[00:44:53] building.
+[00:44:54] >> So ignore the broader topic of house
+[00:44:57] building and focus on what is the
+[00:44:59] specifics in Africa and what is the
+[00:45:01] specifics in America. That's your way to
+[00:45:04] build a house. Who who'd give you a
+[00:45:06] contract?
+[00:45:09] Mhm.
+[00:45:11] Yeah. Okay. I I see.
+[00:45:14] >> It's like
+[00:45:17] the struggle you're having is it's not
+[00:45:19] you personally. The struggle you're
+[00:45:20] having is the you're a slave. That's the
+[00:45:23] problem.
+[00:45:25] It's a real problem. Just like for an
+[00:45:28] Indian, being an Indian is a serious
+[00:45:30] problem.
+[00:45:32] For [fenn], we both know, all three of us
+[00:45:34] know what a problem it is for him to be
+[00:45:36] Danish.
+[00:45:38] This guy is basically struggling against
+[00:45:40] his Danishness. His mind is fine, his
+[00:45:43] will is fine. He wants to do stuff. He
+[00:45:45] knows what he needs to do. But he always
+[00:45:47] gets defeated by his Danishness
+[00:45:52] and his surroundings and the the impact
+[00:45:54] that his social circle, the worthless
+[00:45:58] [ __ ] humans that he he talks to. He
+[00:46:01] can't what can he do? He he can't
+[00:46:04] magically hang out with other people
+[00:46:06] either. He's stuck with his Danishness.
+[00:46:10] And so right now you're coming up with
+[00:46:12] the stupidity that the slaves have, the
+[00:46:15] absolute
+[00:46:17] stupid
+[00:46:19] that that you know like the you guys
+[00:46:22] think that hard work compensates for
+[00:46:25] stupidity.
+[00:46:28] Tell me that that's not true in your
+[00:46:29] culture.
+[00:46:31] >> That's true.
+[00:46:33] See, I can give you the same uh things
+[00:46:35] about Indians,
+[00:46:37] Chinese,
+[00:46:39] you know, Indians have their own, you
+[00:46:42] know, every Indian is going to bash his
+[00:46:45] head against the Indianness of things.
+[00:46:49] You know, you got to outgrow that if
+[00:46:51] you're going to be successful. He has to
+[00:46:53] outgrow his Danish
+[00:46:58] disadvantages.
+[00:47:00] He he has to
+[00:47:02] otherwise he it'll just eat him alive as
+[00:47:05] it has done so far you know
+[00:47:08] and it's the same with you. You can't be
+[00:47:10] taking a pickaxe and going after rocks.
+[00:47:14] That's just not how you will get
+[00:47:16] anything done.
+[00:47:19] You have to learn to find
+[00:47:23] um
+[00:47:25] you have to learn to appreciate other
+[00:47:27] ways than doing things the way you're
+[00:47:29] used to doing.
+[00:47:33] >> You know what I mean?
+[00:47:40] Because the the problem isn't that you
+[00:47:42] both are not willing. You both are
+[00:47:44] willing. The problem isn't that you
+[00:47:46] can't see the advantage of something.
+[00:47:49] You can see the advantage. The problem
+[00:47:51] isn't uh anything that's stemming from
+[00:47:55] you guys. It's not the problem isn't y
+[00:47:58] it's not you inside. It's where you were
+[00:48:03] raised. What what cultural mind is
+[00:48:06] affecting you constantly.
+[00:48:09] You know,
+[00:48:12] >> for example, if you're married to an
+[00:48:14] American
+[00:48:17] and you had lots of American friends, I
+[00:48:19] guarantee you, you wouldn't have
+[00:48:21] struggled with this concept.
+[00:48:22] >> I agree. I agree.
+[00:48:25] >> You see what I mean?
+[00:48:26] >> I see. So then five minutes, it's not
+[00:48:29] not filters, but just general look of
+[00:48:32] feel of what is in steam. If my eye
+[00:48:35] catches something, I go slightly bit
+[00:48:37] more into it.
+[00:48:39] And why why
+[00:48:42] >> would you do that?
+[00:48:44] >> Why?
+[00:48:46] >> Exactly. Because right now just
+[00:48:49] >> because if you just stay with the oh
+[00:48:51] okay I got the script 5 minutes every
+[00:48:53] day steam is that what I need to do
+[00:48:55] great. Yeah that's exactly the Slavic
+[00:48:57] mindset literally a slave mindset that
+[00:48:59] you need. So that's why okay why would
+[00:49:02] you do that? Do you know what I mean?
+[00:49:05] to get general feel of uh what needs
+[00:49:09] being satisfied by games in
+[00:49:12] >> no [clears throat] to get the general
+[00:49:13] feel of the gaming market. general film
+[00:49:16] gaming market
+[00:49:22] >> and I can bet you something the
+[00:49:24] Ukrainians who who are doing extremely
+[00:49:26] well in their business you will find
+[00:49:29] that they don't think like you or any
+[00:49:31] Ukrainian that you know which is the
+[00:49:33] bottom feeders
+[00:49:36] they manage to think like Americans
+[00:49:41] then do your research look at the
+[00:49:43] interviews of your fellow Ukrainians who
+[00:49:46] are doing extremely well in their
+[00:49:48] businesses.
+[00:49:49] If they have any interviews or if they
+[00:49:51] have any whatever available about their
+[00:49:54] thinking processes, you'll find that
+[00:49:56] they they are very similar to how
+[00:49:59] Americans or you know entrepreneurs from
+[00:50:03] around the world think, not Ukrainians.
+[00:50:09] Same with if you study African
+[00:50:12] successful business people. They're not
+[00:50:14] thinking like the average [ __ ]
+[00:50:16] African.
+[00:50:17] If they were, they'd be the average
+[00:50:19] [ __ ] African.
+[00:50:22] >> Makes total sense.
+[00:50:23] >> You know what I mean?
+[00:50:28] The successful Indian businessmen,
+[00:50:30] they're not thinking like the average
+[00:50:31] Indian.
+[00:50:34] They're thinking like successful
+[00:50:36] Americans.
+[00:50:41] which is the leader thought leader in
+[00:50:43] the business world you know
+[00:50:50] so so you can't just go well I'll just
+[00:50:53] look at the game development of the
+[00:50:55] particular little thing that I'm doing
+[00:50:58] and then I'll have knowhow about how to
+[00:51:02] sell it
+[00:51:05] you can think like that if It's a hobby
+[00:51:08] that you're kind of interested in, but
+[00:51:09] mainly it's work and jiu-jitsu. And this
+[00:51:12] is kind of like a side thing. I just
+[00:51:13] like to potter about on Unreal 3 or
+[00:51:16] whatever it is. Unreal 5. And have a
+[00:51:19] little game. If it floats, it flows. If
+[00:51:20] it doesn't, I don't care really. Okay,
+[00:51:23] fine. You don't need to know much. You
+[00:51:24] don't need to show much interest because
+[00:51:27] it's a side job, a hobby. You got, you
+[00:51:30] know, you're not really that invested in
+[00:51:33] it.
+[00:51:35] But if it's a little bit more than that,
+[00:51:36] then you need to step up to
+[00:51:40] have more than that to give yourself.
+[00:51:48] >> Right.
+[00:51:55] >> Why do you think Bruce Lee would know
+[00:51:57] all the Japanese names
+[00:52:00] of all the karate moves?
+[00:52:06] Why would he bother to know that boy? He
+[00:52:08] was born with that. Or did you think he
+[00:52:10] learned learned it and practiced every
+[00:52:12] single karate move and knew the Japanese
+[00:52:15] names of those moves?
+[00:52:18] Why would he bother with that?
+[00:52:32] Okay. I
+[00:52:34] Yeah, this is my mindset. I see that as
+[00:52:36] a waste.
+[00:52:38] >> Uh but I also knew I'm not Bruce Le
+[00:52:40] obviously, so he
+[00:52:42] >> Yeah, he also knew the Japanese names of
+[00:52:45] all the um main judo moves and he could
+[00:52:49] apply those judo moves as well.
+[00:52:52] >> Yeah, applying and learning is
+[00:52:53] completely clear what the names mean.
+[00:52:56] Well, applying a robot can apply
+[00:52:58] anything.
+[00:53:02] Slave can go to the fields and work.
+[00:53:04] Slave doesn't need to be about cotton.
+[00:53:07] >> He wanted to be impeccable and to feel
+[00:53:11] how Japanese feel that those movements
+[00:53:15] to be done.
+[00:53:16] >> He also knew about all the Chinese uh
+[00:53:19] terms of the the Tai Chi flow.
+[00:53:25] He also knew the Filipino words for u
+[00:53:29] the Filipino arts kali and escrea
+[00:53:32] because he he took the trouble to learn
+[00:53:34] it from his one of his students called
+[00:53:36] Danny Nos Santo.
+[00:53:39] He also knew all the technical terms of
+[00:53:41] the film making business.
+[00:53:45] He also knew
+[00:53:48] everything about the acting business.
+[00:53:50] all the technical terms, method acting
+[00:53:52] and this acting and that acting. And you
+[00:53:54] also knew everything about theater.
+[00:53:58] He also knew all the Latin names for all
+[00:54:01] the major bones in the body.
+[00:54:08] Why do you think he he knew that
+[00:54:12] and
+[00:54:14] someone else that wanted to be just as
+[00:54:16] famous and good as him didn't?
+[00:54:24] couldn't be bothered. The second one,
+[00:54:27] but why why couldn't it be? Why couldn't
+[00:54:29] they be bothered? Why could Bruce Lee be
+[00:54:31] bothered? What did he give him?
+[00:54:46] Why would he kn
+[00:54:48] use Latin names for the bones? Why?
+[00:54:52] To
+[00:54:55] look completely professional to some
+[00:54:58] westerners. I don't
+[00:55:00] >> So he that to look good. Is that what
+[00:55:02] you're saying?
+[00:55:03] >> I think Yeah, I think it's not that.
+[00:55:06] He wanted to know because he just was
+[00:55:09] that kind of a person wanted to to get
+[00:55:14] to the deepest possible level of things.
+[00:55:18] >> Okay. So do you think if he tomorrow
+[00:55:21] wanted to be a doctor
+[00:55:25] he would bring the same approach there?
+[00:55:29] >> Yeah. He would want to know everything
+[00:55:32] there. What if he wanted to play golf?
+[00:55:35] Would he bring the same approach there?
+[00:55:41] >> Yeah.
+[00:55:42] >> Okay. So, winners have a certain
+[00:55:45] mindset, don't they?
+[00:55:52] >> People who worked for Bruce Lee that he
+[00:55:54] employed, do you think they did? They
+[00:55:56] had the same mindset.
+[00:55:58] >> They did not.
+[00:56:01] That's why they were working for him,
+[00:56:04] not with him.
+[00:56:08] Your approach, your [clears throat] best
+[00:56:12] bet is to work for a studio and let the
+[00:56:15] boss of the studio
+[00:56:18] think in the way that I'm telling you to
+[00:56:20] think.
+[00:56:22] That's why he's the boss of the studio.
+[00:56:30] So if you want to be the boss of your
+[00:56:32] own
+[00:56:33] gaming thing,
+[00:56:36] you can't think like an employee.
+[00:56:43] Oh, I just work here. I'm the
+[00:56:44] radiologist in this hospital, so I just
+[00:56:47] come in, do the radio machine, and
+[00:56:50] bugger.
+[00:56:53] Or I'm the general manager of this
+[00:56:55] hospital.
+[00:56:57] and I pretty much know everything there
+[00:56:59] is to know about this hospital.
+[00:57:03] The general man manager can take on the
+[00:57:05] radiologist's job in a pinch, but the
+[00:57:08] radiologist won't even last 5 minutes as
+[00:57:11] a general manager. Why do you think that
+[00:57:13] is?
+[00:57:17] >> It's kind of obvious.
+[00:57:20] Just doesn't know what to do. Will get
+[00:57:22] lost immediately.
+[00:57:24] Yeah, but the radiologist says, "Oh, it
+[00:57:26] doesn't make any sense to know any
+[00:57:27] everything about the hospital. What? I
+[00:57:29] just come in, do my job, and go home."
+[00:57:32] And he's justified as long as he's an
+[00:57:35] employee.
+[00:57:37] But tomorrow, if he wants to open his
+[00:57:38] own own hospital, what is he going to
+[00:57:40] have to do?
+[00:57:42] >> Well, all of that from scratch.
+[00:57:49] >> So, it's a mentality problem.
+[00:57:55] Right. You have to learn to change your
+[00:57:58] mentality from a kind of a slave
+[00:58:03] worker
+[00:58:05] mentality to
+[00:58:10] a an employer, someone who's the boss.
+[00:58:17] You know, bosses think differently.
+[00:58:24] I'll know that soon.
+[00:58:29] >> Yeah.
+[00:58:33] >> And there is a certain bad impression
+[00:58:35] that happens
+[00:58:37] when
+[00:58:38] with your
+[00:58:41] mindset
+[00:58:43] you talk to someone about gaming. Why do
+[00:58:46] you think they'll get a bad impression
+[00:58:48] of you?
+[00:58:56] They would think that I'm not very
+[00:58:57] interested in game.
+[00:58:59] >> Okay, don't guess. You tell me.
+[00:59:02] >> Oh,
+[00:59:06] if you go up to someone, you're sitting
+[00:59:07] in the pub with friends or something.
+[00:59:10] Uh, one of them's a Twitch streamer,
+[00:59:15] right? One of them is a YouTuber.
+[00:59:18] Um, both of them are winners. They got
+[00:59:21] tons and tons of followers,
+[00:59:24] right? You're sitting with them and all
+[00:59:27] three of you are chatting about games.
+[00:59:29] Which one of you is going to look the
+[00:59:31] more st most stupid?
+[00:59:32] >> I would because I wouldn't know much
+[00:59:34] about games.
+[00:59:37] Yeah. Clear enough. On the other hand,
+[00:59:41] you do the Charles Atlas course, the
+[00:59:43] sand kick, you know, the
+[00:59:47] look at Charles Atlas had a it's it's an
+[00:59:51] American joke. He had a an ad uh what
+[00:59:55] happened when Mac got sand kicked in his
+[00:59:58] face. It's a very very famous cultural
+[01:00:00] ad. And then M goes and does Charles
+[01:00:02] Atlas's course and becomes strong and
+[01:00:05] big. And then then the same bully on the
+[01:00:07] beach kicks sand in his face as I come
+[01:00:09] here and beats him up and the girlfriend
+[01:00:11] is very impressed with him and uh he
+[01:00:14] does Charles Atlas made me straw. So you
+[01:00:17] do the games equivalent of the Charles
+[01:00:20] Atlas course and then you sit down with
+[01:00:21] these guys.
+[01:00:23] One's a Twitch winner, one's a YouTube
+[01:00:26] winner and you're a game developer
+[01:00:31] with more knowledge about games than
+[01:00:32] they will ever acquire.
+[01:00:36] Who's going to be the most impressive
+[01:00:38] out of the three of you?
+[01:00:40] >> I will be the most impressive. They
+[01:00:42] would love to hear more from me. Love to
+[01:00:45] to make business with him.
+[01:00:47] >> They will look up to you
+[01:00:51] with your way right now. The most you
+[01:00:53] can hope to get away with is they'll
+[01:00:55] think, "Ah, he's a he's a hardworking
+[01:00:57] nerd, isn't he? He's really just
+[01:00:59] tunnneled in and he's just look he
+[01:01:00] doesn't know anything else at all." But
+[01:01:03] yeah. Uh, good luck, mate. Have you have
+[01:01:05] a hope your game goes well and shout us
+[01:01:08] out if you ever release it. Well, then
+[01:01:10] they won't take you seriously, will
+[01:01:11] they?
+[01:01:19] >> Yeah.
+[01:01:20] >> I don't I want to become like that, but
+[01:01:22] it will take time. I I I see the road.
+[01:01:25] It will take time to know what
+[01:01:28] uh Yeah, I didn't I don't know much
+[01:01:30] about games right now.
+[01:01:35] in general.
+[01:01:37] >> Yeah. It's remember it's not about
+[01:01:39] knowing about games. It's about being
+[01:01:41] interested in the topic you're tackling.
+[01:01:45] >> Yeah. Yeah.
+[01:01:48] >> Which country did jiu-jitsu come out of?
+[01:01:52] >> Uh in Japan.
+[01:01:54] >> Do you know the area in Japan where it
+[01:01:56] first got popularized?
+[01:01:57] >> No.
+[01:01:58] >> Do you know the early forefathers of
+[01:02:00] jiu-jitsu?
+[01:02:01] >> No. No. No. I think.
+[01:02:04] >> Do you know how it got exported to the
+[01:02:07] rest of the world? Why do like Why are
+[01:02:09] you doing jiu-jitsu? You're a Ukrainian.
+[01:02:11] Why is it just limited to Japan?
+[01:02:14] >> Master came to to Brazil and showed they
+[01:02:18] liked it, but then the Graces family
+[01:02:20] enhanced it and then popularized in
+[01:02:23] Brazil and somehow I don't know how to
+[01:02:26] the rest of the world.
+[01:02:29] Have you read any autobiographies of any
+[01:02:31] successful jiu-jitsu champions?
+[01:02:33] >> No. Never. Never.
+[01:02:34] >> Have you watched any jiu-jitsu
+[01:02:35] championships?
+[01:02:37] >> Yes. Uh the one that was hosted by
+[01:02:41] number two,
+[01:02:43] I forgot the name. Kate Routo won it.
+[01:02:47] >> Okay. How long ago was that?
+[01:02:51] >> Uh I watched that one one year ago and a
+[01:02:55] short one last week.
+[01:02:58] Okay. How long you've been doing
+[01:03:00] jiu-jitsu?
+[01:03:02] >> Three years.
+[01:03:03] >> Three years you watched two matches.
+[01:03:06] >> No, in total I watched 10 matches which
+[01:03:09] is okay.
+[01:03:10] >> 10 to
+[01:03:11] >> slightly better. [laughter]
+[01:03:14] >> So if you were to sit down with
+[01:03:15] jiu-jitsu champions,
+[01:03:19] couple of people who one of them won a
+[01:03:21] gold medal, one of them is another
+[01:03:23] jiu-jitsu winner. He owns a gym and you
+[01:03:29] What would happen to your body language
+[01:03:32] and your time with these two guys?
+[01:03:37] Um
+[01:03:50] the best I could banish is just
+[01:03:52] attentively listening and they will yeah
+[01:03:55] they will won't kind of notice me.
+[01:03:58] >> Okay. I haven't trained in anything for
+[01:04:02] the last you can say about 15 no yeah
+[01:04:06] was like let's say a decade right formal
+[01:04:10] training like going into a dojo and
+[01:04:12] training I haven't done that I sit down
+[01:04:14] with these two guys
+[01:04:18] >> what will happen
+[01:04:19] >> blast of a conversation for for hours
+[01:04:23] >> yeah
+[01:04:25] they'll find me an inexhaustible
+[01:04:27] resource of martial arts and
+[01:04:29] self-defense. I will find them an
+[01:04:31] inexhaustible resource of martial arts
+[01:04:33] and self-defense.
+[01:04:36] >> Do you think we'll only talk about
+[01:04:38] jiu-jitsu, the three of us?
+[01:04:40] >> No.
+[01:04:42] >> We'll talk about everything under the
+[01:04:44] sun about martial arts and have a great
+[01:04:46] time doing it. And even though I haven't
+[01:04:49] trained with them for 10 year, trained
+[01:04:51] anything for 10 years, right at that
+[01:04:54] moment, I'll be able to show them stuff
+[01:04:56] that they have they have no idea about.
+[01:04:58] That will impress them immensely.
+[01:05:04] Right? I'll show them how to move
+[01:05:08] where every bone is, every tendon, every
+[01:05:11] muscle is one motion.
+[01:05:14] One one motion. That's it. You're not
+[01:05:17] moving limbs separately. One motion
+[01:05:20] that's it.
+[01:05:23] They will know this guy's this guy's a
+[01:05:26] quality guy.
+[01:05:31] It's a matter of uh dignity. I suppose
+[01:05:33] you can say
+[01:05:36] I'll be damned if I'm going into some
+[01:05:38] company and uh looking like an idiot
+[01:05:42] >> because I couldn't be bothered
+[01:05:45] because that's my that's my fault.
+[01:05:47] That's on me. That shows my weakness of
+[01:05:50] character. That shows my laziness.
+[01:05:54] Right?
+[01:05:58] So in the areas that I'm I claim that
+[01:06:01] I'm interested in,
+[01:06:04] I'll be damned if I sit down with other
+[01:06:06] people who claim that they are also
+[01:06:08] interested in it and I'll be looking
+[01:06:09] like a little mouse.
+[01:06:16] So I would never end up feeling like you
+[01:06:19] in a in a company like that.
+[01:06:22] >> Okay.
+[01:06:25] Comics is one of my biggest uh
+[01:06:27] interests.
+[01:06:29] What do you think if I happen to go to
+[01:06:32] ComicCon
+[01:06:33] in London? What will happen?
+[01:06:41] >> Everyone gets impressed by by the depths
+[01:06:43] of your knowledge of comics.
+[01:06:45] >> I only have to say one thing to anyone I
+[01:06:47] talk to.
+[01:06:49] M
+[01:06:50] >> I have read every single issue of Marvel
+[01:06:53] comics. Every single one, including the
+[01:06:56] ads and the letters, everything
+[01:06:59] from the first comic, FF issue number
+[01:07:03] one. That was it came out in 1962, early
+[01:07:06] part of the year, all the way up to
+[01:07:09] 1979. And I'm on my way to I want to
+[01:07:12] finish uh the rest of the 11 years. Go
+[01:07:14] up to 1990 and I'll finish.
+[01:07:18] How many of ComicCon
+[01:07:21] people who are even holding stalls,
+[01:07:24] publishers, how many of these can say
+[01:07:27] that?
+[01:07:30] >> Probably
+[01:07:31] only a few people in the world.
+[01:07:34] >> Yeah.
+[01:07:41] So when I go and talk to people, are you
+[01:07:43] interested in comics? Oh, great. Well,
+[01:07:45] and I can really sit and talk to them,
+[01:07:49] right?
+[01:07:51] >> Because I know the topic. I've I've
+[01:07:54] invested myself in it properly,
+[01:07:59] right?
+[01:08:03] Does that mean I do you think that I
+[01:08:05] about comics I only know the Marvel
+[01:08:08] characters and that's it?
+[01:08:10] That's my little spotlight. Oh, I only I
+[01:08:13] don't know anything about anything else.
+[01:08:14] I just know Marvel characters,
+[01:08:15] Spider-Man and Wolverine and the the
+[01:08:18] X-Men and I only know about that. I
+[01:08:21] don't know what I don't know what you're
+[01:08:22] talking about. Is that how the
+[01:08:24] conversation will go?
+[01:08:26] >> No.
+[01:08:28] >> Do you think if there was a discussion
+[01:08:30] about
+[01:08:31] printing and paper
+[01:08:34] that I would know a little bit about
+[01:08:35] that too and how printing and paper and
+[01:08:39] art has changed over the years? Do you
+[01:08:41] think I could contribute about that?
+[01:08:45] likely.
+[01:08:46] >> Yeah, I can I can give a seminar to you
+[01:08:50] right now.
+[01:08:55] I can tell you exactly how art, comic
+[01:08:58] book art has changed from the ' 60s to
+[01:09:01] the '7s to the 80s to the '90s, the
+[01:09:03] 2000s. Then the internet came and then
+[01:09:06] right up to today where AI does a lot of
+[01:09:08] the work. I can tell you all about
+[01:09:10] coloring.
+[01:09:12] I can tell you about the uh printing
+[01:09:14] plates.
+[01:09:17] Have I got anything to do with any of
+[01:09:19] that?
+[01:09:22] >> Nothing extended to you. Just like it
+[01:09:25] and chosen it.
+[01:09:26] >> Yeah. Yeah.
+[01:09:31] It's not like I sit down and study this
+[01:09:33] stuff. You just because I'm I'm
+[01:09:36] interested. I absorb it.
+[01:09:40] I'm interested in gaming.
+[01:09:43] So, it makes me want to look at Steam
+[01:09:46] first off. Say, "Okay, right. Let's see
+[01:09:48] what discounts are on. What's happening?
+[01:09:52] Stardew value keeps coming up again and
+[01:09:54] again." Oh, here it is again. What the
+[01:09:56] hell is this? Ah, it's pixel game. [ __ ]
+[01:09:58] it. I don't care. But now I know exactly
+[01:10:01] Stardew Value. It's a It's a massive
+[01:10:04] classic uh farm sim.
+[01:10:07] >> Um, never played it. will never play it,
+[01:10:10] but I've encountered it enough times in
+[01:10:12] the headlines to now really be familiar
+[01:10:14] with it.
+[01:10:17] You understand? Rim World. I'll never
+[01:10:19] play Rim World. It's It's got nothing to
+[01:10:22] do with me, but I know about Rim World
+[01:10:26] as much as I, you know, want to know,
+[01:10:29] right?
+[01:10:31] It's because these games keep coming up
+[01:10:33] in the headlines on the front page of
+[01:10:36] Steam. The division 2 has come out with
+[01:10:39] some new pack or something.
+[01:10:42] You just pick up this stuff so that
+[01:10:45] eventually your mind can come up with if
+[01:10:47] tomorrow I develop video games,
+[01:10:50] I know where to take it.
+[01:10:56] Right.
+[01:10:59] How many of your own development has my
+[01:11:01] contribution to it?
+[01:11:05] you're the spearhead of the the idea and
+[01:11:07] the fantasy and uh you've pointed to the
+[01:11:12] marketing strategies that I took on
+[01:11:15] >> and do you think I contribute to the
+[01:11:18] actual layout of your maps of characters
+[01:11:22] of this that do you think there's even a
+[01:11:25] little bit contribution to every stage
+[01:11:26] of your game?
+[01:11:28] >> Yes, of course. like characters and map.
+[01:11:31] It comes from the Japanese fantasy.
+[01:11:36] >> Yeah.
+[01:11:39] But I'm not even developing the game.
+[01:11:40] I'm not even interested in that part of
+[01:11:43] gaming.
+[01:11:46] So why I'm trying to tell you this is
+[01:11:48] because there are specific advantages to
+[01:11:51] actually having knowledge about
+[01:11:52] something
+[01:11:54] which seems to have been missed by
+[01:11:59] left by me.
+[01:12:02] >> You know,
+[01:12:04] >> you understand?
+[01:12:08] >> Yeah. Yeah. I I get it. I get it. I get
+[01:12:11] it.
+[01:12:12] >> Yeah. Good. As long as you get it. As
+[01:12:15] long as you understand the mindset,
+[01:12:16] you're fine. What you can't be doing is
+[01:12:19] just take the formula down and repeat it
+[01:12:22] like a parrot. Oh, we're supposed to
+[01:12:23] look at everything else. Okay. Wrong
+[01:12:25] answer.
+[01:12:27] No, that's not it. You're not supposed
+[01:12:29] to do anything. You should want to do
+[01:12:31] it.
+[01:12:34] >> Yeah.
+[01:12:35] >> Mhm.
+[01:12:36] >> Excellent. Exactly the reason why you
+[01:12:39] should want to clean up your accent. If
+[01:12:41] you're going to speak English, speak it
+[01:12:43] properly. It's a matter of dignity. I'm
+[01:12:46] not going to look like an Indian fool
+[01:12:48] talking to white people in their
+[01:12:51] language. I will not allow it.
+[01:12:55] I won't allow it.
+[01:13:00] You understand? So it's a way of being.
+[01:13:03] You're in a toolic warrior
+[01:13:05] apprenticeship.
+[01:13:07] You You're not This is not like just
+[01:13:10] becoming like a good making a good game.
+[01:13:13] It's got nothing to do with any of that.
+[01:13:18] It's got to do with how you going to use
+[01:13:20] that this project of yours, this
+[01:13:22] experience.
+[01:13:24] How are you going to make it useful to
+[01:13:25] you to grow and to become better at,
+[01:13:29] you know, in yourself? How to, you know,
+[01:13:32] how to get a better character?
+[01:13:39] >> Yeah.
+[01:13:40] >> Yes. Thank you.
+[01:13:41] >> Awesome. Anything else? Should we switch
+[01:13:43] to uh [fenn]?
+[01:13:46] >> Um
+[01:13:52] [amount] minutes. uh you would will have
+[01:13:54] meeting with [yar's wife]. I say yes. Uh uh just
+[01:13:58] from from my perspective on
+[01:14:01] investments
+[01:14:04] if you want study uh over the years the
+[01:14:08] general advice is S&P [amount] and I I can
+[01:14:13] help you can set up account yourself.
+[01:14:16] It's relatively easy. If you ever wish
+[01:14:18] to go, I can help if you ever
+[01:14:20] >> have you have you got an account with
+[01:14:21] them?
+[01:14:22] >> Sorry.
+[01:14:23] >> Have you got an account with SMB?
+[01:14:26] >> So, it I Well, I do that through the
+[01:14:30] brokerage that I showed you. That kind
+[01:14:32] of brokerage can be set up online. They
+[01:14:35] require
+[01:14:37] the proof that you're living at some
+[01:14:39] address. And yes, then it's uh kind of
+[01:14:42] one click to to buy this S&P [amount] which
+[01:14:46] is top [amount] stock of American companies.
+[01:14:49] It's super reliable. It does go down
+[01:14:53] when the whole economy goes down like
+[01:14:55] during COVID [amount] But it over [amount] years
+[01:14:59] it was super stable. Everyone believes
+[01:15:02] in it. That's important. So it it is
+[01:15:05] strong because everyone believes in it.
+[01:15:06] >> Yeah. No, I get it. I get it.
+[01:15:09] In the end, it's investment, you know,
+[01:15:12] uh and if you're not willing to lose the
+[01:15:15] money, don't invest. However, uh what
+[01:15:18] you're describing is the safe option. My
+[01:15:22] my own preference is always [amount]%
+[01:15:25] super safe.
+[01:15:27] >> So, uh low risk, [amount]%,
+[01:15:30] [amount]% medium risk, [amount]% high risk. That's
+[01:15:34] the way I rock my port portfolios. I
+[01:15:38] rock the the the the chunk.
+[01:15:40] [redacted: financial arrangements between the teacher and yar's family]
+[01:16:46] as I said whatever
+[01:16:49] >> if you can set up a
+[01:16:52] an account within an account you know
+[01:16:54] within your browser account a smaller
+[01:16:56] account, put that account amount in
+[01:16:58] there and do it that way. Fine.
+[01:17:00] Otherwise,
+[01:17:02] uh we can I can sort that out with [yar's wife]
+[01:17:04] and see how that would work out. Yeah.
+[01:17:10] >> All right. Excellent. Anything else?
+[01:17:12] Should we switch?
+[01:17:13] >> Let's switch. Thank you.
+[01:17:15] >> Excellent. So, this is very good. Yeah.
+[01:17:17] This is uh a major upgrade
+[01:17:22] in inside you. If if you change your
+[01:17:25] mindset to what we've discussed today,
+[01:17:27] it really will be a major upgrade to
+[01:17:29] you. You'll step into you'll become a
+[01:17:31] winner at that point.
+[01:17:35] >> Yeah.
+[01:17:37] >> Excellent. Excellent. Well done.
+[01:17:39] Fantastic.
+[01:17:41] >> [fenn], what's been happening?
+[01:17:44] >> Hello, Nalam. Y hello.
+[01:17:48] [cough and clears throat]
+[01:17:52] What's been happening? Well,
+[01:17:57] uh, not much. Um,
+[01:18:01] I have brought to the table today a a
+[01:18:05] to-do list and then what I feel is going
+[01:18:08] to be a few questions.
+[01:18:11] The to-do list, I know it's uh it is
+[01:18:14] what it is. Just a to-do list. Doesn't
+[01:18:16] matter. Um, what matters is the
+[01:18:19] questions, I think. Um so oh and first
+[01:18:23] of all I want to answer from last time
+[01:18:25] you asked me to bring the economy here
+[01:18:28] today my economy last time you asked me
+[01:18:31] what I had for my uh business capital
+[01:18:35] and I said
+[01:18:39] uh the numbers aren't updated but uh and
+[01:18:42] then I came with a silly guess which
+[01:18:44] turned out to be completely off u in a
+[01:18:47] good way because now I can Sir, my
+[01:18:50] capital is the following. I have the
+[01:18:53] three months of backup,
+[01:18:57] but beyond that, I have uh the same
+[01:19:01] amount in savings. So, that is uh [amount] uh
+[01:19:06] what's that? About [amount]
+[01:19:10] in savings.
+[01:19:12] >> Okay. Excellent.
+[01:19:13] >> Um
+[01:19:17] what's that? savings. And savings means
+[01:19:19] what? It's just a savings account.
+[01:19:22] >> No, it I have them here. Uh oh,
+[01:19:25] >> in cash.
+[01:19:26] >> Yeah.
+[01:19:27] >> Okay. So, that's devaluing over time if
+[01:19:29] you're not making it work for you.
+[01:19:31] >> I know that. Uh this money is I've made
+[01:19:35] it during the last
+[01:19:38] maybe during a year and they're just
+[01:19:40] there in cash. I understand that they
+[01:19:43] aren't they they are going to devalue. I
+[01:19:44] get it. Um,
+[01:19:46] >> and this is separate from your [amount] months
+[01:19:48] of rent bills and food.
+[01:19:52] >> Uh, yeah. Well, there's double that
+[01:19:54] amount there.
+[01:19:56] >> I don't know what that means.
+[01:19:57] >> It means uh the [amount] months of rent and
+[01:19:59] food and everything is there as well.
+[01:20:02] >> Okay. You didn't answer my question.
+[01:20:04] What did I ask?
+[01:20:05] >> No, it's not separate. Oh, wait. It's
+[01:20:07] the same pile of money.
+[01:20:10] >> [fenn] What did I ask?
+[01:20:12] >> You asked if it was a separate amount.
+[01:20:15] from my food and rent and backup.
+[01:20:18] >> Exactly. So, answer that.
+[01:20:22] >> Yes, it is.
+[01:20:24] >> Okay. So, your food, rent, and all the
+[01:20:28] other stuff is a separate amount from
+[01:20:32] your business savings, business. Is that
+[01:20:35] correct?
+[01:20:36] >> Yes.
+[01:20:38] >> You sure about that? You need to think
+[01:20:40] about it. No, I it's a when you asked me
+[01:20:45] if it's a separate amount in my brain,
+[01:20:47] uh what happened was that I thought uh
+[01:20:51] is it a the same pile or same amount?
+[01:20:53] And I get it. It's not the same amount.
+[01:20:55] It's two different numbers. It's the
+[01:20:57] same pile at the moment because they're
+[01:20:59] in cash right here.
+[01:21:00] >> So all of it's in cash, but in your head
+[01:21:04] it's a different amount,
+[01:21:05] >> right? Yeah.
+[01:21:07] >> Okay.
+[01:21:12] How are you going to deal with that
+[01:21:16] going forward? What what's your plan
+[01:21:18] with this thing that in your head is
+[01:21:20] different? In your head, many things
+[01:21:21] happen. We have seen it. In your head is
+[01:21:23] an amazing world.
+[01:21:24] >> Yes.
+[01:21:25] >> That has literally nothing to do with
+[01:21:26] reality,
+[01:21:27] >> right?
+[01:21:28] >> So, uh we have a pile of gold, right,
+[01:21:34] and the dragon sitting on it. What are
+[01:21:36] you going to do about it?
+[01:21:40] Uh
+[01:21:44] uh
+[01:21:47] I don't know what I'm going to do about
+[01:21:48] it. I have I have I haven't given this
+[01:21:51] any kind of attention.
+[01:21:56] Um I need to say one thing just for the
+[01:21:58] record. Uh a thousand of those [amount] is
+[01:22:02] in crypto. So that's not there. But
+[01:22:04] that's just the only caveat. the rest.
+[01:22:07] Yeah.
+[01:22:08] >> So, a thousand is is in crypto doing
+[01:22:10] what?
+[01:22:11] >> Uh sitting there. Um some of it is in
+[01:22:15] there's two different currencies. One
+[01:22:19] >> that's fine. It's sitting there.
+[01:22:20] >> Yeah.
+[01:22:21] >> Okay. So, you have static [amount] in
+[01:22:24] crypto and you static cash.
+[01:22:26] >> Yes.
+[01:22:28] >> The rest in static cash. Okay. And in
+[01:22:31] that static cash in your head, you've
+[01:22:33] partitioned the business capital
+[01:22:37] from living expenses capital. Is that
+[01:22:40] correct?
+[01:22:41] >> That's correct.
+[01:22:41] >> All right. So, in your head, amazing
+[01:22:42] things are going on, but in reality,
+[01:22:46] neither is your money growing nor is it
+[01:22:49] separately um even physically just
+[01:22:52] separately put in envelopes. So,
+[01:22:56] uh, that there's some clarity there. And
+[01:22:59] you were going to obiscate everything if
+[01:23:02] I hadn't stopped you.
+[01:23:05] >> Um, I got to say inside my um,
+[01:23:10] the budget, what's that called?
+[01:23:14] >> So, you can call it living expenses and
+[01:23:16] you can call it business capital.
+[01:23:18] >> Yes. inside the Excel sheet where I have
+[01:23:22] these numbers.
+[01:23:24] Uh there is a difference between these
+[01:23:26] two piles of money amounts.
+[01:23:29] There is the my there is the um
+[01:23:34] the backup money, there's the personal
+[01:23:38] savings, and there's the business
+[01:23:40] capital.
+[01:23:42] >> Okay. So, what is the difference between
+[01:23:44] personal savings and business capital?
+[01:23:47] Since I haven't made use of any of those
+[01:23:51] yet, there is no difference in practice.
+[01:23:53] They are just there. So,
+[01:23:56] >> so we come back to the question, what do
+[01:23:57] you want to do about it going into the
+[01:23:59] future?
+[01:24:00] >> Well, I would like to of course uh make
+[01:24:03] this money uh first of all not be
+[01:24:06] devalued by sheer uh inflation,
+[01:24:11] right? That would be nice. Um so
+[01:24:14] investment of course is the obvious
+[01:24:16] first uh thought I have.
+[01:24:21] I have no other plans with them. I would
+[01:24:23] like to make them grow. Yeah. I also
+[01:24:27] something you said at one point was that
+[01:24:30] but it's irrelevant until I have a
+[01:24:32] actual social media action going on. So
+[01:24:35] uh but at some point you did mention
+[01:24:36] that you could put money into social
+[01:24:39] media to boost your uh posts uh and that
+[01:24:42] would be also an interest a good way of
+[01:24:44] investing your money at some point. You
+[01:24:47] said that but other than that I have no
+[01:24:49] plans no thoughts uh to this.
+[01:24:52] >> Okay. So do you want to have a plan or
+[01:24:55] what's what's your plan going forward
+[01:24:58] with with all this?
+[01:25:03] Oh yeah, I did have a thought earlier.
+[01:25:05] Uh I'm probably going to have to speak
+[01:25:06] to [yar's wife]
+[01:25:10] to learn something uh about what to do
+[01:25:13] with my money and uh Nanam would
+[01:25:16] appreciate if I knew something about
+[01:25:17] this. So and I would also appreciate if
+[01:25:21] I knew a little bit about this.
+[01:25:23] >> Yeah. So, so then walk me through what
+[01:25:28] when, what, how, you know, in terms of
+[01:25:31] specific bookends, what to do now,
+[01:25:33] what's going to happen.
+[01:25:34] >> Yeah.
+[01:25:36] Well,
+[01:25:41] maybe I would start by looking at
+[01:25:42] [yar's wife]'s website just for a start and
+[01:25:45] then I would maybe write her
+[01:25:48] and I would ask her
+[01:26:03] >> [snorts]
+[01:26:16] [snorts]
+[01:26:28] >> No, I would um
+[01:26:32] write you first. I would think about how
+[01:26:36] I would approach this and I would write
+[01:26:38] it to you and then you would give a
+[01:26:40] thumbs up or hey change this and that
+[01:26:42] and then I would run it by [a friend] and I do
+[01:26:46] that.
+[01:26:53] I will do that.
+[01:27:11] by the [amount]rd of this month.
+[01:27:14] >> By the [amount]rd. What's the reason for that
+[01:27:18] date? Um,
+[01:27:20] I just looked inside my work calendar
+[01:27:23] and uh there I have a lot of work on my
+[01:27:26] plate uh gathering resources.
+[01:27:29] >> And so you're saying you'll be free at
+[01:27:31] that point?
+[01:27:32] >> No. Uh until that point, I will had
+[01:27:34] plenty of time to actually sit down and
+[01:27:37] concentrate and make this happen. Uh
+[01:27:40] right,
+[01:27:41] >> you're you're you're answering again to
+[01:27:43] create confusion. What did I actually
+[01:27:45] ask?
+[01:27:47] Uh
+[01:27:50] if I
+[01:27:52] chose that date,
+[01:28:00] I'm not sure what you asked on was not
+[01:28:03] listening properly.
+[01:28:04] >> Yeah. So why did you choose that date
+[01:28:10] to talk with [yar's wife]?
+[01:28:15] Um because
+[01:28:17] when I looked in my work calendar,
+[01:28:20] there were one, two, three, four,
+[01:28:25] yeah, a good handful of clear days where
+[01:28:29] I do not have to uh go and gather
+[01:28:32] resources. And so I imagine then during
+[01:28:35] these days I have plenty of time to sit
+[01:28:38] down and write how I would like to
+[01:28:42] approach [yar's wife]
+[01:28:44] and then run it by you
+[01:28:46] >> get your thumbs up and then ask [yar's wife].
+[01:28:50] >> Okay. So
+[01:28:53] how does that correlate with the [amount]th?
+[01:28:57] >> [amount]rd. Uh
+[01:28:59] >> [amount]rd. That's an arbitrary date I chose
+[01:29:03] which feels like I can do this.
+[01:29:10] How am I is what is what am I
+[01:29:12] misunderstanding? I don't know.
+[01:29:14] >> You're m misunderstanding the [ __ ]
+[01:29:16] that comes out of your mouth.
+[01:29:18] >> Amazing. Well, I have no clue, man. Um,
+[01:29:22] all right. Can we try to go at this in
+[01:29:25] another way? Uh,
+[01:29:26] >> yeah, sure. Try again. Yeah. I I would
+[01:29:28] like to run this by you first.
+[01:29:31] >> Okay. By when?
+[01:29:35] >> By the [amount]rd of [amount] Okay.
+[01:29:38] >> You feel the date at that point.
+[01:29:40] >> What? Okay. Fine. Uh no, it's fine. Uh I
+[01:29:44] would like to run this by you.
+[01:30:03] You're not looking at [amount] are you?
+[01:30:06] Okay. Is the
+[01:30:18] fine. Um,
+[01:30:24] yeah. Yeah. Go ahead,
+[01:30:25] >> [fenn]. Can you do it tomorrow?
+[01:30:38] Yes, of course I can do it tomorrow.
+[01:30:42] I mean,
+[01:30:47] yeah, with a bit with a little bit of
+[01:30:48] luck, I can certainly do it tomorrow. I
+[01:30:51] of course I can do it tomorrow.
+[01:30:54] I can also do it with a book end Monday
+[01:30:57] like the day after tomorrow.
+[01:31:00] >> Which one? So what's the hesitation in
+[01:31:03] these ones in choosing a something to
+[01:31:06] run it by me?
+[01:31:08] >> I can just say Monday. I can
+[01:31:12] the hesitation before or this one now?
+[01:31:14] >> Well, but what's the hesitation? What?
+[01:31:17] What were you doing there? Staring at
+[01:31:18] the
+[01:31:21] >> Yeah, I'm just looking at my free time.
+[01:31:23] I'm
+[01:31:25] free time, not resource gathering time.
+[01:31:27] Um
+[01:31:27] >> Okay. So, you're So, is that Are you
+[01:31:30] resource gathering tomorrow?
+[01:31:32] >> Yes.
+[01:31:34] >> Okay. Are you resource gathering Monday?
+[01:31:36] >> Yes. No.
+[01:31:39] >> Okay.
+[01:31:41] So, what were you originally looking at
+[01:31:44] as a potential date before Y asked you?
+[01:31:49] >> I was
+[01:31:53] So, just before Y asked me, I was seeing
+[01:31:56] what I could find within the next week
+[01:31:58] or two. So,
+[01:32:00] >> what you were looking for is what's the
+[01:32:02] furthest date I can safely get away with
+[01:32:05] where they won't challenge me. That's
+[01:32:07] what you were doing.
+[01:32:11] Okay. All right.
+[01:32:13] >> Not not okay.
+[01:32:14] >> No.
+[01:32:14] >> Verify what I just said.
+[01:32:18] >> Is that what you were doing or not?
+[01:32:32] >> Huh? Uh,
+[01:32:33] >> suffering from memory loss. Suddenly I'm
+[01:32:35] >> No, no, no, no, no. Part of me sometimes
+[01:32:38] the mind
+[01:32:39] >> the mind steals the memory
+[01:32:42] >> there [clears throat] part of me really
+[01:32:46] wants to say well that's one way of
+[01:32:47] looking at it it I if that was what I
+[01:32:50] was doing
+[01:32:53] uh I wasn't aware um was it what I was
+[01:32:56] doing
+[01:32:58] looking for a date which is as far into
+[01:33:01] the future as possible
+[01:33:03] >> do you do that habitually Okay.
+[01:33:10] >> I put things out in the future
+[01:33:11] habitually. Absolutely.
+[01:33:13] >> If the TAC was asked, what would they
+[01:33:15] say?
+[01:33:16] >> No. Yes. Yes, I do. I put things out.
+[01:33:19] Yeah.
+[01:33:20] >> So, are the what are the chances that
+[01:33:21] you were doing it right now?
+[01:33:33] All right. So I I would would like to
+[01:33:36] get this clear. All right. Um
+[01:33:40] you said I was what you said that what I
+[01:33:43] was doing was looking for a date as far
+[01:33:45] as the future as possible so that there
+[01:33:47] will still not be any challenge uh from
+[01:33:49] you two
+[01:33:51] >> that you could safely get away with by
+[01:33:53] saying yeah no I'm I'm see I'm on the
+[01:33:55] ball. I'm doing something about it.
+[01:33:57] >> [laughter]
+[01:33:58] >> All right. Yeah, that's uh that would
+[01:34:01] that would seem like me. Absolutely. And
+[01:34:03] T would say the same. Yeah. Uh so if
+[01:34:06] that was I was doing now, it wouldn't
+[01:34:08] surprise me. Let's just say fine.
+[01:34:18] Yeah. Know that what was I was doing.
+[01:34:21] Part of me keeps saying, "Yeah, no, but
+[01:34:24] what if there was some kind of higher
+[01:34:26] priority that should come first? What
+[01:34:28] about the list of things that I had?"
+[01:34:32] Right. We haven't gotten to those yet.
+[01:34:34] >> What list of things and when?
+[01:34:36] >> Yeah. Um, right. Uh, I
+[01:34:42] You want to know about the list?
+[01:34:44] >> Well, are you talking about Monday?
+[01:34:48] All right.
+[01:34:50] So
+[01:34:51] for the first, this is an example of
+[01:34:53] what's in the list. For the [amount]st of
+[01:34:55] September, I would like to have uh
+[01:34:57] written an application for the clowning
+[01:34:59] school.
+[01:35:00] Are you talking about Monday, this
+[01:35:03] coming Monday, which is the [amount]th?
+[01:35:06] >> No. No, I'm not talking about Monday.
+[01:35:09] >> All right. So, how is that list relevant
+[01:35:11] then for what we're talking about?
+[01:35:15] >> It's not. I mentioned what was coming
+[01:35:17] up. Why are you [ __ ] our turds and
+[01:35:19] wasting everyone's time?
+[01:35:21] >> Good. Then [ __ ] it. It's fine. Uh we can
+[01:35:24] just say, "Look, uh I I get it. I
+[01:35:27] understand."
+[01:35:28] What do you understand? Uh that what I
+[01:35:31] was doing was just choosing an arbitrary
+[01:35:34] date out in the future. Uh so that I
+[01:35:38] don't have to do anything about it now.
+[01:35:41] >> Okay. Yeah. So I can easily uh
+[01:35:48] Monday uh write you something that I can
+[01:35:52] uh then when you're thumbs up uh write
+[01:35:55] to [yar's wife].
+[01:35:56] >> Okay. So Monday uh you got free time you
+[01:36:01] can draft out an inquiry.
+[01:36:04] >> Yeah.
+[01:36:05] >> Send it to me and then forward it to
+[01:36:08] there. Is that correct?
+[01:36:10] >> Yes. Yes. Yes. right now. How much
+[01:36:14] confusion will that inquiry contain?
+[01:36:16] >> I was very confused and I'm sure
+[01:36:19] everyone else except you probably uh it
+[01:36:23] like a [ __ ] [amount]%.
+[01:36:25] >> [amount]%.
+[01:36:26] >> So what will you do about that?
+[01:36:32] >> Um
+[01:36:35] that
+[01:36:38] over Yeah.
+[01:36:42] That may be inside one of the questions
+[01:36:44] that I have because you told me uh
+[01:36:48] >> stick stick with what what did I ask?
+[01:36:50] What was the question?
+[01:36:51] >> What am I going to do about it? All the
+[01:36:52] confusion that I'm spewing.
+[01:36:54] >> No, no, no. The question was is what you
+[01:36:57] send me on to look at on Monday.
+[01:37:01] >> Oh, how confusing is it going to be?
+[01:37:05] >> No, it's not going to be confusing. I'm
+[01:37:07] going to do my very best that it's not
+[01:37:08] confusing. Simple to the point.
+[01:37:11] >> Excellent answer. Stay with that
+[01:37:13] thinking that the the where that came
+[01:37:16] from.
+[01:37:18] Stay with that.
+[01:37:20] >> Okay.
+[01:37:22] So if you need to say that again to plug
+[01:37:24] in with that part of you that said that
+[01:37:27] then say it again. Then you can say that
+[01:37:29] again.
+[01:37:31] Now I can ask you the question again so
+[01:37:33] that you can get familiar with that part
+[01:37:35] of you where that answer came from.
+[01:37:37] >> Yes. Please do. Please do.
+[01:37:39] >> All right. So, how much confusion is
+[01:37:41] what you send me on Monday going to
+[01:37:43] contain?
+[01:37:44] >> It's not going to contain any confusion
+[01:37:46] and I'm going to do my best to speak
+[01:37:48] clearly.
+[01:37:50] >> Excellent. I'm going to do my best means
+[01:37:53] what? Cuz you do your best all the time,
+[01:37:54] but it's doesn't quite work out the way
+[01:37:57] everyone, you know, anyone want.
+[01:38:00] >> So, is it going to be confusing or not?
+[01:38:03] >> No, it's not going to be confu
+[01:38:05] confusing. It's a simple request. It's a
+[01:38:07] simple thing.
+[01:38:08] >> Exactly. This time, watch the recording.
+[01:38:10] You looked up
+[01:38:13] and you said what you just said.
+[01:38:16] >> Okay.
+[01:38:16] >> But the one just before where you went,
+[01:38:18] I'll try my best to do whatever I need
+[01:38:20] to do. You're still doing the shifty
+[01:38:22] nonsense.
+[01:38:23] >> Yes. Thank you. Okay.
+[01:38:27] >> Right.
+[01:38:27] >> Yeah. So these are the parts of you that
+[01:38:30] you need to exercise so they get strong
+[01:38:34] and ignore and starve the parts of you
+[01:38:37] that
+[01:38:38] waste your time, waste everyone's time
+[01:38:41] and nothing gets accomplished in your
+[01:38:43] life.
+[01:38:44] >> Yeah.
+[01:38:45] >> Because there's too much confusion.
+[01:38:47] >> Yes.
+[01:38:50] >> Okay. The first thing you need to do is
+[01:38:52] listen to the question that is asked
+[01:38:56] and answer only that question.
+[01:39:01] >> Yeah.
+[01:39:02] >> Only answer the question. No one wants a
+[01:39:06] life history of stuff.
+[01:39:10] Yeah. So make sure you really that will
+[01:39:13] be your way to develop the clear side of
+[01:39:16] you.
+[01:39:18] Right. Any question that is ever asked
+[01:39:20] to you by anyone, only answer the
+[01:39:23] question directly. That's it.
+[01:39:27] Nothing else. No surrounding
+[01:39:30] backstories,
+[01:39:31] no nothing. Just the question and its
+[01:39:35] answer.
+[01:39:37] >> Yep. Gotcha.
+[01:39:39] >> Yeah. That way you will you'll have
+[01:39:42] something tangible to to repeat.
+[01:39:48] Okay. So, Monday we're getting a a
+[01:39:53] initial sort of inquiry with [yar's wife].
+[01:39:55] >> Yeah.
+[01:39:56] >> Then she will take her time. And so,
+[01:39:58] what are you planning to inquire from
+[01:40:01] her?
+[01:40:07] >> Um
+[01:40:09] [clears throat]
+[01:40:16] >> [clears throat]
+[01:40:22] >> I would ask her maybe uh I would ask her
+[01:40:27] what to do if she was me with the amount
+[01:40:30] of money I have. Uh
+[01:40:36] yeah, in order to safeguard it and or
+[01:40:39] invest it. No, not all. And invested.
+[01:40:42] Uh, what would she do with this this
+[01:40:43] little amount of money that I have?
+[01:40:46] >> Okay, so little or big? Just stay with
+[01:40:50] descriptions.
+[01:40:53] >> Okay. What would you do with No, I of
+[01:40:55] course I would ask her the exact amount,
+[01:40:57] but thank you for pointing that out. Of
+[01:40:58] course. Uh, what would you do, dear
+[01:41:01] [yar's wife], with
+[01:41:03] uh exactly this amount?
+[01:41:06] >> Yeah, I'm looking to invest it, make it
+[01:41:10] grow. Right now it's sitting just as
+[01:41:12] cash. I'd like to make it grow. What
+[01:41:14] would be your advice?
+[01:41:17] >> Yeah.
+[01:41:18] >> Okay.
+[01:41:19] >> Yeah.
+[01:41:20] >> So then you run that by me and then I'll
+[01:41:22] probably say, "Yeah, that's really
+[01:41:23] good." Then you go off and fire it off
+[01:41:26] to [yar's wife].
+[01:41:27] >> She'll come back with some tips and
+[01:41:29] tricks for you.
+[01:41:32] And uh then what happens?
+[01:41:37] Well, then I
+[01:41:40] uh applied the tips and tricks.
+[01:41:43] >> Okay. So, imagine that she comes back to
+[01:41:46] you by next Friday.
+[01:41:48] >> Yeah.
+[01:41:49] >> Okay. So, you ask Monday, she comes back
+[01:41:52] to you by Friday. All right. Then what's
+[01:41:54] happening
+[01:41:57] >> then? What is happening?
+[01:41:59] >> Mhm.
+[01:42:01] [laughter]
+[01:42:04] Um
+[01:42:07] then what's happening? Well um
+[01:42:13] then I'll say okay great and then her
+[01:42:16] tips and tricks will just be there
+[01:42:19] inside the um chat for I don't know
+[01:42:24] until you ask me in two or four weeks,
+[01:42:27] hey so what happened with the thing with
+[01:42:29] [yar's wife]? and I say, "Well, I've
+[01:42:30] postponed it to [amount] or whatever."
+[01:42:34] [laughter]
+[01:42:36] >> Okay, so that's the most likely scenario
+[01:42:40] right now. How are we going to change
+[01:42:42] that
+[01:42:46] >> into something that works for you rather
+[01:42:48] than against you? Yeah.
+[01:43:11] U and
+[01:43:16] I will have to decide to do
+[01:43:22] what the tips
+[01:43:24] tell me to do. Um,
+[01:43:27] >> by when will you have to will when will
+[01:43:29] by when will you have decided?
+[01:43:34] >> When I receive the tips, I should be
+[01:43:37] looking in my calendar. Maybe not.
+[01:43:40] [laughter] Maybe not actually. Maybe uh
+[01:43:44] if it's by Friday, then I can say
+[01:43:48] let's say it was on Friday
+[01:43:51] like you did. You can say, "Ah, thank
+[01:43:53] God the banks are closed. I don't have
+[01:43:55] to deal with this right now."
+[01:43:56] >> Yes, [laughter]
+[01:44:00] that's perfect. Yeah, that was in fact
+[01:44:03] my first thought because it's in cash.
+[01:44:06] >> Okay. You Yeah, you knew. No, no, not
+[01:44:10] that. Uh my first thought was she's
+[01:44:13] probably come going to come back with
+[01:44:15] well how do I invest this thing uh if
+[01:44:17] it's in cash with I was I would include
+[01:44:20] that in my request to [yar's wife] uh because I
+[01:44:23] would like to not put the money in the
+[01:44:25] bank right
+[01:44:27] um
+[01:44:28] >> I don't know why not
+[01:44:30] >> uh because uh
+[01:44:33] >> and how will [yar's wife] who's a [adviser]
+[01:44:35]  coach tell you how to what to
+[01:44:39] do with your cash.
+[01:44:40] >> She might know what to do with buy gold
+[01:44:43] from a local place, for example.
+[01:44:48] >> You walk in with [amount] of cash to buy
+[01:44:50] gold. What do you think that guy's going
+[01:44:52] to do?
+[01:44:52] >> Yeah. All right.
+[01:44:54] >> You [ __ ] idiot.
+[01:44:54] >> No, no, no. Don't Don't. Please, please.
+[01:44:56] I I can I can do this one. I can do this
+[01:44:58] one. All right.
+[01:44:59] >> Give Give me a Give me an answer worthy
+[01:45:01] of you.
+[01:45:02] >> Don't Don't do this [ __ ]
+[01:45:03] >> When I said Thank you. When I said um go
+[01:45:07] down here in a local place and buy gold,
+[01:45:09] I didn't mean to bring the whole thing
+[01:45:11] and buy gold. All right. I meant go down
+[01:45:14] there with a little bit of little bit of
+[01:45:16] money. Buy a little bit of gold. Get
+[01:45:18] that gold verified that it's actually
+[01:45:19] gold and that it's gold. Yeah. And then
+[01:45:23] I can maybe buy a little more and a
+[01:45:25] little more. If that is the advice from
+[01:45:27] a loner what to do with cash if I would
+[01:45:29] like to avoid putting it in the bank,
+[01:45:31] which I would like to avoid. So just
+[01:45:33] imagine which [adviser] in
+[01:45:36] the world would give you this advice.
+[01:45:38] >> Probably a [ __ ] like me who's not even
+[01:45:41] such [clears throat] a
+[01:45:43] manager.
+[01:45:44] >> So then you're saying [yar's wife] is just as
+[01:45:47] much of a [ __ ] as you that she would
+[01:45:49] adise.
+[01:45:50] >> That's what I clearly implied. Um that's
+[01:45:53] not what I meant.
+[01:45:54] >> So what kind of advice do you think she
+[01:45:56] will give you?
+[01:45:59] she will give me uh pretty good advice
+[01:46:01] and probably something I had never
+[01:46:02] thought about. Um, what
+[01:46:27] >> the best advice? [laughter]
+[01:46:30] Really good advice.
+[01:46:31] >> What? What? What are you saying? No one
+[01:46:33] knows. Uh, y, what were you saying?
+[01:46:37] >> It's an an inquiry. You want to avoid
+[01:46:41] putting to banks to avoid taxes, legal?
+[01:46:45] >> Yeah.
+[01:46:47] >> Yes, exactly.
+[01:46:51] >> You okay? I need to think
+[01:46:54] >> I pay I
+[01:46:55] >> We have to let that [yar's wife] know as well.
+[01:46:58] >> Yeah, of course. No. Yeah. Yeah.
+[01:47:01] [yar's wife] and I already had the tax
+[01:47:03] conversation in tech uh some time ago.
+[01:47:09] >> So not many [adviser]
+[01:47:12] will touch your problem. Why do you
+[01:47:15] think that is?
+[01:47:19] Uh
+[01:47:20] not oh um
+[01:47:28] not many [adviser] will
+[01:47:30] touch my problem because I want to avoid
+[01:47:33] taxes.
+[01:47:35] You tell me. I'd
+[01:47:38] >> go to the next, you know, go to some
+[01:47:40] [adviser] or some financial
+[01:47:42] management offices in your in your city
+[01:47:46] and tell them what you've got and see if
+[01:47:49] they take you on.
+[01:47:52] Um I had a conversation not with a
+[01:47:54] [adviser] but with uh um an
+[01:47:57] accountant
+[01:47:59] and he said I mean his attitude was and
+[01:48:03] I have actually had an accountant for a
+[01:48:05] while which I'm going to leave behind
+[01:48:07] now because
+[01:48:08] >> no one needs to know that stick with
+[01:48:10] >> Yep. Yep.
+[01:48:12] So I have spoken with two accountants uh
+[01:48:16] recently and their attitude is basically
+[01:48:19] the same uh that
+[01:48:24] they will avoid paying as much taxes as
+[01:48:27] possible.
+[01:48:29] That doesn't tell you anything about
+[01:48:30] your cash sitting in your house, mate.
+[01:48:36] >> That doesn't tell me anything about my
+[01:48:39] cash out of the accountants. And you
+[01:48:40] who's losing out?
+[01:48:43] >> I am losing out.
+[01:48:45] >> Okay. So, what use has talking to those
+[01:48:48] two accountants been for you?
+[01:48:58] Oh, no. It has been of use in the Oh,
+[01:49:02] [ __ ] me. I get that. That makes sense.
+[01:49:06] No.
+[01:49:10] Oh, it has been of no use at all in that
+[01:49:12] sense. No. Uh, I get that now.
+[01:49:17] Uh, okay.
+[01:49:30] [redacted: tax and money-handling details]
+[01:56:13] it starts at [amount]% for everyone.
+[01:56:16] >> Okay.
+[01:56:17] >> And and uh if it's just Yeah.
+[01:56:22] So,
+[01:56:22] >> well, I do remember at the start of the
+[01:56:24] meeting you said I was totally wrong
+[01:56:25] about my finances.
+[01:56:28] Uh, I hadn't, like I said, also
+[01:56:30] >> you have a history of talking out of
+[01:56:32] your ass in the moment and then you find
+[01:56:35] out that it was all just I was talking
+[01:56:37] out of my ass. So, could it be that you
+[01:56:40] might be talking out of your ass right
+[01:56:42] now with great conviction about taxes
+[01:56:45] with no information about it?
+[01:56:48] >> No. Yeah. Yeah. Yeah. Absolutely. It
+[01:56:50] [redacted: third parties' finances]
+[01:57:35] um
+[01:57:35] >> Okay. Yeah. You've done your research.
+[01:57:37] Then what's what have you found?
+[01:57:39] >> And
+[01:57:40] what well I you got to it's like an
+[01:57:43] income. So you got to and it's it's
+[01:57:45] there in the books. So you got to pay
+[01:57:47] the taxes on it and the the taxes are uh
+[01:57:53] the normal if you got
+[01:57:58] no it's a normal income. So it's at
+[01:57:59] least [amount]% depending on the rest of your
+[01:58:02] economy.
+[01:58:02] >> So [amount]% you can pay [amount]% of [amount] [amount] years
+[01:58:07] later in a hypothetical scenario.
+[01:58:09] >> Yeah.
+[01:58:10] >> Or you can pay [amount]%
+[01:58:12] now. Put your cash in the bank or
+[01:58:14] whatever you need to do and get it
+[01:58:17] rolling out. What do you want? What do
+[01:58:18] you want to do?
+[01:58:22] If [clears throat]
+[01:58:24] right now your cash is sitting in your
+[01:58:25] little beaver den, you don't get to pay
+[01:58:28] taxes. Fantastic. Well done. Thumbs up.
+[01:58:31] You're such a rebel. But it's the
+[01:58:34] shittiest money decision that I've ever
+[01:58:37] come across cuz it's just sitting there
+[01:58:39] rusting, rotting away.
+[01:58:44] And what you've chosen is to run away
+[01:58:46] from the problem.
+[01:58:54] I hadn't even considered there was a
+[01:58:56] problem until now. Uh
+[01:58:58] >> well, is it a problem or not? You get to
+[01:59:00] make it a problem.
+[01:59:02] >> Yeah. No, it's a first of all, a little
+[01:59:04] bit of a challenge. I think this is
+[01:59:05] going to be okay. It's not that much of
+[01:59:07] that much money anyway. It's going to be
+[01:59:08] okay.
+[01:59:08] >> What is going to be okay? What does that
+[01:59:10] mean?
+[01:59:10] >> It means uh that within a couple of
+[01:59:13] weeks, it's going to be totally clear
+[01:59:15] what I'm going to do with this money to
+[01:59:17] invest it properly. I will also have
+[01:59:18] found out the answer to what's best
+[01:59:21] paying the taxes now or later. Uh
+[01:59:24] >> and what is happening within a couple of
+[01:59:25] weeks for you to be in that position of
+[01:59:28] knowing
+[01:59:29] >> speaking with
+[01:59:31] myself
+[01:59:32] and [yar's wife] and [name] maybe even
+[01:59:35] >> we're speaking right now. So are you a
+[01:59:37] little bit better off with that or no?
+[01:59:40] >> Yeah, absolutely. For now it's it it's
+[01:59:42] already now I'm aware that there's
+[01:59:44] there's a challenge uh here. You were
+[01:59:47] not aware of that before.
+[01:59:50] >> Um, I have It's not a lot of money, so I
+[01:59:53] hadn't even
+[01:59:54] >> You were aware of that before. You just
+[01:59:56] didn't listen to your conscience, did
+[01:59:57] you?
+[02:00:00] >> Um,
+[02:00:02] yeah, that's right. That that may be
+[02:00:06] totally right.
+[02:00:11] There may be a ripoff and the ripoff is
+[02:00:13] that you pay taxes first time from your
+[02:00:17] income and then they tax you second time
+[02:00:19] but it's not the for the full sum but
+[02:00:22] for the money that you have gained.
+[02:00:24] There could be a ripoff. There are
+[02:00:26] countries like that.
+[02:00:27] >> It is a [ __ ] ripoff.
+[02:00:30] >> Well, whether it's a ripoff or not is
+[02:00:32] irrelevant right now. You got cash
+[02:00:33] sitting in your little beaver den that
+[02:00:36] is devaluing
+[02:00:39] >> as we speak.
+[02:00:40] >> Yeah.
+[02:00:42] >> You have chosen to run away from that
+[02:00:44] problem.
+[02:00:46] >> We're getting you to we're forcing you
+[02:00:48] like a little [ __ ] little kid to look
+[02:00:50] at it.
+[02:00:51] >> Yeah. Okay. I'm all right with looking
+[02:00:53] at it.
+[02:00:54] >> That's the actual bottom line. Whether
+[02:00:57] you talk to two accountants or whether
+[02:00:59] you done mummy's cryptocurrency, no one
+[02:01:02] gives a [ __ ] about any of that. You
+[02:01:04] understand? So just stay focused on
+[02:01:07] what's actually the problem. Whether you
+[02:01:10] want to call it a challenge or we're
+[02:01:12] Californian, we we think positive. No
+[02:01:15] one cares. Your money sitting there
+[02:01:17] doesn't care whether you call it a
+[02:01:18] challenge or a problem. Okay? So don't
+[02:01:21] get don't try and run away.
+[02:01:27] I wasn't aware. You were aware. You're
+[02:01:29] just running away.
+[02:01:31] But now you're going to have to sit and
+[02:01:32] look at it like an adult.
+[02:01:35] >> All right. All right.
+[02:01:37] >> That's what we're dealing with right
+[02:01:38] now. All the rest of it is just stuff
+[02:01:42] >> that first of all is not interesting and
+[02:01:44] you shouldn't be interested in that.
+[02:01:46] What you should be interested in is how
+[02:01:47] am I going to make this work and get
+[02:01:49] this? What am I going to do with this
+[02:01:51] cash? Tomorrow you get one more,[amount] Now
+[02:01:54] you got more cash accumulated. What are
+[02:01:56] you actually going to do with it?
+[02:01:57] Eventually you're going to have to deal
+[02:01:58] with this problem.
+[02:02:01] >> Uh, I will do.
+[02:02:02] >> Sorry. Challenge. Challenge. My bad.
+[02:02:05] Challenge. Oh, sorry.
+[02:02:11] All right.
+[02:02:18] So either you can decide to be cleverer
+[02:02:20] than the tax man,
+[02:02:23] which I think
+[02:02:26] you are not cleverer than the tax man,
+[02:02:29] mister.
+[02:02:31] You are [ __ ] dumb as a rock.
+[02:02:36] If you are clever than the tax man, your
+[02:02:38] money would be working for you right
+[02:02:40] now.
+[02:02:43] Okay? So get with reality first.
+[02:02:45] >> Yeah.
+[02:02:46] >> You're dumber than a rock when it comes
+[02:02:48] to money.
+[02:02:51] >> Okay. So don't try to be an a smartass
+[02:02:55] with the tax man. He will pop your
+[02:02:58] balls.
+[02:03:00] >> Yeah.
+[02:03:00] >> Without even blinking.
+[02:03:04] >> All right. So don't don't be big nuts
+[02:03:06] here.
+[02:03:09] You got some options. And it's better
+[02:03:12] you have this conversation with me than
+[02:03:14] the conversation with the tax man who's
+[02:03:16] going to
+[02:03:17] >> pop my boss.
+[02:03:18] >> Yeah.
+[02:03:19] >> You don't want to have this conversation
+[02:03:20] with the tax man.
+[02:03:24] >> So listen up. You got three options.
+[02:03:26] >> All right.
+[02:03:27] >> You either pay the tax now.
+[02:03:29] >> Mhm.
+[02:03:30] >> Put that money in the system and then
+[02:03:32] make it grow.
+[02:03:35] >> Mhm.
+[02:03:36] >> You let it sit where it is and keep
+[02:03:38] adding to it like a little beaver. Mhm.
+[02:03:42] >> And talk to innumerable accountants and
+[02:03:44] feel really good.
+[02:03:48] >> Yeah.
+[02:03:50] >> Or you do some jiggory pokery with
+[02:03:53] crypto and all my know my guys and all
+[02:03:56] what it do. Do your [ __ ] nonsense but
+[02:03:59] pay the tax later.
+[02:04:01] You got three options.
+[02:04:07] And don't don't say, "Oh, well, no,
+[02:04:09] there might be other options. I'm going
+[02:04:10] to look at some conspiracy theories and
+[02:04:14] no, there are there." You don't want to
+[02:04:16] have this conversation with the tax man.
+[02:04:19] Trust me.
+[02:04:26] [clears throat]
+[02:04:29] Yeah.
+[02:04:34] So, you don't have to decide right now.
+[02:04:36] Right.
+[02:04:37] >> But I would have thought that
+[02:04:40] some outcomes are obvious.
+[02:04:42] >> Yeah.
+[02:04:45] >> So
+[02:04:46] by when do you want to get very very
+[02:04:48] very clear on what you're going to do
+[02:04:51] with your money?
+[02:04:54] And you truly don't need [yar's wife] for
+[02:04:55] this?
+[02:04:56] >> No. Okay.
+[02:05:07] If you want to sleep on it, if you want
+[02:05:09] to, you know, well, I'll come back to
+[02:05:11] you tomorrow or Monday or whatever. And
+[02:05:13] u that's fine, too, cuz it's your money.
+[02:05:16] But what you don't where you what I
+[02:05:19] don't what I don't think you should be
+[02:05:21] doing is running away from the problem.
+[02:05:22] Oh, sorry. Challenge challenge
+[02:05:24] challenge.
+[02:05:27] >> Let me run away for two set two minutes.
+[02:05:31] Two whole minutes.
+[02:05:33] >> Two minutes is fine. [laughter]
+[02:05:41] [snorts]
+[02:05:42] [laughter]
+[02:05:45] >> Life wouldn't be the same without [fenn]
+[02:05:47] in it.
+[02:05:48] >> Yeah. [laughter]
+[02:05:51] >> Life would be a lot duller.
+[02:05:54] >> Denmark is notorious for high taxes. But
+[02:05:58] >> yeah, but this guy will not move. He
+[02:06:01] for him. He He's got his little cage.
+[02:06:04] He will never consider moving. There's a
+[02:06:07] whole world. But no, I want my [fenn's partner] and
+[02:06:10] I want my little mummy. And [laughter]
+[02:06:14] it's hard enough to introduce the topic
+[02:06:15] of travel to him,
+[02:06:22] >> right? He made a big ad do about
+[02:06:24] traveling. Oh, should I? Oh, no. I don't
+[02:06:27] know.
+[02:06:28] He did ask me and that was super
+[02:06:30] confusing.
+[02:06:31] >> Yeah.
+[02:06:35] So,
+[02:06:37] do you want to take a bit of time to
+[02:06:38] figure out these three options? Do you
+[02:06:41] want to
+[02:06:43] see what you want to do now? That's up
+[02:06:46] to you.
+[02:06:46] >> No, that's fine. I would actually like
+[02:06:48] to talk some about something else, but
+[02:06:50] not running. Uh
+[02:06:57] yeah know I will know this and I will
+[02:06:59] write you what to do uh on the same
+[02:07:01] occasion that I write you what to tell
+[02:07:03] what to ask [yar's wife]. So it's Monday this
+[02:07:05] Monday the day before tomorrow after
+[02:07:07] tomorrow.
+[02:07:09] >> So on Monday you're going to decide
+[02:07:12] >> know what to do what to do with my
+[02:07:15] money.
+[02:07:16] >> Okay. So you feel like you will have
+[02:07:19] clarity on what to do with your money.
+[02:07:21] Yeah.
+[02:07:22] >> And then you're going to write a little
+[02:07:25] thing to [name] about then which is step
+[02:07:28] number two. Ready?
+[02:07:29] >> Yeah.
+[02:07:30] >> Right. You're going to run it by me and
+[02:07:32] then run it by. Is that correct?
+[02:07:34] >> Yeah.
+[02:07:35] >> Okay. How does that feel to you?
+[02:07:38] >> Good. Feels good.
+[02:07:42] >> And if we had locked it down,
+[02:07:44] >> what would have happened?
+[02:07:47] >> Nothing.
+[02:07:49] Um,
+[02:07:56] [laughter]
+[02:07:57] I would I would have dug down my cash
+[02:07:59] out here in the garden.
+[02:08:03] You would have made reef uh reapfers out
+[02:08:06] of the cash one by one. Smoked the whole
+[02:08:08] cash out.
+[02:08:10] Oo, $20. That's fantastic. Tastes nice.
+[02:08:17] Um,
+[02:08:19] okay. Thank you. Thank you uh for this.
+[02:08:24] Good. So, maybe this answers uh what I
+[02:08:27] wanted to ask. Um
+[02:08:31] because
+[02:08:45] just this conversation it's taken an
+[02:08:48] hour.
+[02:08:50] I wonder why.
+[02:08:52] Yeah. Yeah. Yeah. Um
+[02:08:56] apparently because I am a
+[02:08:59] antenna of confusion.
+[02:09:04] You the confusion is a tool that you
+[02:09:06] use.
+[02:09:08] >> Very good. Um,
+[02:09:10] >> oh, I know I'm good. [laughter]
+[02:09:13] >> That very good, is
+[02:09:16] >> I mean, thank you.
+[02:09:20] Um,
+[02:09:22] and I use it to
+[02:09:27] pick the furthest date possible.
+[02:09:29] >> So, meaning to not grow up, to not
+[02:09:32] change. I use it just so that we can sit
+[02:09:34] here
+[02:09:37] and and not so I can do this again and
+[02:09:40] seem like something's happening
+[02:09:44] without anything actually happening.
+[02:09:47] >> Yeah, good. Now it's my turn to say very
+[02:09:50] good.
+[02:09:54] >> But that's exactly it. You see you you
+[02:09:57] you the confusion is the tool you need
+[02:10:00] to operate the way you do.
+[02:10:06] >> Yes.
+[02:10:08] >> But if you change your the way you
+[02:10:11] operate in life, the way you deal with
+[02:10:14] your problems,
+[02:10:16] you won't need to be to throw off so
+[02:10:18] much confusion to cover up your
+[02:10:22] the way you do it.
+[02:10:26] Good.
+[02:10:31] [cough]
+[02:10:32] [clears throat]
+[02:10:34] So I look I'm just going to go ahead and
+[02:10:36] say it. Um this is another question but
+[02:10:39] I have it here. I wanted to ask um you
+[02:10:42] in a recent master class you uh
+[02:10:46] explained how there was a time where you
+[02:10:49] didn't do much else other than be in
+[02:10:52] silence in nature and distract yourself
+[02:10:57] with games, right? Did you say with
+[02:10:59] video games?
+[02:11:00] >> Yeah.
+[02:11:01] >> And you did so for a while. Um
+[02:11:15] when I sit when I sit in silence
+[02:11:19] um
+[02:11:25] there are moments where I know that I'm
+[02:11:27] actually silent
+[02:11:30] and Then
+[02:11:33] at some point I notice that I'm sitting
+[02:11:36] on a thought and then I go back. Right.
+[02:11:42] This is the training we're talking about
+[02:11:44] when we're talking about sitting in
+[02:11:45] silence.
+[02:11:46] >> Yeah. Observing what's going on within
+[02:11:49] you.
+[02:11:50] >> All right.
+[02:11:51] >> And around you.
+[02:11:53] >> Yes.
+[02:12:00] Okay,
+[02:12:02] good. Um,
+[02:12:07] you you as you said that
+[02:12:12] the apprenticeship is optional
+[02:12:15] for me until I have changed my approach
+[02:12:18] to life. Mhm.
+[02:12:22] >> When you said that, I I thought
+[02:12:25] [clears throat] this is something
+[02:12:27] fundamental. It's something like a
+[02:12:31] mindset or even deeper than that, it's
+[02:12:33] something.
+[02:12:36] So my third first thought was ahu um
+[02:12:39] well I am I here to train or not? And
+[02:12:42] that led me to ah my challenge is that
+[02:12:45] I'm getting comfy. Way too comfy. You
+[02:12:47] said it last time that um I'm way too
+[02:12:51] comfortable. I think
+[02:12:57] um
+[02:13:10] that's a lot of talk. That's good.
+[02:13:18] Good. Then um I don't think I have any
+[02:13:21] questions. It's um
+[02:13:26] Yeah. No, this is a waste of time.
+[02:13:29] [laughter]
+[02:13:42] Is there anything you can tell me about
+[02:13:45] um
+[02:13:51] in terms of
+[02:13:53] how to uh
+[02:14:10] if I asked you is there somewhere place
+[02:14:12] I can focus to just not
+[02:14:17] become more moronic you would probably
+[02:14:20] say yeah silence
+[02:14:23] right
+[02:14:28] well
+[02:14:30] being present is should be
+[02:14:33] non-negotiable it shouldn't be a
+[02:14:35] question
+[02:14:38] so if you am to ask that question,
+[02:14:42] then perhaps
+[02:14:43] the pursuit of being present isn't as
+[02:14:46] fundamental to you as it needs to be.
+[02:14:52] >> Clearly. Yeah. Okay.
+[02:14:56] >> But it's the same habit, isn't it? It's
+[02:14:58] the habit of choosing the furthest date
+[02:15:00] possible in order to keep others
+[02:15:02] convinced that you're doing something
+[02:15:03] about it.
+[02:15:05] So, it's that approach that needs to
+[02:15:07] change.
+[02:15:14] Okay. I I can do this. I can find it.
+[02:15:19] So that what you do is you ch you make
+[02:15:22] do the opposite of that habit.
+[02:15:26] You tackle things. You run towards them,
+[02:15:28] not run away from them.
+[02:15:31] You run towards what you need to be
+[02:15:33] looking at.
+[02:15:36] It's not easy. Definitely not easy cuz I
+[02:15:40] can imagine someone who's used to
+[02:15:42] procrastinating
+[02:15:44] and running away from things.
+[02:15:48] It's much easier to do that and continue
+[02:15:50] doing that and to turn that around
+[02:15:53] completely is a big task because there's
+[02:15:56] a lot of momentum built up, right? But
+[02:16:00] it can be done
+[02:16:03] and I think you can do it.
+[02:16:06] I think you've grown to a point now
+[02:16:09] where
+[02:16:11] the you know Jacqueline Mr. Hyde they're
+[02:16:14] they're kind of they have sort of equal
+[02:16:16] power now.
+[02:16:19] [snorts]
+[02:16:20] Yeah. Really? The part of you that is
+[02:16:23] actually smart,
+[02:16:25] intelligent,
+[02:16:28] creative,
+[02:16:30] wants to stick with things,
+[02:16:34] does stick with it, right?
+[02:16:37] That part has gained a lot of traction.
+[02:16:44] And right now is a kind of a you're
+[02:16:46] you're at a sort of a balanced point
+[02:16:50] where the other bit is also quite strong
+[02:16:53] but not as strong as it used to be.
+[02:16:59] So now what you have to do is you have
+[02:17:02] to make sure you run towards your
+[02:17:03] problems, solve them there and then.
+[02:17:08] >> Yep. Okay. I Yep.
+[02:17:11] And then eventually you'll get to a
+[02:17:12] place where storing away cash
+[02:17:16] will you will know that this is a
+[02:17:18] temporary measure at best. I'd better
+[02:17:20] start looking what I'm going to do with
+[02:17:23] this.
+[02:17:24] You will go into preventative
+[02:17:28] living your life as a prevention rather
+[02:17:31] than living your life as damage control.
+[02:17:36] >> Yeah. Okay.
+[02:17:39] Thank you.
+[02:17:41] Um, quick question specific. Um, I have
+[02:17:45] a bag out there now in my tree. It's,
+[02:17:48] uh, 70 kilos. I asked down in the Muay
+[02:17:52] Thai how to hit it. Uh, and she gave me
+[02:17:55] a little bit of instruction.
+[02:17:58] Uh,
+[02:17:58] >> how many times have you gone to Muay
+[02:17:59] Thai?
+[02:18:07] >> Three times. All in all, three or four
+[02:18:09] times?
+[02:18:11] >> Since when?
+[02:18:12] >> Since uh four weeks.
+[02:18:16] >> So you've gone to Muay Thai for four for
+[02:18:18] three times in four weeks.
+[02:18:21] >> Three times a month and you've what was
+[02:18:24] it? Accountants you asked what to do?
+[02:18:28] Who have you asked now?
+[02:18:32] >> I asked [ __ ] [ __ ] aren't you?
+[02:18:39] So that part of you needs to be starved
+[02:18:41] and it needs to die
+[02:18:44] because it makes you look bad every
+[02:18:46] single time.
+[02:18:50] >> Okay?
+[02:18:51] >> That is why you'll never date a woman
+[02:18:52] except uh stick with [fenn's partner] and hold her
+[02:18:56] life back too
+[02:18:58] because you know that I I I come across
+[02:19:01] as a [ __ ] Every time I open my mouth,
+[02:19:03] some moronic [ __ ] comes out of me. Who's
+[02:19:05] which which girl is going to be
+[02:19:06] impressed by you? So it's in your best
+[02:19:09] interest to starve and kill this side of
+[02:19:12] you.
+[02:19:14] You understand? You need [snorts] to
+[02:19:16] kill this side of you. You need to
+[02:19:18] delete it.
+[02:19:22] And the older you get, the more urgent
+[02:19:24] it'll get for you to really just leave
+[02:19:26] this behind.
+[02:19:28] Just like [yar's wife] needs to kill a
+[02:19:30] particular side of her per she needs to
+[02:19:32] murder it, assassinate it, delete it,
+[02:19:36] [ __ ] kick its ass, and never divorce
+[02:19:39] it, never see its face again. Cuz every
+[02:19:42] time she looks bad when she when she
+[02:19:46] acts that out, every there's never a
+[02:19:49] good result when she acts that out.
+[02:19:51] There will never be a good result,
+[02:19:54] right? And the older she gets and if she
+[02:19:58] doesn't deal with it, we can all see
+[02:20:00] what's going to happen. It's the same
+[02:20:02] with you.
+[02:20:04] This simp [ __ ] neutered
+[02:20:09] version that you've depended upon
+[02:20:12] [laughter] to to keep you safe
+[02:20:17] has does you no service at all. And the
+[02:20:21] good news is you're starting to see it
+[02:20:23] quicker and quicker now.
+[02:20:25] Right. That's very very that's a very
+[02:20:28] powerful evidence. Don't uh don't um
+[02:20:32] disc like don't think it's not powerful.
+[02:20:35] It's that's serious growth in awareness.
+[02:20:38] That's what allowed you to step out of
+[02:20:40] your peockery.
+[02:20:42] And this is late. This is the deeper
+[02:20:44] layers of that peakery that you're
+[02:20:46] dealing with now.
+[02:20:48] >> Okay? You know, you deal with this. You
+[02:20:50] change your way of operating in the
+[02:20:52] world where you run towards problems,
+[02:20:55] which basically means run towards me and
+[02:20:57] say, "I've got I've got cash sitting
+[02:20:59] here and it's going to accumulate. What
+[02:21:00] should I do?"
+[02:21:03] >> Right? You show initiative about your
+[02:21:06] life
+[02:21:08] instead of coming later on and hedging
+[02:21:11] and betting and you know all this stuff
+[02:21:12] that
+[02:21:13] >> Yeah.
+[02:21:13] >> that needs you need to just slit its
+[02:21:15] throat.
+[02:21:16] >> Yeah.
+[02:21:19] If you don't, it's going to go. It will
+[02:21:22] make you look worse and worse as you
+[02:21:25] age,
+[02:21:29] you know. It won't be
+[02:21:32] uh like you've when you were 30 when you
+[02:21:35] were being like that. It won't be that.
+[02:21:37] It'll get really bad 40 yet at 50 if you
+[02:21:42] >> know. Yeah.
+[02:21:42] >> So, so you need to you need to slit his
+[02:21:45] throat and cut his head off and [ __ ]
+[02:21:47] burn it.
+[02:21:49] >> There is there is no um
+[02:21:53] >> Okay,
+[02:21:53] >> there's nothing else there.
+[02:21:56] >> Sure.
+[02:21:57] >> Understand?
+[02:21:58] >> Yeah.
+[02:21:59] >> But that decision must come from you.
+[02:22:01] Just like [yar's wife] has realized that that
+[02:22:02] decision must come from her.
+[02:22:06] That she cannot allow herself to behave
+[02:22:08] like that. No matter what how tempting
+[02:22:14] you know it is to be like that.
+[02:22:19] So with you, you have to think twice
+[02:22:21] before you you open your mouth.
+[02:22:26] Am I flexing the same muscles that don't
+[02:22:29] work for me or am I being the new
+[02:22:32] version that I know how to be?
+[02:22:39] You see what I mean? And then if you
+[02:22:41] choose the new new version of you again
+[02:22:43] and again, I promise you it won't take
+[02:22:45] long
+[02:22:48] before that becomes your default. And I
+[02:22:51] can tell you the your life.
+[02:22:54] You'll become so [snorts] you'll be
+[02:22:57] you'll be so different.
+[02:23:00] Your true charisma will come out. You're
+[02:23:03] very charismatic individual.
+[02:23:06] You're very you're super sharp. Your
+[02:23:09] processing power is like almost equals
+[02:23:13] mine, [laughter]
+[02:23:16] right? You're super sharp. You're very
+[02:23:19] sharp dude.
+[02:23:22] And then all those qualities will start
+[02:23:24] shining.
+[02:23:26] People will want to be with you instead
+[02:23:28] of running away from you like they do
+[02:23:30] now. They'll respect you and they'll
+[02:23:32] want to be with you.
+[02:23:35] They'll want to they will come to you
+[02:23:37] say what should I do?
+[02:23:43] They won't look at you as a [ __ ] that
+[02:23:45] that you got used to right now.
+[02:23:50] Right?
+[02:23:52] Your jokes will be super sharp. Your
+[02:23:54] entire humor will take on a depth of
+[02:23:56] quality that a wit that you know is
+[02:24:00] waiting to be to come out.
+[02:24:05] You will build your body.
+[02:24:07] You'll want to You won't do give this,
+[02:24:10] you know, you won't be this kind of
+[02:24:12] this. You won't be this.
+[02:24:17] >> Yeah. Okay.
+[02:24:18] >> You won't say [ __ ] like, "Oh, well, I
+[02:24:20] asked accountants and I asked her and
+[02:24:23] she told me to hit the You" You won't
+[02:24:25] say stupid things like this, especially
+[02:24:27] not to me men.
+[02:24:30] You know, women might because what women
+[02:24:34] knows about hitting a heavy bag, but you
+[02:24:37] won't open your mouth in front of
+[02:24:38] someone like me with that kind of
+[02:24:39] idiotic stuff. You understand the
+[02:24:41] difference?
+[02:24:42] >> Yeah. Yeah, I understand the difference,
+[02:24:44] but I don't understand why it's idiotic.
+[02:24:48] >> Okay. So, try and guess why that would
+[02:24:52] be so idiotic to say what you were going
+[02:24:54] to say when I stopped you.
+[02:24:56] >> Oh,
+[02:24:58] yeah.
+[02:24:58] >> Try and guess.
+[02:24:59] >> Because Yeah. You already went through
+[02:25:00] that with the accountants. So you can
+[02:25:02] take the help of that
+[02:25:07] >> because
+[02:25:09] to someone like you, the only thing that
+[02:25:11] matters is uh life evidence and life
+[02:25:13] evidence would have taught me how to hit
+[02:25:15] the back.
+[02:25:16] >> What does that mean?
+[02:25:20] It
+[02:25:22] means that the question I asked was um a
+[02:25:27] non-starter
+[02:25:28] somehow.
+[02:25:32] Okay. So
+[02:25:35] imagine that you had been going twice a
+[02:25:37] week
+[02:25:39] for the last 30 days.
+[02:25:41] >> Yeah.
+[02:25:44] >> And then you ask me this question about
+[02:25:46] your heavy bag.
+[02:25:48] >> Yes. 6 months down the line when you've
+[02:25:50] been going twice a week to Muay Thai.
+[02:25:53] >> Yes.
+[02:25:54] >> Versus
+[02:25:57] you asking
+[02:25:59] or about to ask that
+[02:26:04] and being asked in return for a very
+[02:26:07] specific and good reason.
+[02:26:11] How much practice do you actually have?
+[02:26:14] What do you think is the difference in
+[02:26:15] those two?
+[02:26:22] In terms of how you are perceived
+[02:26:37] completely different. The
+[02:26:41] first mentioned is someone
+[02:26:44] who
+[02:26:48] I want to be
+[02:26:50] >> excellent. Yeah.
+[02:26:52] >> And the other one is the one I am now.
+[02:26:54] >> And so how will you be perceived with
+[02:26:57] those two approaches?
+[02:27:01] >> Um a winner or a loser? Uh,
+[02:27:09] roughly speaking,
+[02:27:11] um,
+[02:27:26] yeah.
+[02:27:28] Yeah. If you come to with that question
+[02:27:34] after having
+[02:27:36] you know
+[02:27:37] put your own time into it
+[02:27:42] being showing that you have the ability
+[02:27:44] to turn up and do stuff
+[02:27:48] then um that's a respectable question.
+[02:27:54] >> Respected. Yeah. Of course.
+[02:27:57] So now why do you think the first
+[02:27:58] question I asked you was when was the
+[02:28:00] last time you went to your class and how
+[02:28:03] many times have you done it?
+[02:28:05] >> Why that was the question? First
+[02:28:06] question.
+[02:28:07] >> Why was that the question?
+[02:28:33] It seems like the most efficient
+[02:28:35] question to ask because it covers all
+[02:28:38] the ground. It's uh am I actually
+[02:28:42] you you see where I'm at with that?
+[02:28:46] >> Yeah.
+[02:28:48] So, the trick here is for you to see
+[02:28:50] where you're at before you open your
+[02:28:51] mouth.
+[02:28:54] That's the trick
+[02:28:56] because we went over this. At this
+[02:28:59] point, you have to be very careful when
+[02:29:01] you open your mouth.
+[02:29:03] >> Yeah.
+[02:29:04] >> It's 50/50 chances that you come out
+[02:29:06] with
+[02:29:08] just repulsive [ __ ] [ __ ] that makes
+[02:29:11] you look so bad in front of everyone's
+[02:29:14] eyes.
+[02:29:16] And there's equal chance like two face
+[02:29:19] equal chance you flip the coin you you
+[02:29:22] might come up with some amazing stuff
+[02:29:24] that like oh yeah sting great that's
+[02:29:27] amazing.
+[02:29:29] >> So what you want to do is you want to
+[02:29:30] feed one wolf and starve the other.
+[02:29:33] >> Yeah.
+[02:29:35] >> Okay. Of course.
+[02:29:38] >> Right. So you need to evaluate before
+[02:29:40] you open your mouth and and just
+[02:29:42] anything just before you open your mouth
+[02:29:45] learn to think
+[02:29:50] what what what's going to come out and
+[02:29:52] what what am I saying? What am I
+[02:29:54] actually saying?
+[02:29:56] Is it going to make me look this way or
+[02:29:59] that way? What am I what approach am I
+[02:30:02] taking? Am I being the old version of me
+[02:30:04] or am I choosing to be the new version
+[02:30:06] of me?
+[02:30:10] Okay. Yep. Makes sense. Complete sense.
+[02:30:14] >> Yeah. You got to stop running away, man.
+[02:30:23] If I was part of an elite group of
+[02:30:25] people
+[02:30:28] where everyone was interested in
+[02:30:29] furthering their self-employment
+[02:30:34] and you are the nal
+[02:30:38] and I said well no steam what should I
+[02:30:40] do should I stay in that group or should
+[02:30:42] I leave because I'm not contributing
+[02:30:47] and you say well you decide what you
+[02:30:49] want to do I I don't care.
+[02:30:52] Okay, fine. I'll leave because I'm not
+[02:30:54] contributing. Thanks.
+[02:31:01] The new version of me
+[02:31:04] will go, I ain't leaving. [ __ ] that. I'm
+[02:31:08] going to change. I'm going to
+[02:31:09] contribute.
+[02:31:11] You I'm not getting rid of that so
+[02:31:14] easily. I'm going to change. I'm going
+[02:31:15] to prove that I'm valuable to the group.
+[02:31:21] Which one did you choose?
+[02:31:24] You chose to run away or did you choose
+[02:31:25] to stay?
+[02:31:27] >> I ran away.
+[02:31:29] >> Yeah. Because you'd rather not change.
+[02:31:32] >> Mhm.
+[02:31:33] >> You'd rather not go to Muay Thai and ask
+[02:31:35] stupid questions.
+[02:31:37] >> Yeah.
+[02:31:37] >> You'd rather ask accountants needless
+[02:31:39] questions instead of saying, "Well,
+[02:31:42] how much tax do you think if I deposited
+[02:31:44] this in the bank, how much tax do you
+[02:31:46] think I would have to pay?" so that you
+[02:31:47] get hard information.
+[02:31:52] So the moronic idiotic part of you, it
+[02:31:56] has to die.
+[02:31:59] That door is closing fast.
+[02:32:05] [clears throat]
+[02:32:08] You see? So it's so it's [snorts] not
+[02:32:11] like uh oh you are stupid and moral. Not
+[02:32:15] that
+[02:32:16] >> you are something very unique. You if
+[02:32:19] you can overcome this, I promise you
+[02:32:21] you'll
+[02:32:23] [snorts] you know all your qualities
+[02:32:25] will shine
+[02:32:27] really. They'll shine brightly and
+[02:32:29] people will love to love you. They'll
+[02:32:31] love to respect you. They'll love to be
+[02:32:33] around you. They'll just they'll want to
+[02:32:35] know your wisdom. They'll want to know
+[02:32:37] what do you do? Why do you do it? [fenn],
+[02:32:38] you're so inspiring. You go out there
+[02:32:40] and your comedy is [ __ ] amazing. It's
+[02:32:42] just you're just amazing.
+[02:32:44] Well, right now you are keeping yourself
+[02:32:49] from experiencing all of that which
+[02:32:51] could be yours today.
+[02:32:58] You know, so the most powerful thing you
+[02:33:00] said throughout this whole thing you
+[02:33:02] said the most powerful thing was I want
+[02:33:04] to be like that.
+[02:33:09] You need to tap into that power a lot
+[02:33:11] more than you do.
+[02:33:14] >> Yep. Okay. Gotcha.
+[02:33:16] >> You understand? And you can do this.
+[02:33:18] >> You You can do this. Believe me, you've
+[02:33:21] been around for long, but there are
+[02:33:24] people apprentices who've been around
+[02:33:25] longer than you. They have seen me kick
+[02:33:27] out people for a lot less. But you can
+[02:33:30] do this.
+[02:33:33] Despite your best efforts,
+[02:33:36] you're still around because I know you
+[02:33:38] can do this. I know it.
+[02:33:42] It's fine. It's a slow race. That's
+[02:33:44] fine. Speed doesn't matter in this work.
+[02:33:46] What matters is we get there, right? And
+[02:33:50] because you you said it, I want to be
+[02:33:53] that version.
+[02:33:55] >> Yeah.
+[02:33:56] >> So, what I want to see is and what you
+[02:33:58] should give yourself evidence of is
+[02:33:59] right how fast.
+[02:34:01] >> Good. Yeah.
+[02:34:04] because that you you you have that in
+[02:34:06] you.
+[02:34:08] >> You displayed it whilst pursuing comedy.
+[02:34:11] You started going to open nights and
+[02:34:14] joined WhatsApp groups and you did all
+[02:34:16] the things that got you to you know then
+[02:34:18] you went and joined got this job and
+[02:34:22] right you didn't procrastinate.
+[02:34:29] You understand?
+[02:34:31] >> Yeah. So there was a bit of growing up
+[02:34:34] there and now that has to a lot into all
+[02:34:38] your life throughout.
+[02:34:40] >> Good. Okay.
+[02:34:42] >> The more you don't go to Muay Thai, the
+[02:34:44] more ashamed you're going to be in front
+[02:34:47] of myself.
+[02:34:48] >> You won't be hanging out with women
+[02:34:49] winners cuz you'll be like the
+[02:34:51] conversation we had with Yard where he
+[02:34:53] was just sitting there in front of
+[02:34:55] winners and he's just like well I don't
+[02:34:57] know what to say. I don't know much
+[02:34:58] about video games and it's all of that.
+[02:35:02] That's no way for men to behave. That's
+[02:35:04] what boys do in the company of men.
+[02:35:11] >> You understand?
+[02:35:13] >> Yeah. So, if you're going to say, "I'm
+[02:35:14] going to go to Muay Thai,"
+[02:35:17] guess what needs to happen in your life?
+[02:35:26] Right?
+[02:35:28] If you say I'm going to hold some cash
+[02:35:29] in the house, well, guess what needs to
+[02:35:32] happen in your life about it?
+[02:35:38] If you if you are in some group,
+[02:35:40] mastermind group or either contribute or
+[02:35:45] get out,
+[02:35:50] right? But in your case, getting out is
+[02:35:52] the coward's way which you chose
+[02:35:56] because you don't want to change. So
+[02:35:57] that all has this all has to go.
+[02:36:01] Yeah. And then you can start stepping
+[02:36:03] into your more you the better version of
+[02:36:06] you that will be satisfying to you,
+[02:36:09] satisfying to others.
+[02:36:12] And uh I mean what else is there for
+[02:36:16] you?
+[02:36:19] Yes, that's a Yeah, I know. I know that
+[02:36:22] feeling.
+[02:36:23] >> Yeah, you're there, man. Just, you know,
+[02:36:27] like it's it's you're close.
+[02:36:32] You're close.
+[02:36:34] Okay. Awesome.
+[02:36:34] >> Thank you. Thank you. Thank you. Thank
+[02:36:36] you.
+[02:36:36] >> Now, I believe in you. I truly do. I I
+[02:36:38] really really do. I believe in you. I
+[02:36:40] know you can do this. I know this.
+[02:36:45] Yeah. So don't worry about speed. Don't
+[02:36:49] worry about time. But that those are not
+[02:36:52] excuses to procrastinate.
+[02:36:56] >> You need to be a man about this.
+[02:36:58] >> Yeah.
+[02:36:59] >> And you need to just own up, own
+[02:37:02] responsibility, change, become the kind
+[02:37:04] of man you need to be at your age.
+[02:37:07] >> Yeah.
+[02:37:08] >> Yep. Thank you.
+[02:37:09] >> Excellent. Excellent. Very, very good.
+[02:37:14] Should we look at another date,
+[02:37:16] gentlemen?
+[02:37:18] >> Yes,
+[02:37:21] >> we're now um I can do Friday the 21st
+[02:37:28] >> if that works for both.
+[02:37:32] >> Yeah, the fine.
+[02:37:38] [laughter] I opened my calendar and I
+[02:37:40] said, "Hey, but the 21st is a Wednesday
+[02:37:43] and I'm inside October."
+[02:37:46] [laughter and clears throat]
+[02:37:48] Was that the date you that
+[02:37:52] brilliant, [laughter]
+[02:37:58] >> Friday 21st,
+[02:38:02] the same time as today? That work for
+[02:38:04] everyone?
+[02:38:06] It's
+[02:38:09] Yeah.
+[02:38:12] Okay, gentlemen, you're in on Friday the
+[02:38:14] 21st, 6 p.m. UK, which is the same time
+[02:38:17] for you lot as today is.
+[02:38:20] And uh excellent work on both sides.
+[02:38:23] Really very very good.
+[02:38:26] And uh just keep going where you do keep
+[02:38:30] doing what you're doing with these added
+[02:38:31] tweaks.
+[02:38:33] Yeah.
+[02:38:34] um so that we're constantly gaining
+[02:38:36] power.
+[02:38:38] Okay,
+[02:38:39] >> thank you.
+[02:38:40] >> Excellent. Gentlemen, have a great
+[02:38:42] couple of weeks and then I'll see you
+[02:38:43] soon. Thank you.

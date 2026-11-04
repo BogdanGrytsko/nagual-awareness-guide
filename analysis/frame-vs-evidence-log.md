@@ -169,6 +169,74 @@ A group where the frame always wins loses the ability to learn. Every failure is
   she asked for the help and raised the imprinting risk herself. **The finding is about who is
   permitted to apply the standard, not about what occurred.**
 
+### Call 71 (2026-08-08) and call 77 (2026-11-04): the series' two ends
+
+Both are caption-tier and in `private-calls/`. Call 71 has redactions agreed with `yar`: tax and
+money-handling details, and third parties' finances.
+
+#### Call 71: the course plan was run through him, and the explanation turned to nationality
+
+- **Source:** call 71, `00:17`–`01:13`.
+- **What happened:** the teacher argued that `yar` should study the market broadly. `yar` held his
+  position for about half an hour (*"I have to be honest, this doesn't make sense to me"*) and
+  described his plan: *"We will get him a course how to market a game, a specific game, specific
+  niche"* (`00:33:55`). The answer: *"okay, great. In that case, carry on the way you are. And
+  then if you make a profit well and good… these things are best learned by experience"*
+  (`00:34:00`).
+- **Link to call 74.** On 2026-09-17 the course became the dispute, and the question was *"Why
+  didn't you run it through me?"* (call 74, `02:21:00`). The plan had been put to him on
+  2026-08-08 and met with "carry on". The specific course purchase may not have been discussed;
+  the approach was. Check 7.
+- **The explanation offered** was a national trait: *"that's exactly the Slavic mindset literally
+  a slave mindset"* (`00:48:57`), and successful Ukrainian founders *"don't think like you or any
+  Ukrainian that you know which is the bottom feeders"* (`00:49:33`). `yar` agreed on the call.
+  Call 77 repeats the move for the essays: *"this Eastern European… when donkeys they just won't
+  move"* (`02:18:23`), *"I've seen Polish people do that… I suspect it's a cultural thing"*
+  (`02:18:08`). This is the same kind of explanation `why-apprentices-leave.md` found for
+  departures: a property of the category the person belongs to, which nothing the person says
+  can test.
+- **Counter-example in the same call:** a checkable figure `[fenn]` gave on Danish tax was first
+  met with *"could it be that you might be talking out of your ass right now with great
+  conviction about taxes"* (`01:56:40`). Then: *"You've done your research. Then what's… what
+  have you found?"* (`01:57:37`). The teacher went on to use `[fenn]`'s figure himself. **Evidence
+  quietly won**, though the change was not named.
+- **Verdict: frame won on the market argument.** It was reframed, not tested: a proposed
+  five-minute comparison (`00:25:43`) was never run. The game launch remains the falsifier.
+
+#### Call 77: the essays, the homework, and "you need weekly"
+
+- **Follow-up on call 76's homework** (for `commitments-vs-outcomes.md`):
+  - **Tradition and holy text:** `yar` had the Bible for about a week and had not opened it
+    (*"Guess I wasn't that clear on the task"*, `00:03:00`). Call 76 had said *"till the next
+    call I want you to start"*. `[fenn]` had not studied the I Ching. **Not done, by both.**
+  - **Express feelings to his wife and ask her for safety:** never raised on the call.
+    **Unchecked.** That is a gap in the method's own follow-up, not a result.
+  - **The "invisible being" contemplation and `[fenn]`'s hexagram essays:** not checked.
+- **The essay dispute** (`02:10`–`02:24`). The written feedback says `yar`'s essays are "lazy".
+  `yar` re-read his last 20 essays and reported that he did not see lazy contemplation. He asked:
+  *"May I ask how you would uh grade them from 1 to 10? Because there surely is huge discrepancy
+  between what what I see, people see"* (`02:10:15`). The rating was declined: *"It isn't the
+  thing isn't what I rate them as. That's not going to change you."* The teacher then supplied
+  the words of a confession, *"I put my hands up. I surrender… you will never see any low-effort
+  essay from me ever again"*, and called it *"the language of an overcomer"* (`02:23:12`).
+  `yar`'s own answer did not change: *"In my eyes, I'm neutral"* (`02:23:27`).
+  - **Verdict: open, and checkable.** The evidence on both sides is written: the essays and the
+    written feedback. A side-by-side comparison would settle it, and nobody has done one. This is
+    the first case in the series where the apprentice's report did not move under questioning.
+- **Old Testament by sampling** (`01:06`–`01:29`). The judgement that the Old Testament is
+  "rotten" rested on random openings, with *"You are so dumb and stupid that I have to explain
+  this"* (`01:06:07`). Then `yar` proposed reading both while still checking for himself (*"I
+  still want to… see for myself"*). The answer: *"That's a great solution"* (`01:29:35`).
+  **Advice adapted**, and kept as a counter-example.
+- **Self-sufficiency against weekly calls, again.** *"I'll be helping you a lot less and less…
+  so that you don't need help from the outside so much"* (`01:32:47`). Then: *"Without me, you
+  wouldn't be doing any damn thing with your life"* (`02:05:47`). And: *"You see why you need
+  weekly at the moment?"* (`02:34:29`). Read with call 75 ("fly your own kite") and call 76
+  ("you can't, you have to be taught"), the statement changes from call to call, and the
+  arrangement stays the same.
+- **Check 11, calls against writing:** still no live concession on the teaching, now across six
+  calls.
+
 ### Calls 72–75: four cases from the private-call series
 
 All four sources are in `private-calls/` and are **caption-tier**. Stamps refer to the line-level

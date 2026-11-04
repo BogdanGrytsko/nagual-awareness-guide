@@ -1,10 +1,11 @@
-"""VTT -> private-calls/ transcript + by-minute copy, with other people's names aliased.
+"""VTT -> private-calls/ transcript + by-minute copy, with names aliased and agreed redactions applied.
 
 Usage: python -I scripts/process_call.py <in.vtt> <out-stem>
        (stem e.g. private-calls/call-73-2026-09-05-5of8)
 
-The alias table is order-sensitive. Keep it in sync with private-calls/README.md, and after each
-new call grep the output for capitalised words that are not in the table.
+The alias table is order-sensitive. Keep it in sync with private-calls/README.md. After each new
+call, grep the output for capitalised words that are not in the table, and screen it for family
+medical details, third parties' finances, and anything legally sensitive before committing.
 """
 import re
 import subprocess
@@ -12,22 +13,35 @@ import sys
 import pathlib
 
 B = r'\b'
+NL = r'(\n\[[\d:]+\] )'  # a caption line break, so phrases split across lines can be matched
+
 ALIASES = [
     # fenn (Steen) and his caption garbles; "Steam" only where it is used as his name
-    (B + r"(?:St[e]+n|Sten|Stein|Stin|Stain|Sting|Stig|Yestine)" + B, '[fenn]'),
-    (B + r"Ste(?='s|,)", '[fenn]'),
+    (B + r"(?:St[e]+n|Sten|Stein|Stin|Stina|Stain|Sting|Stig|Yestine|stin)" + B, '[fenn]'),
+    (B + r"Ste(?='s|,|\. Can)", '[fenn]'),
+    (B + r"St\.?(?= has| What| How| Rock)", '[fenn]'),
     (r"(?<=go to )Steam" + B + r"|(?<=switch to )[Ss]team" + B, '[fenn]'),
     (B + r"Tim\?", '[fenn]?'),
     (r"(?<=to )steam" + B + r"(?=[?.,])|(?<=still )steam" + B, '[fenn]'),
     (r"(?<=[Mm]y name is )Dane" + B, '[fenn]'),
-    # fenn's employer is a quasi-identifier; the name is split across caption lines
-    (r"Politically(\n\[[\d:]+\] )Incorrect(?: Tours| to Us)?", r"[employer]\1"),
+    # "latte" is a caption garble of Lottie, fenn's partner (call 75 also has the name spelled out)
+    (r"(?<=my )latte" + B + r"|(?<=with )latte" + B + r"|(?<=and uh )latte" + B + r"|" + B + r"L's father",
+     "[fenn's partner]"),
+    (NL + r"latte(?=\. Those)", r"\1[fenn's partner]"),
+    # fenn's employer is a quasi-identifier; the name can be split across caption lines
+    (r"Politically" + NL + r"Incorrect(?: Tours| to Us)?", r"[employer]\1"),
     (B + r"Politically Incorrect(?: Tours)?", '[employer]'),
     # yar's wife and her caption garbles
-    (B + r"(?:(?:O|Oo|Ho|A)lena|Oena|Oina|Helen(?: K)?)" + B, "[yar's wife]"),
+    (B + r"(?:(?:O|Oo|Ho|A|E)lena|[AE]lona|Oena|Oina|Helen(?: K)?)" + B, "[yar's wife]"),
     (B + r"Lena" + B + r"(?= on the streets)", "[yar's wife]"),
+    (r"(?<=with )Elon" + B + r"|" + B + r"Elon(?= and I)", "[yar's wife]"),
+    (B + r"a loaner" + B + r"|" + B + r"the lona" + B, "[yar's wife]"),
+    # yar's wife's profession is identifying
+    (r"wealth" + NL + r"management", r"[adviser]\1"),
+    (B + r"wealth manag(?:ement coach(?:es)?|ers?|ement)" + B, '[adviser]'),
     # private third parties
-    (B + r"(?:Lena|Mariana|Lottie)" + B, '[a friend]'),
+    (B + r"(?:Lena|Mariana|Lola)" + B, '[a friend]'),
+    (B + r"Lottie" + B, "[fenn's partner]"),
     (B + r"Monica" + B, "[a friend's child]"),
     (B + r"(?:Oleg|Jared|Roger|Nigel|Yuri)" + B, '[friend]'),
     (B + r"Leela" + B, "[the teacher's wife]"),
@@ -35,21 +49,24 @@ ALIASES = [
     (B + r"Hugo" + B, '[dell]'),
     (B + r"(?:Ol[ao]n?du|Olupandu)" + B, '[tove]'),
     (B + r"(?:[CS]ila|Seila)" + B, '[wren]'),
-    (B + r"(?:[Aa]s?saia?s|As?saya|Asa|Georg)" + B, '[holt]'),
+    (B + r"(?:[Aa]s?saia?s|As?saya|Assayiah|Assa|Asa|Georg)" + B + r"|(?<=what )Isaiah" + B, '[holt]'),
     (B + r"(?:Leo|Ben)" + B, '[rook]'),
     (B + r"(?:Derwen|Darwin)" + B, '[vela]'),
     (B + r"Ilona" + B, '[sable]'),
     (B + r"(?:Jules|Jewels)" + B, '[kesh?]'),
     (B + r"Sophie" + B, "[tove's daughter]"),
     # named in passing, identity not established
-    (B + r"(?:Ala|Ela|Ella|Maya|Dwan|Christine|Lona|Lana|Cau)" + B, '[name]'),
+    (B + r"(?:Ala|Ela|Ella|Maya|Dwan|Christine|Lona|Lana|Cau|Yara|David|Andy|Justin|Dar)" + B, '[name]'),
 ]
 
-
-# Per-call redactions, agreed with yar 2026-11-04. Keyed by the call-file prefix.
-#   ('block', start, end, label): lines with stamps in [start, end] collapse into one label line
-#   ('amounts', start, end, label): numbers in lines with stamps in [start, end] become the label
+# Per-call redactions agreed with yar on 2026-11-04 (family medical; fenn's money and financial
+# details; third parties' finances; legally sensitive money handling). Keyed by call-file prefix.
+#   ('block', start, end, label): lines stamped in [start, end] collapse into one label line
+#   ('amounts', start, end, label): numbers in lines stamped in [start, end] become the label
 REDACTIONS = {
+    'call-71-': [('block', '01:49:30', '01:56:10', '[redacted: tax and money-handling details]'),
+                 ('block', '01:56:50', '01:57:33', "[redacted: third parties' finances]"),
+                 ('amounts', '01:13:00', '02:08:00', '[amount]')],
     'call-73-': [('block', '00:11:07', '00:11:13', '[redacted: family medical]')],
     'call-74-': [('block', '00:33:42', '00:35:16', "[redacted: fenn's personal finances]"),
                  ('amounts', '00:30:00', '00:44:00', '[amount]')],
