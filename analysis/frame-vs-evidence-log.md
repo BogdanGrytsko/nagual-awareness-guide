@@ -167,7 +167,60 @@ A group where the frame always wins loses the ability to learn. Every failure is
   she asked for the help and raised the imprinting risk herself. **The finding is about who is
   permitted to apply the standard, not about what occurred.**
 
+### Apprenticeship 2.0: the failure is placed in the apprentice, the remedy runs through the teacher
+
+- **Date:** call 76 (8/8), 2026-10-25. This is the first of `yar`'s own one-to-one calls brought
+  into the repo.
+- **Source:** `private-calls/call-76-2026-10-25-8of8.txt`. **Caption-tier evidence**:
+  auto-generated captions, cleaned but not hand-checked. `yar` confirmed one disputed phrase:
+  "you are an *invisible* being with a disguise" is correct as captioned.
+- **What the apprentice reported:** a marriage problem stated plainly. His wife has said several
+  times that she "wants to feel something" from him. During a conflict she slapped him and he
+  slapped her back. They made up without talking about it. He also reports anxiety before calls
+  with the teacher, "the same feeling as going on a date" (`00:13`).
+- **What the teacher said:** much of it is sound and checkable advice. Ask her what she means.
+  Say how you feel. Ask why she slapped you instead of hitting back. A child learns how conflict
+  is resolved by watching, even when not in the room (`00:51`–`00:54`). He named the slapping
+  "physical abuse" (`00:37`). The *explanation*, though, was placed entirely in the apprentice and
+  set against the teacher himself:
+  - *"Can anyone… slap me? … she wouldn't dare… I exist on a different frequency than that kind
+    of behavior"* (`00:37`, `01:07`).
+  - *"Women always test boundaries. That is part of their role"* (`01:11`).
+  - The anxiety before calls was absorbed as normal: *"every apprentice feels that same little
+    trepidation"* (`00:16`).
+- **The structural move, which is the reason for logging this:** in the same call the
+  apprenticeship is relaunched as "2.0", with calls going back to weekly (calls 73→76 had averaged one every ~17 days) "by sheer
+  force of repetition" (`01:18`). The justification makes the apprentice's own capacity the
+  thing that has run out:
+  - *"You've come to the end of your own capabilities… If you could build your own spiritual
+    framework, you would have done it by now. You can't. You have to be taught"* (`01:53`).
+  - Past progress is credited to the teacher: *"Any actual advantage the kids have had… has come
+    from me"* (`01:00`). *"Who do you think is your kid's best friend? You, me, or your wife?"*
+  - Further difficulty is routed back to him: *"if you encounter difficulties, you will bring it
+    to me"* (`01:14`).
+  - Speech correction was delivered with a third apprentice (`fenn`) asked to confirm it, and
+    with comparisons to "someone in a wheelchair" and "a child that doesn't have bowel control"
+    (`00:46`). `yar` was speaking his second language.
+  - The method, stated by him: *"I always ask questions I already know the answer to"* (`00:55`).
+    Most of the apprentice's answers in the call are yes/no replies to leading questions, so the
+    apprentice's "self-discoveries" in this call are weak evidence of anything except agreement.
+- **Verdict:** **open.** This is not yet a case of a teaching failing and the frame surviving,
+  because nothing has been tested yet. It is logged because it shows, in the teacher's own
+  voice, the shape that would make such a case impossible to register. Credit for progress goes
+  to the teacher. Lack of progress shows that the apprentice needs more of the teacher.
+  Neither outcome can count against the method.
+- **The falsifier, set 2026-11-04:** the homework is concrete and `yar`'s own. He is to tell his
+  wife how he feels, ask her to help him feel safe doing it, and answer feedback with curiosity.
+  Score it in `commitments-vs-outcomes.md` on that file's rules. If it works, credit the advice,
+  which is ordinary and good. Then check whether the result is later attributed to the advice,
+  to `yar`, or to the teacher.
+
 ## Open items
+
+- **"Everyone is working for themselves now"** (call 76, `00:34`). The teacher gave universal
+  self-employment as the reason apprenticeship 2.0 could start: *"apart from [`wren`]… no one is
+  working full-time for anyone else."* This is a factual claim about the roster, and
+  `sse-outcomes.md` can check it.
 
 - **The masterclass layer of the 5–10% episode.** The strongest sanction in that case — the teacher saying he had closed "that gate" — exists only in a Sunday masterclass, i.e. outside the text archive, and is here on Yar's recollection alone. Check it against his recordings when they are brought in. The same applies to whether the amount was ever discussed on a call. Until then the logged entry understates the pressure.
 - **What the frame is never scored against.** The closed-gate claim predicts abundance withheld. Eleven months later an unearned $12,500 inheritance arrived (`apprentice-essays/yar/tnz-10-2026-08-03-gratitude-meditation-nudity-and-inheritance.md`). Weak evidence on its own — logged because it is the kind of datum that never gets counted, while confirmations reliably do.
