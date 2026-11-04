@@ -167,6 +167,92 @@ A group where the frame always wins loses the ability to learn. Every failure is
   she asked for the help and raised the imprinting risk herself. **The finding is about who is
   permitted to apply the standard, not about what occurred.**
 
+### Calls 72–75: four cases from the private-call series
+
+All four sources are in `private-calls/` and are **caption-tier**. Stamps refer to the line-level
+transcript. Speaker turns are marked only by `>>`, and an unclear speaker is flagged where it
+matters.
+
+#### "Men protect women": taught material corrected, the error assigned to the apprentice
+
+- **Source:** call 72, 2026-08-24, `01:26`–`01:39`.
+- **Teaching:** `yar` defended traditional roles to his wife with "men are physically stronger,
+  can protect women", citing the previous masterclass as his source (`01:26:00`).
+- **Evidence:** his wife said women can do everything men can. Her example fell apart under
+  questioning.
+- **What happened next:** the teacher sided with her: *"she's absolutely correct because in
+  reality, not as a philosophical discussion of biology and muscle mass…"* (`01:37:10`). The error
+  was then placed in `yar`: *"the Bible said so, an arm said so, masterclass said so, someone said
+  so, I read it in a book"* (`01:31:29`). "An arm" is probably his own name, garbled. Also:
+  *"You won't be able to cover it all on your own and not at this stage of your life. You're too
+  old. It's too set in you"* (`01:30:55`).
+- **Verdict: open.** This is the closest thing yet to the falsifier at the top of this file. A
+  claim the apprentice took from the course was corrected, but the correction was framed as the
+  apprentice's habit of repeating sources, not as a revision of the source. To decide it, check
+  whether the masterclass in question actually made the claim. If it did, this is a frame
+  revision that was never acknowledged as one.
+
+#### Credit reassigned: "You did none of what you're saying on your own"
+
+- **Source:** call 74, 2026-09-17, `00:06`–`00:14`.
+- **Evidence:** `[fenn]` described a boundary he had set with an old employer over money, as his
+  own move: *"So I I remember all of this."*
+- **What happened next:** *"But I told you all of this to do that. You did none of what you're
+  saying on your own by your own steam. You don't remember that, do you?"* (`00:07:17`). `[fenn]`:
+  *"No, I do not remember"* (`00:08:10`). He then accepted it as a trait of his: *"It's a thing
+  with me. I'm sure"* (`00:14:38`).
+- **Verdict: frame won**, on attribution. Nobody checked who proposed the boundary, though
+  `[fenn]`'s earlier calls and essays could settle it. The apprentice revised his memory on the
+  teacher's word. This is the same pattern as call 76, where progress is credited to the teacher.
+
+#### The marketing course: outside expertise against the teacher's
+
+- **Source:** call 74, `02:10`–`02:21`.
+- **Evidence:** `yar` described the standard indie-game method from a course he paid $290 for:
+  a playable demo, store-page wishlists, then reaching people who already have audiences. He said
+  plainly that the teacher's view *"is in direct conflict with the advice from the marketing
+  course"* (`02:17:47`).
+- **What happened next:** the course author's credentials were challenged (*"How many games did
+  that guy make successfully?"*). Then: *"Why didn't you run it through me?"* (`02:21:00`),
+  followed by *"because I'm an idiot. That's the only answer you can give"*. The captions do not
+  show who said that, and it may be the teacher answering for `yar`. `yar`: *"kind of. Yes."*
+- **Verdict: frame won.** The method `yar` described is mainstream advice in that field. The
+  teacher's counter-claim (*"followers create success, not talent"*) was argued from music, not
+  from games. The point that `yar` has no marketing experience is fair and stays. **Falsifiable,
+  and `yar`'s own:** the game launch will show which method produced the audience.
+
+#### Verification required of apprentices, waived for the teacher
+
+- **Source:** call 73, `00:16`–`00:26`. Upload date 2026-09-05, though `[fenn]` says "today is…
+  Thursday", so the call was probably on 2026-09-03.
+- **What was said:** `[fenn]` admitted he had not checked a claim about Danish children's speech.
+  The teacher: *"I haven't looked. I haven't verified, but I can see through the [ __ ] straight
+  away"* (`00:16:36`). Two minutes later, to both apprentices: *"Know what you're saying. Be able
+  to back it up properly. Otherwise, don't speak"* (`00:18:34`). `yar` cited the standard finding
+  that the first years of life are not remembered (infantile amnesia). The teacher: *"Who told
+  you this [ __ ]… Why did you not think for yourself?"* (`00:24:20`). He said he himself
+  remembers *"from the age of… 8 months"*.
+- **Verdict: frame won.** Both apprentice claims have research support. Infantile amnesia is
+  mainstream. A slower early-vocabulary finding for Danish children exists (Bleses et al.), cited
+  from memory and not re-checked here. The standard of evidence was applied to the apprentices
+  and not to the teacher.
+
+#### Counter-examples, kept on purpose
+
+- **Advice adapted to the apprentice's reason** (call 72, `01:22:55`). `yar` had screened a video
+  before showing it to his wife. The teacher first said she should have been given a choice. On
+  hearing why, he said: *"well I'm not comfortable with that… And I would have said, 'Okay,
+  great.'"*
+- **Advice adapted on pace** (call 73, `01:30:34`). `[fenn]` resisted giving up everything at
+  once: *"one thing at a time and the alcohol was one thing."* He was allowed to start with
+  coffee.
+- **Independence stated, then reversed 23 days later.** Call 75, `00:02:52`: *"Whether you're an
+  apprentice or not, you'll be fine. You know enough now to fly your own kite by yourself… it is
+  good to be dependent in one way, but it's also not good to be dependent in another way."*
+  Against call 76, `01:53`: *"You've come to the end of your own capabilities… You can't. You have
+  to be taught."* Both statements stand on the record. The second one came with the relaunch and
+  the move back to weekly calls.
+
 ### Apprenticeship 2.0: the failure is placed in the apprentice, the remedy runs through the teacher
 
 - **Date:** call 76 (8/8), 2026-10-25. This is the first of `yar`'s own one-to-one calls brought

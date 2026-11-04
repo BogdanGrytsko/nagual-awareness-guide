@@ -17,12 +17,35 @@ hand-checked. Names come out garbled, and speaker turns are marked only by `>>`.
 
 ## Aliases
 
-Other people's names are replaced with the repo's aliases in square brackets, for example
-`[fenn]`, `[dell]` and `[wren]`. A private friend appears as `[friend]` and the teacher's wife as
-`[his wife]`. Everything else is verbatim caption text.
+Names are replaced at processing time by `scripts/process_call.py`, which holds the table:
+
+- Apprentices get the repo's aliases: `[fenn]`, `[dell]`, `[tove]`, `[wren]`, `[holt]`, `[rook]`,
+  `[vela]`, `[sable]`. `[kesh?]` marks an identification that is likely but unconfirmed.
+- Family and private people: `[yar's wife]`, `[the teacher's wife]`, `[friend]`, `[a friend]`,
+  `[a friend's child]`.
+- `[name]`: someone named in passing whose identity is not established.
+- Public figures (authors, comedians, course sellers) are left as captioned.
+
+Captions garble names, so after processing a new call, grep it for capitalised words that are not
+in the table before committing. Everything else is verbatim caption text.
 
 ## Index
 
 | # | date | part | length | topics |
 |---|---|---|---|---|
+| 72 | 2026-08-24 | 4/8 | 2:01:55 | fenn's tour script and tips; gender-roles video with yar's wife; "men protect women" corrected |
+| 73 | 2026-09-05* | 5/8 | 2:09:01 | yar's son and presence; fenn's diet and coffee; [wren]'s Glastonbury visit; invitations and energy |
+| 74 | 2026-09-17 | 6/8 | 2:37:06 | fenn's money and adviser; credit for fenn's boundary; yar's invitations; the game-marketing dispute |
+| 75 | 2026-10-02 | 7/8 | 2:04:16 | fenn's dependency on calls ("fly your own kite"); fenn's comedy group; yar's boxing coach; wife, dogs, Happy Wife School |
 | 76 | 2026-10-25 | 8/8 | 2:08:01 | blue belt; feeling; the slapping; parenting; "apprenticeship 2.0" and weekly calls; spiritual-framework homework |
+| 77 | 2026-11-04 | 1/8 | 2:37:30 | *not yet transcribed: YouTube had not generated captions on upload day* |
+
+Dates are YouTube upload dates. \*Call 73 was probably recorded on Thursday 2026-09-03: `[fenn]`
+says "today is… Thursday".
+
+Video IDs, for re-fetching: 72 `SG3W1HPDd9k`, 73 `EKOeCVzK6J8`, 74 `ZzsYu1ISEeU`, 75 `He9GWW6VIWk`,
+76 `XQGXFBB3-4w`, 77 `3cgI76jN5LE`.
+
+To process a call: fetch the `en-orig` VTT with yt-dlp into `tg-private/personal-calls/`, run
+`python -I scripts/process_call.py <vtt> private-calls/call-NN-YYYY-MM-DD-XofY`, then grep for
+names that were missed.

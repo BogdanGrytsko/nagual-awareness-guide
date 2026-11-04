@@ -161,3 +161,27 @@ apprentices:
 2. `wren`'s own essays from Sept 2026 onward: she is the person best placed to falsify or confirm
    her own claim, and she writes regularly.
 3. Whether the "novel with this character" appears, and whether its situations track the method.
+
+## Addendum, 2026-11-04: call 73 in full
+
+The whole of call 73 is now in `private-calls/call-73-2026-09-05-5of8.txt` (caption tier). It
+contains two items about the visit that the sections above do not have:
+
+- **Where the visit is described as a reward.** Later in the call (`01:58`), the teacher asks
+  `[fenn]`: *"Would I ever invite you to Glastonbury?"* `[fenn]`: *"No… I feel dirty now that you
+  ask."* The teacher: *"But [wren] was here. Had a great time. She's one of the easiest females
+  that I've ever been with."* Then, immediately: *"Easy to be with."* The second phrase may be the
+  teacher correcting himself, or `[fenn]` restating it. The captions do not mark the speaker.
+  **This is not evidence of anything sexual.** Both participants deny that, and the wording is
+  ambiguous and was corrected on the spot. It is recorded because, minutes later, the teacher states his
+  rule for invitations, and the rule is about *his* energy: *"Which scenario gives me energy? The
+  one where… the invitation was rejected or the one where the invitation was excitedly
+  accepted?"* (`02:02:40`), and *"I would only extend invitations where I know it's going to be
+  excitedly accepted"* (`02:03:04`). Set this beside the self-adjudicated standard above, that
+  using apprentices *"as a tool to experience myself"* would be abuse. This is the teacher's own
+  description of how he chooses whom to invite, in his own words.
+- **Her imprinting worry, in his words** (`01:01:31`): she was concerned about being *"imprinted
+  on older men"*. This matches the risk she raised herself, already noted above.
+
+Item 1 under "Data to pull next" is now done for call 73. Calls 72, 74 and 75 contain no further
+mention of the visit, and no record of the objection.
