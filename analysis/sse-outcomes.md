@@ -312,6 +312,23 @@ income subsistence-or-better, and does it hold past a year? Note also she is a c
 sweep would have scored as "arrived with it" only if the January-2025 start were visible — it was
 not, which is a small warning about the arrived-with/acquired-here distinction generally.
 
+## Update from `yar`, 2026-11-06 (his own report, not yet found in the archive)
+
+- **`vela` has dropped her other job.** If true, she is the first apprentice in the archive living
+  on her own business. That is still not a scored success under the frozen rules: income is
+  unknown, and the criterion is subsistence-or-better income **held past a year**, so the earliest
+  it can count is about 2027-08/09 (one year after registration). The attribution caveat also
+  stays: the proximate cause is the certification plus a big, high-price Zurich market.
+- **`fenn` has partly gone back to brewery work this year** because there are fewer tourists. Two
+  readings of the same fact: (a) the tourism market is fragile, so contract work alone didn't
+  cover his costs; (b) he still chose to keep the comedy work rather than drop it. This matches the
+  pattern registered on 2026-08-17 (people return to employment or contract work). It is
+  **evidence for that prediction, not proof**: one season, from second-hand report.
+- **Two new apprentices joined (per `yar`).** Record each one's work and income situation at
+  entry now, so that later outcomes can be scored as acquired here vs arrived with.
+- **To firm both up:** locate the messages or calls these come from (TAC pull after 2026-09-06,
+  or calls 70–77), with dates. Until then, treat both as `yar`'s reports.
+
 ## Data to pull
 
 The financial detail lives in essays, not chat, so this needs the same extraction pipeline as `commitments-vs-outcomes.md` — one download of the 1,719 essays, then two passes: one for the teacher's SSE claims and timescales, one for per-person income and venture events. Chat search alone will not settle it; a first sweep found only about 200 messages group-wide with any monetary figure, and most were gifting-task reports.
