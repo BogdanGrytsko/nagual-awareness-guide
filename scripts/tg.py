@@ -204,6 +204,31 @@ def cmd_whois(client, args):
     )
 
 
+def cmd_photos(client, args):
+    """List profile photos (user or chat) with the date each was set; for chats also the
+    photo-change service messages. Read-only; downloads only with --download DIR."""
+    from telethon.tl.types import InputMessagesFilterChatPhotos
+
+    entity = resolve(client, args.who)
+    print(f"# {display_name(entity)} ({type(entity).__name__} {entity.id})")
+    photos = client.get_profile_photos(entity, limit=args.limit)
+    print(f"# profile photos still on the profile: {len(photos)} (newest first)")
+    for i, ph in enumerate(photos):
+        kind = "video" if getattr(ph, "video_sizes", None) else "photo"
+        line = f"{ph.date:%Y-%m-%d %H:%M} UTC  {kind}  id={ph.id}"
+        if args.download:
+            Path(args.download).mkdir(parents=True, exist_ok=True)
+            path = client.download_media(ph, file=str(Path(args.download) / f"{entity.id}_{i:02d}_{ph.date:%Y%m%d}"))
+            line += f"  -> {path}"
+        print(line)
+    if not getattr(entity, "first_name", None) and not getattr(entity, "bot", False):
+        print("# photo-change service messages in the chat:")
+        for msg in client.iter_messages(entity, filter=InputMessagesFilterChatPhotos, limit=args.limit):
+            action = type(msg.action).__name__ if msg.action else "?"
+            who = sender_name(client, msg, {})
+            print(f"{msg.date:%Y-%m-%d %H:%M} UTC  {action}  by {who}  msg={msg.id}")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Read-only Telegram reader.")
     parser.add_argument("--json", action="store_true", help="JSONL output")
@@ -248,6 +273,12 @@ def main():
     p = sub.add_parser("whois", help="resolve a user or chat")
     p.add_argument("who")
     p.set_defaults(func=cmd_whois)
+
+    p = sub.add_parser("photos", help="profile/chat photo history with dates")
+    p.add_argument("who", help="user or chat: @username, id, or name fragment")
+    p.add_argument("--limit", type=int, default=100)
+    p.add_argument("--download", help="directory to save the images into (optional)")
+    p.set_defaults(func=cmd_photos)
 
     args = parser.parse_args()
     client = get_client()
