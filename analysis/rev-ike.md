@@ -200,6 +200,28 @@ it, the teacher included.
 - Nagual earning meaningful money from something other than teaching.
 - The two new apprentices (recently joined, per `yar`) are the next cohort to watch.
 
+## 7. The health claim and his own death (2026-11-08)
+
+**Source:** [*How Your Positive Self-Belief Becomes God in Action*](https://youtu.be/K1MjL8zWCEU), a 17-minute sermon posted by Rev. Ike Legacy in 2018. The recording date is unknown.
+
+**What he claims:**
+- Repeat "God in me is my health" and hold "a healthy belief about yourself."
+- It works as prevention: "you do not have to be sick to pray this prayer," because it will keep you healthy.
+- Symptoms are blamed on words: saying "sick leg" makes you sicker.
+- "I did not come here to heal you." People heal themselves, so a failure is theirs.
+- Evidence: "I've seen some wonderful healings," with no count of the cases where nothing happened.
+
+**Test against his own life.** Stroke in 2007 at about 72; died in 2009 at 74. These comparison figures are approximate, from US life tables and Chetty et al. 2016.
+
+| Compared with | Expected | Him |
+|---|---|---|
+| US male life expectancy at birth, 2009 | about 76 | slightly below |
+| A US man who has reached 72 | about 83–84 | about 10 years early |
+| A US man in the top 1% of income | about 87 | about 13 years early |
+| Typical age of a man's first stroke | early 70s | right on average |
+
+**Reading:** one person is an anecdote and doesn't disprove the general idea that belief affects health. It does count against his specific claim that the practice keeps you healthy. He was its most practised user and had every advantage of wealth, and he showed no protection. Saying "he let his consciousness slip" is the usual escape loop: the failure is put on the believer, never on the promise. The Nagual's "Peace, Joy, Power … appear automatically" (TNZ, 2026-11-07) has the same structure. Mark 9:23 ("all things are possible to him who believes") can be read the same way. Its own context argues against that reading: the father with incomplete faith ("help my unbelief") still gets the healing, and other passages keep their failed cases (2 Cor 12, Hebrews 11, Job).
+
 ## Not found
 
 Searched under: Ike, Icke, Reverend Ike, Eikerenkoetter. Auto-transcripts may misspell names.
