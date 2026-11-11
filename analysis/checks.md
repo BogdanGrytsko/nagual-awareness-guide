@@ -1,6 +1,6 @@
 # Checks: questions to run on any call, essay or exchange
 
-A reusable list of twelve checks, built from patterns that kept recurring in the cases in
+A reusable list of thirteen checks, built from patterns that kept recurring in the cases in
 `frame-vs-evidence-log.md`. Use it when reading a new call transcript, or on your own while
 still on a call.
 
@@ -114,6 +114,13 @@ the good advice. It is not visible in any one call, only across them.
     treated as one. *(call 73: infantile amnesia, which is a population finding, against a
     personal memory from 8 months, the kind of very early memory that research finds is usually
     reconstructed.)*
+
+13. **Who judges.** For each rule, ask: what observable act would count as breaking it, and who
+    can tell? If opposite acts both count as following it ("give choices" and "don't give choices"
+    are both leading), then the rule is defined by the teacher's endorsement, not by the act. That
+    makes the teacher the only judge, and the rule can never be failed by him. Record the rule and
+    both of the acts that were counted as following it. *(holt, 2026-08-14 against 2026-11-11: the
+    choice rule; the "testing" model, where every outcome is the man's fault.)*
 
 ## How to record a result
 

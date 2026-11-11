@@ -560,6 +560,82 @@ the earlier verdict stands, now with dates:
 work, please share" is the default reply, so any 1–10 score of it is the scorer's choice, not the
 teacher's.
 
+### "What is a good male leader?": a rule only the teacher can judge
+
+- **Dates:** call before 2026-11-11 (date not given); essay posted to TAC 2026-11-11 (msg 36539);
+  the earlier rule is from the 2026-08-14 call.
+- **Source:** `apprentice-essays/holt/nagual-call-2026-11-11-what-is-a-good-male-leader.md`;
+  `apprentice-essays/holt/nagual-call-2026-08-14-how-to-lead-women-selfishness-self-obsession-and-simp-behaviour.md`;
+  TAC msgs 36545–36626 for the same day's thread.
+- **Teaching:** men are wired to lead and organise; women "are not good at organising things" ("a
+  drop of water in a lake" against "a laser"); a woman who tests you is telling you that you are
+  failing as a leader; "she will never appreciate your leadership… a follower can't appreciate."
+- **Contradicting evidence. `holt` raised two contradictions himself, which is the strongest
+  verification behaviour in his essays so far:**
+  1. *Opening question:* the teacher used to say women's main lesson is not to act as if men know
+     better. How does that fit with men being natural leaders? The reply goes elsewhere ("have you
+     witnessed that in me, a 'I'm better' kind of attitude?", then the pedestal), and then gives
+     the strongest category version of "men know better" in the call. **The question is answered
+     by restating one side of it.**
+  2. *The choice rule:* in August, *"you don't need to give any choices."* In November, every
+     model answer opens with a choice ("You want me to lead, or do you have specific places…?").
+     `holt` notices and settles it like this: *"I can see how in both situations he would have
+     been in control and organising."*
+- **What happened next:** that settlement is the finding. Giving a choice counts as leading.
+  Not giving one counts as leading. Correct behaviour is not defined by the act. It is defined
+  by whether the teacher would endorse it. **The rule cannot be failed by the teacher and cannot
+  be checked by anyone else, so the only judge is the teacher.** `holt`'s own conclusion follows
+  directly: proficiency means making mistakes *"and run them by Nagual Anaam"* (check 8). The
+  relationship model is closed the same way. If she tests you, you are failing. If she doesn't,
+  you are leading well. She cannot perceive good leadership. Every outcome is evidence about the
+  man, and none is evidence about the model.
+- **The one claim with an outside check:** *"It doesn't happen when women are with me because I
+  have more experience in leadership."* The teacher's 18-year relationship ended around April
+  2026 (reported by `yar`; see `prediction-2026-11-06-abundance.md`). This is fair in both
+  directions. Eighteen years is long, and on his own model length signals patience. But it is
+  also the one relationship outcome of his that can be observed, and by his own rule ("look at
+  yourself… never say 'you are the problem'"), the ending puts the question on the man. Whether
+  he has ever applied that rule to himself is not in the text archive.
+- **The pedestal antidote, tested the same day:** the teacher's prescription is to share a
+  weakness as soon as people start pedestalling you. In the thread on the same day, `lark`
+  writes *"you take care of us but who takes care of you"* and *"Your army has your back"*. He
+  accepts it warmly ("This felt good in my heart"). No weakness is shared. One data point, logged
+  because the standard was stated a few hours earlier.
+- **The category claim, tested the same day:** in the same thread, `lark` praises the "drop of
+  water" passage (*"It made me exhale… I am fine"*) while doing most of the thread's organising:
+  coordinating, enforcing ("STFU your bs and answer the exact questions asked!"), escalating to the
+  teacher. She has years of corporate organising experience (per `yar`). The claim is about a
+  category. She is a counter-example inside the room that applauded it.
+- **Credit (check 10):** the reflection is good on its own terms. Warm socks for a cold temple
+  floor, an umbrella, the protected seat. His conclusion, *"the most important baseline is to want
+  to care about others,"* doesn't need the gender theory, and his own best example (a male friend
+  who gets out of the car to open the door for **him**) shows that care that isn't gendered. Small
+  flag: he files H. under "Matrix NPC", which is group vocabulary for sorting outsiders.
+- **Verdict:** **frame won, by deference.** Both contradictions were seen and named by the
+  apprentice and then resolved by referring them to the teacher, not by testing them. He stopped
+  one step short of the question that would have kept them open: *who decides whether the rule
+  was followed?* (new check 13).
+
+### The same thread: pressure from the group, relief from the teacher (2026-11-11)
+
+- **Source:** TAC msgs 36560–36613.
+- A new apprentice (`N2` in `prediction-2026-11-06-abundance.md`) says he has been "too broke"
+  and may not be able to keep paying. `holt`: *"not having enough money for the apprenticeship is a
+  sign of not wanting it seriously enough… I always had the money to pay Nagual Anaam"* (36562),
+  then *"self indulging little victim… You speak like a looser"* (36573). `lark` joins.
+- The teacher's first intervention corrects only the spelling (*"Turn this to: You speak like a
+  loser"*, 36588), so the content is kept. Then: *"Back off guys. Noobs are off limits"* (36592),
+  *"I've got your back"*, *"this is a guarantee from me"* (36599).
+- `N2` says he ran an experiment on the group: *"I wanted to see what everyone would say. It's as
+  I expected"* (36585), and concludes *"I don't feel the need to repeat this experiment"* (36594).
+- **Why it is logged:** the paying-equals-wanting line is the frame in `why-apprentices-leave.md`
+  (inability to pay read as lack of commitment), voiced by an apprentice to a newcomer. The newcomer's
+  takeaway is to stop voicing doubt in writing, which is the mechanism in the "guru with his
+  disciple" entry. Whether the hard-then-soft sequence is designed or emergent can't be told from
+  the text. Its effect, either way, is to tie the relief to the teacher. **Fairness:** the thread
+  ended warmly, `N2` said he felt better, and `holt`'s last message (36608) was generous and offered
+  practical help.
+
 ## Open items
 
 - **"Everyone is working for themselves now"** (call 76, `00:34`). The teacher gave universal
