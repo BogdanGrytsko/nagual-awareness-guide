@@ -655,10 +655,12 @@ teacher's.
   one memory against another (check 12). It was resolved on the call the way it always is: the
   first answer was "I don't remember", and the final answer was agreement (check 3).
 - **The pattern:** this is the second such case, after `[fenn]` in call 74 (*"I told you to do
-  it… You don't remember that, do you?"* → *"No, I do not remember"*). The fenn dispute also
-  predates the recorded series, and `yar`'s two requests for his recordings have produced nothing.
-  Both disputes are about who decided something, and in both the deciding meeting is the
-  unrecorded one.
+  it… You don't remember that, do you?"* → *"No, I do not remember"*). Both disputes are about
+  who decided something, and in both the deciding meeting falls outside the recordings we hold.
+  The difference is that `dell`'s meeting was most likely never recorded, while `[fenn]` says he
+  **did** record his. That meeting predates his pairing with `yar`, so it isn't on `yar`'s
+  channel. `yar` has asked for those recordings twice, and as of 2026-11-12 they haven't been
+  produced. So fenn's case can still be settled, and it is the one to push on.
 - **Fairness:** the teacher hedged (*"I might be mistaken"*), and his version may be right.
   `dell` was not careful about money and admits it on the call. The advice in the same passage
   (know what is coming in and going out, do the maths when circumstances change) is sound (check
