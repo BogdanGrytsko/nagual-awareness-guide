@@ -636,6 +636,38 @@ teacher's.
   ended warmly, `N2` said he felt better, and `holt`'s last message (36608) was generous and offered
   practical help.
 
+### Call 32 (2024-09-21): a funding agreement only the teacher remembers
+
+- **Source:** call 32 of `yar`'s series with `dell` (unlisted video). 00:19–00:24 for the dispute,
+  00:35–00:36 for the job. **Caption tier.** The full transcript is in gitignored `tg-private/`.
+  Only these excerpts are committed, because the call contains `dell`'s household finances.
+- **Context:** `dell` says he now pays for `tove`'s apprenticeship and spends more than he earns.
+- **The teacher's memory:** *"the strategy we had developed was… I remember — I might be mistaken
+  — you said three or four days income, and then we calculated all of that"* (`00:20:46`).
+- **The apprentice's memory:** *"I don't remember this… I think we hadn't considered me paying
+  the apprenticeship of [`tove`]"* (`00:21:37`–`00:22:12`).
+- **What happened next:** *"I remember us talking about it, saying she will need two years… you
+  should have done all the maths… run it by me… You don't remember that?"* `dell`: *"yes yes yes"*
+  (`00:22:12`–`00:23:15`). The teacher then states the plan: *"it'll be up to you to keep that
+  going"* (`00:23:44`).
+- **Why it can't be settled:** per `yar`, the meeting where the strategy was agreed was a call
+  with the teacher, `dell` and `tove`, and `dell` rarely recorded his calls. So what's left is
+  one memory against another (check 12). It was resolved on the call the way it always is: the
+  first answer was "I don't remember", and the final answer was agreement (check 3).
+- **The pattern:** this is the second such case, after `[fenn]` in call 74 (*"I told you to do
+  it… You don't remember that, do you?"* → *"No, I do not remember"*). The fenn dispute also
+  predates the recorded series, and `yar`'s two requests for his recordings have produced nothing.
+  Both disputes are about who decided something, and in both the deciding meeting is the
+  unrecorded one.
+- **Fairness:** the teacher hedged (*"I might be mistaken"*), and his version may be right.
+  `dell` was not careful about money and admits it on the call. The advice in the same passage
+  (know what is coming in and going out, do the maths when circumstances change) is sound (check
+  10). The finding is not that the teacher's memory is wrong. It is that when memories disagree,
+  only one side's memory is ever revised.
+- **Consequence:** see `why-apprentices-leave.md`, case 2. The paid job ruled out here in Sep 2024
+  is the one `tove` took in May 2025 to repay apprenticeship debt.
+- **Verdict:** **frame won**, by default, on an uncheckable dispute.
+
 ## Open items
 
 - **"Everyone is working for themselves now"** (call 76, `00:34`). The teacher gave universal

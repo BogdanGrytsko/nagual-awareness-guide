@@ -69,7 +69,7 @@ the good advice. It is not visible in any one call, only across them.
 
 3. **First-hand report.** When an apprentice reports his own state, feeling or memory, is the
    report accepted, or re-questioned until it changes? Note the first answer and the final answer.
-   *(call 73: "I feel good" → "80% wasted"; call 74: "I remember all of this" → "I do not
+   *(call 32, with `dell`: "I don't remember this" → "yes yes yes"; call 73: "I feel good" → "80% wasted"; call 74: "I remember all of this" → "I do not
    remember")*
 
 4. **Credit direction.** For each success, who gets credit? For each failure, who gets the blame?

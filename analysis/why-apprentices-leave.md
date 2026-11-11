@@ -334,7 +334,7 @@ Yar raised it: `sena`, `mira` and `tove` were all Black women, and he senses a h
 
 **Evidenced.**
 1. **The teacher asserted the pattern himself**, as an explanation: *"Other black apprentices [sena] & `mira` suffered exactly the same fate."* A category-level causal claim about three named people, offered as instruction.
-2. **A racialised register exists in the group.** Same teacher, Dec 2022, on employing people from outside the EU: *"especially from a fuck all place like Africa."* `tove` was also, in her final weeks, working through a self-description about *"a typical representation of an average black woman"* — language she uses about herself after two years in the group, and which nobody questioned.
+2. **A racialised register exists in the group.** Same teacher, Dec 2022, on employing people from outside the EU: *"especially from a fuck all place like Africa."* A second instance, on a call, came while `dell` was describing his Namibian visa, the country where `tove` is a citizen: *"who the [__] would want to live in a [__] old place like Africa anyway"*, *"the white man steals… well done Germans"*, *"if a guy is going to allow himself to get [__] then every predator should join in"* (call 32, 2024-09-21, `00:27:34`–`00:28:39`, caption tier). Neither remark is about her, and neither shows how she was treated. They establish the register, not its effect. `tove` was also, in her final weeks, working through a self-description about *"a typical representation of an average black woman"* — language she uses about herself after two years in the group, and which nobody questioned.
 3. **The penalty escalation applied to `tove` is the harshest in the archive** — £200 then £350 per essay, *"for you specifically"*, against £50 as the standing rate for others.
 4. **Two of the three cases share an identical exit mechanism**, verified independently of the teacher's claim.
 
@@ -360,6 +360,13 @@ Her exit is the least ambiguous in the archive. She had borrowed against apprent
 Her answer thanked him for *"the gift of the apprenticeship & your patience."* Her last message is 2023-08-31. **She was removed for inability to pay**, full stop — no essay ultimatum, no assessment of her practice.
 
 This makes the money hypothesis considerably stronger than the race hypothesis, and it also sharpens it: `tove` told the group in May 2025 that she had taken the call-centre job she disliked specifically *"to repay my debt for apprenticeship calls. To Nagual Anaam and [`dell`]"* — six months of work to clear apprenticeship debt. That job then consumed the time she was being penalised £200–350 per essay for not having. Two of the three cases are people selling assets or taking jobs to fund fees, and being removed when the funding failed.
+
+**Where the funding plan came from: call 32, 2024-09-21.** *(Caption tier: auto-captions, cleaned, not hand-checked. `yar` was on the call; `tove` was not.)* A year before her removal, the same job was turned down. `dell` reports a call-centre offer and that she *"will have nothing left to… do any healing train[ing]"*, and the teacher agrees: *"exactly"* (`00:35:51`–`00:36:25`). The plan was for `dell` to fund her. In the teacher's words, *"we knew that she's not going to be able to work, she'll probably be doing apprenticeship at some healer… and it'll be up to you to keep that going"* (`00:23:15`). By then `dell` was paying *"for [`tove`'s] apprenticeship… for everything"* on a two-day-a-week job and spending more each month than he earned (`00:19:10`). So the sequence is:
+- **Sep 2024:** the paid job is ruled out for the sake of her path with heart. Her partner covers the fees.
+- **May 2025:** she takes the call-centre job *"to repay my debt for apprenticeship calls. To Nagual Anaam and [`dell`]."*
+- **Sep–Nov 2025:** she is penalised £200–350 per essay for lacking the time that job took.
+
+Who agreed to the funding plan was itself disputed on the call. That dispute is logged in `frame-vs-evidence-log.md`. On the same call the teacher describes her to her partner, in her absence, as *"not that smart financially"* (`00:31:23`) and *"not in the real world"* (`00:40:37`).
 
 ### The enforcement does not track the submission record
 
