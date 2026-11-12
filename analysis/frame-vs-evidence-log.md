@@ -670,6 +670,44 @@ teacher's.
   is the one `tove` took in May 2025 to repay apprenticeship debt.
 - **Verdict:** **frame won**, by default, on an uncheckable dispute.
 
+### "1M organic views": a million that was ensured before release
+
+- **Sources:** TAC #32150 (2025-12-24). `yar`'s calls 44 (2025-06-14) and 54 (2025-12-04), caption
+  tier, `yar` on both. Public view statistics of the teacher's music channel, checked 2026-11-12.
+  The channel name is kept out of this repo because it carries his real artist name.
+- **The claim, to the group:** *"And this is how you do it – my latest song has officially
+  reached 1M **organic** views on YouTube!"* (#32150).
+- **His own words beforehand.**
+  - Call 54, on the song's release day, while teaching `yar` the mindset of success: *"This new
+    song is going to hit 1 million views. **We're ensuring that. We've already ensured that.** The
+    final pegs to that one were done yesterday"* (`00:48:09`). Then: *"Do you think there is any
+    way I can fail?"* (`00:50:14`).
+  - Call 44, six months earlier: *"…all you got to do is **boost those songs on Spotify, boost them
+    on YouTube**, boost them on Apple Music. It's easy to be famous… Money equals success"*
+    (`00:25:34`).
+- **The public numbers fit paid promotion.** Five music videos (2025–26) have 1.0–1.5M views
+  each. Every other video on the channel (teasers, behind-the-scenes, endorsement clips by named
+  celebrities, older covers) has 80–730. The channel has about 6,200 subscribers. The music videos
+  get 61–119 comments each (one shows 1,000). Every release lands at about the same million. Real
+  likes and varied comments point to ad-served views to real people, not bots.
+- **Why "organic" is false:** YouTube's own analytics report ad views under a separate traffic
+  source, "YouTube advertising". The only reading that rescues the word is promoter jargon, where
+  "organic" means "real humans, not bots". That sits badly with *"I have extensive experience in
+  the music industry"* (call 54).
+- **What it was used to teach:** in call 54 the lesson was confidence of vision (*"without
+  confidence in your vision, you've got nothing"*). The budget behind the outcome was not part of
+  it. This is the "successful success" pattern in `rev-ike.md` §6: visible success is presented
+  as the product of the method, and the money behind it stays out of view.
+- **Rough economics, for scale only** (Claude's order-of-magnitude estimate, not data): YouTube ad
+  views in India cost about ₹0.1–1 each, so ₹1–6 lakh ($1–7k) per million. Monetised Indian views
+  return about $0.2–1 per thousand. A paid million is a cost, not an income. Funding art from other
+  income is legitimate. The point is only that the result was presented as organic.
+- **Fairness:** buying promotion is normal and legal, and the music may be genuinely good. Nothing
+  here is about the songs. The finding is narrow: a paid result was presented to apprentices as an
+  organic one, and as proof of a mindset.
+- **Verdict:** **frame won** in the telling. The evidence was available to the teacher before he
+  made the claim.
+
 ## Open items
 
 - **"Everyone is working for themselves now"** (call 76, `00:34`). The teacher gave universal
