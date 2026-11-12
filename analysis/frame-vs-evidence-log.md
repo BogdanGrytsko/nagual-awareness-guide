@@ -702,6 +702,25 @@ teacher's.
   views in India cost about ₹0.1–1 each, so ₹1–6 lakh ($1–7k) per million. Monetised Indian views
   return about $0.2–1 per thousand. A paid million is a cost, not an income. Funding art from other
   income is legitimate. The point is only that the result was presented as organic.
+- **The "after the ads stop" test (2026-11-13):** the song in the claim was released 2025-12-04
+  and announced at 1M on 2025-12-24, after 20 days. On 2026-11-12 it has **1,014,805**. That's about
+  **15,000 views in the 11 months since**. A million in three weeks, then almost nothing, is the
+  signature of a campaign with no organic tail. Promotion done well uses paid views as a test: spend
+  small, measure retention, saves, shares and views earned after the ads, and scale only the songs
+  that keep growing once the spend stops. Here the target was the number itself (*"This song's
+  going to hit 1 million views. We're ensuring that"*). That means buying the vanity metric
+  directly, with no validated learning.
+- **Repeated, not learned from:** five releases in 2025–26 (four chapters of one series, then a
+  duet) each stop at about 1.0–1.5M, while the teaser for the next release gets 147 views. The same
+  milestone was bought each time, and nothing visible changed between releases.
+- **No one with skin in the game:** *"I wanted a team of top people working for me"* (call 54).
+  The music director, lyricists, singers, video and promotion are all paid vendors. They are paid
+  whether or not a song connects, and the milestone is delivered because it was ordered. Compare a
+  game publisher, who funds a release only after a cheap test shows that players are worth more
+  than they cost to acquire, and earns only if the game earns. In this setup nobody has a reason to
+  report "the market isn't biting". The bought number hides the missing signal, and the applause in
+  TAC adds to it. It is the same gap seen elsewhere in this log: nothing from outside can tell him
+  he is wrong.
 - **Fairness:** buying promotion is normal and legal, and the music may be genuinely good. Nothing
   here is about the songs. The finding is narrow: a paid result was presented to apprentices as an
   organic one, and as proof of a mindset.
