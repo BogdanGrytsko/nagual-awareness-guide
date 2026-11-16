@@ -185,3 +185,95 @@ contains two items about the visit that the sections above do not have:
 
 Item 1 under "Data to pull next" is now done for call 73. Calls 72, 74 and 75 contain no further
 mention of the visit, and no record of the objection.
+
+## Couples in the apprenticeship: `vela` and `N1`
+
+**Source:** `vela`'s essay *"In love with selfishness, greed and mediocrity"*, posted in TAC on
+2026-11-15 as msg 36858 ([link](https://t.me/c/1351431623/36858), visible to members only). It is
+not archived here; the full text is in the private docs folder. Her partner is `N1` (`M.` in her
+August essay), who joined TAC as an apprentice around 2026-10-21 after she invited him
+(see `prediction-2026-11-06-abundance.md`). This is the first case on record where both people
+in a couple are apprentices and the teacher steps into the relationship itself.
+
+**What happened, in her own account.** In September she broke the couple's agreement to be
+monogamous, with someone she met at a training (`D.`). She reported it to the teacher. On 12 Sep
+she wrote to him that she had been *"very, very selfish"* and that *"a huge side of me … really
+doesn't care"*. His reply is the title: *"The real problem isn't the problem itself - it's the
+lack of urgency in becoming better. If I hadn't pointed it out, would you have bothered to bring
+it to me? … Low effort living. In love with selfishness, greed and mediocrity. This is a
+character weakness. Needs work."* Two months of what she calls a "rollercoaster" followed. On
+2026-11-14 the teacher held a three-way call with the couple, and she credits him with *"the best
+possible way forward"* and with *"helping to create the best possible agreement on sexuality"*
+for the two of them.
+
+**Three things worth recording.**
+
+1. **The teacher advised on the wrong premise, and the apprentice takes all of the
+   blame.** She never told him the relationship was monogamous, so *"all the recommendations
+   which [the teacher] gave me were tailored to me having an agreement of an open relationship"*.
+   She noticed some of the advice was surprising but did not question it: *"[he] surprises me the
+   whole of the time, so I wasn't surprised that he surprised me."* **The TAC record mostly backs
+   her up, with one qualification.** Before the breach, the monogamy was never stated in TAC or in
+   any of her essays (searched April 2025 to October 2026). It appears exactly once, on
+   2026-10-08 (msg 35712), in answer to a question about polyamory: *"I have been in a monogamous
+   relationship with [N1] so far (1 year) … we have had the agreement of not having intercourse
+   with others. However now at [the training] again, it has become obvious to me that the current settings
+   don't work for me longterm."* That was about ten days after the training where the breach
+   happened, and it presents the agreement as still in force and non-monogamy as a future
+   conversation. The teacher is a member of the group, so the fact was on record while he was
+   advising her. Nothing shows he read it, and he did not reply to it. Her reading is entirely about
+   herself (*"Fucking bullshit from my side"*, *"no excuses"*). The essay never asks whether an
+   adviser should check the basic terms of a relationship before advising on it. That is the same
+   absorption pattern pre-registered for `wren` above: an error in the method is filed as a flaw
+   in the student. Here it has happened, not just been predicted.
+2. **The way forward is mostly giving more, and it is now judged by the teacher's frame.** The
+   new rule is *"give more to the garden than we take"* (his words, quoted on the 11-14 call). Her
+   evidence is one dinner, and she overrides her own fairness instinct to get there: the thought
+   *"then you're in the kitchen for a couple of hours and he's not. That's not fair"* is laughed
+   off (*"No way that I would let that prevail!"*). In this case she is the one who broke the
+   agreement, so giving more is a reasonable repair. But "give more than you take, and ignore the
+   voice that counts fairness" is a rule worth watching if it is later applied to the other
+   partner or to other couples.
+3. **The teacher now sits inside the couple's agreement on sexuality.** Both partners are his
+   apprentices. The essay is effusive about it (*"This is just worth gold"*,
+   repeated thanks). Set this beside the self-adjudicated standard above: when a third party
+   designs a couple's sexual agreement, who checks whether the agreement serves the couple or the
+   frame?
+
+**Fairness rules.** Their relationship is their business. By her own account the couple is now
+in a better place, she says the help was what she needed, and she was the one who broke the
+agreement. She also credits the teacher with spotting something she had missed (that she never
+mentioned the monogamy), and that is real help. The finding is about structure, not conduct: the
+student carries the cost of the adviser's missing information, and nobody outside the frame
+reviews the advice.
+
+**A date that does not fit.** The essay dates her *"broken agreement"* message to the teacher
+**12 Sep**. But the training where she met `D.` ran 20–27 Sep (msg 35605), and she dates the
+turmoil to *"the end of September"*. Either the date is a typo or something happened earlier.
+Unresolved.
+
+**Omission or oversight? `yar`'s read, participant tier.** She says the agreement *"never even
+crossed my mind"* while she was telling the teacher about `D.` `yar` judges, at about 95%, that it
+was withheld, not forgotten. His reasons: the record shows no written statement of the monogamy
+anywhere before the breach. She has hidden relationship facts from the teacher before, for the
+reason she gives again here (fear of his verdict). And the teacher himself has held her up, on a
+call `yar` attended, as the apprentice most invested in inner silence and expanding awareness,
+which makes "it slipped through my awareness" a weak account of the one fact that mattered
+most. **The other reading has to stay next to it:** she describes real overwhelm at the time, and
+people under acute stress do drop things that matter. The record cannot tell the two apart. Only
+her messages to the teacher from that time could, and they are not available. Either way, finding
+1 stands: the essay files the gap as her flaw and never asks what it cost the advice.
+
+**Earlier history (her essays and TAC, 2025–26).** The teacher had advised against this
+relationship before it was one. In late 2025 he recommended no relationship for two years so
+she could focus on her dance career (msg 31863). She then wrote, on 2025-12-02, *"I have been
+hiding from [the teacher] that I have kept on meeting [N1]"*, comparing it to hiding things from
+the elders in her former church. In February 2026 she described *"fear of his disapproval or even
+condemnation"* as the reason she had not asked him about romance. So this is the second time
+she has kept relationship facts from him, and both times she gives fear of his verdict as the
+reason. That bears on finding 1: what the adviser was not told is partly shaped by how his
+verdicts are received.
+
+**Check next.** Whether the agreement made on 11-14 is described anywhere (an essay by `N1`, a
+TAC message, a call); whether `N1`'s account matches hers; and whether the "give more than you
+take" rule turns up again for other couples.
