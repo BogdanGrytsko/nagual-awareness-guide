@@ -12,7 +12,27 @@ Started 2026-11-12. The format is a 5-minute timer, Yar speaks, about 650–700 
 - Opener for the origin: "He started at 14 as a faith healer, pouring oil on people in
   wheelchairs, and only switched to money in his thirties, when money sold better."
 
-## Shape (draft)
+## Plan v2 (2026-11-15), about 8 minutes
+
+Spine: his own test, "If success and prosperity aren't added onto you, something is wrong with
+your religion", applied three times: to his followers, to my father, to me.
+
+0. Hook (0:30): the line, a pause, "I'm going to apply it three times."
+1. Who he was (1:00): faith healer at 14; switched to money when it sold better; Harlem, the
+   palace, 1,700 stations, the Rolls-Royces.
+2. The spiritual teaching, steelmanned (1:30): God within; I Am; prayer as feeling; suffering is
+   not holy ("people were already in hell… needed a way out"); worthy. Why it landed: permission
+   and dignity.
+3. The money teaching vs. me (1:00): money is good; circulate; pie now. Me: never lacked;
+   accumulate; delay bought the house and the way out. "His pie now was paid by his followers'
+   later."
+4. The business model, test #1 (1:15): the transaction; the mail-outs; the DA; the church
+   shield; "proven only for him".
+5. My father, test #2 (1:45): the model from the other side; hope; never doctors; 48; life after.
+6. His death (0:45): "God in me is my health"; 72 / 74; the escape loop.
+7. What I keep, test #3 (1:00): keep / drop / way forward. Memorized last line.
+
+## Shape (old draft)
 
 1. Hook: one phrase, then a pause.
 2. Faith healer at 14, then the switch to money (one sentence).
