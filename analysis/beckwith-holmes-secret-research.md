@@ -265,7 +265,7 @@ Sources:
 ## 4. Video analysis: *Super Soul Sunday* S7E15, "Living with Intention" (2026-10-26)
 
 - **Source:** https://youtu.be/e9ocPP_eiuU (OWN, 42 min, Oprah interviews Beckwith)
-- **Transcript:** `E:\TNZPromotion\yt_e9ocPP\transcript.txt` (YouTube auto-captions: "Fanny yamer" =
+- **Transcript:** `yt-transcripts/external/oprah-beckwith-e9ocPP_eiuU/transcript.txt` (YouTube auto-captions: "Fanny yamer" =
   Fannie Lou Hamer, "morous college" = Morehouse College)
 - Planned use: the user's first essay, on **falsifiability**.
 
