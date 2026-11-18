@@ -11,7 +11,10 @@
 
 Snapshot taken 2026-11-19: 403 uploads, 388 with captions. The 15 without are clips under 2:20.
 
-To rebuild (the raw VTT stays outside the repo):
+`raw-vtt/` contains the raw caption files: `<id>.<lang>.vtt` (771 files; `en-orig` is the original track and is preferred) plus
+`flat.tsv` / `meta.tsv` / `urls.txt`. To rebuild `tnz/` and `index.tsv`, run `python -I scripts/build_yt_index.py yt-transcripts/raw-vtt`.
+
+To refresh from the channel:
 
 ```
 yt-dlp --flat-playlist --print "<kind>\t%(id)s\t%(title)s\t%(duration_string)s" <channel>/<kind>   > flat.tsv
