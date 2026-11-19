@@ -50,12 +50,13 @@ between the teacher and `yar`'s family (calls 70, 71 and 74); `yar`'s wife's bod
 | 75 | 2026-10-02 | 7/8 | 2:04:16 | fenn's dependency on calls ("fly your own kite"); fenn's comedy group; yar's boxing coach; wife, dogs, Happy Wife School |
 | 76 | 2026-10-25 | 8/8 | 2:08:01 | blue belt; feeling; the slapping; parenting; "apprenticeship 2.0" and weekly calls; spiritual-framework homework |
 | 77 | 2026-11-04 | 1/8 | 2:37:30 | call 76 homework not started; the essay dispute; Old Testament sampling; "you need weekly" |
+| 79 | 2026-11-18 | 3/8 | 2:44:09 | fenn's "bouncer" self-description; leading his comedy group; I Ching hexagram 1; "godless children of Saturn"; yar's family leadership (wife's episode redacted); "you're not here to question… a complete tyranny"; Beckwith essays reassigned ×3 |
 
 Dates are YouTube upload dates. \*Call 73 was probably recorded on Thursday 2026-09-03: `[fenn]`
 says "today is… Thursday".
 
 Video IDs, for re-fetching: 70 `5ViBEze487k`, 71 `vWL0bZZn-mo`, 72 `SG3W1HPDd9k`, 73 `EKOeCVzK6J8`, 74 `ZzsYu1ISEeU`, 75 `He9GWW6VIWk`,
-76 `XQGXFBB3-4w`, 77 `3cgI76jN5LE`.
+76 `XQGXFBB3-4w`, 77 `3cgI76jN5LE`, 79 `0GTbdN9VkVk` (call 78 not processed yet).
 
 To process a call: fetch the `en-orig` VTT with yt-dlp into `tg-private/personal-calls/`, run
 `python -I scripts/process_call.py <vtt> private-calls/call-NN-YYYY-MM-DD-XofY`, then grep for

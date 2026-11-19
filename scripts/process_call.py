@@ -57,6 +57,13 @@ ALIASES = [
     (B + r"Sophie" + B, "[tove's daughter]"),
     (B + r"(?:Avianna|Aviana|Ariana)" + B, '[isla]'),
     (B + r"Magnus" + B, '[a colleague]'),
+    # call 79: other apprentices named in passing; "at Kate" is a garble of "ate"; "St." = fenn
+    (r"(?<=what )Asia(?= called)", '[name]'),
+    (B + r"Wolverina" + B, '[name]'),
+    (B + r"May and Dan" + B, '[name] and [name]'),
+    (r"at Kate" + B, 'ate'),
+    (r"having her panic attack", 'having [redacted: medical episode]'),
+    (r"(?<=\] )St\.(?= Did you notice)", '[fenn].'),
     # named in passing, identity not established
     (B + r"(?:Ala|Ela|Ella|Maya|Dwan|Christine|Lona|Lana|Cau|Yara|David|Andy|Justin)" + B, '[name]'),
 ]
@@ -74,6 +81,11 @@ REDACTIONS = {
                  ('block', '01:56:50', '01:57:33', "[redacted: third parties' finances]"),
                  ('amounts', '01:13:00', '02:08:00', '[amount]')],
     'call-73-': [('block', '00:11:07', '00:11:13', '[redacted: family medical]')],
+    'call-79-': [('block', '00:01:53', '00:02:07', "[redacted: a third party's medical appointment]"),
+                 ('block', '00:34:16', '00:34:27', "[redacted: a third party's private details]"),
+                 ('block', '00:48:14', '00:48:21', "[redacted: a third party's private details]"),
+                 ('block', '01:12:56', '01:48:44', "[redacted: yar's wife - medical episode and private context]"),
+                 ('block', '02:21:12', '02:25:24', "[redacted: yar's wife - medical follow-up]")],
     'call-74-': [('block', '00:33:42', '00:35:16', "[redacted: fenn's personal finances]"),
                  ('block', '00:36:26', '00:36:50', "[redacted: financial arrangements between the teacher and yar's family]"),
                  ('amounts', '00:30:00', '00:44:00', '[amount]')],
